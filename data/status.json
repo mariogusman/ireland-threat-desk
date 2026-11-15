@@ -1,0 +1,906 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-15T23:30:20.910Z",
+  "sources": {
+    "met": {
+      "id": "met",
+      "name": "Met Éireann",
+      "kind": "weather",
+      "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
+      "home": "https://www.met.ie/warnings-today.html",
+      "ok": true,
+      "checkedAt": "2026-11-15T23:30:20.910Z",
+      "fetchedAt": "2026-11-15T23:30:20.910Z",
+      "items": [
+        {
+          "id": "2.49.0.1.372.0.261115213419.23c3fc4a-aac5-415f-a30f-cb04f735079d",
+          "title": "Status Yellow - Wind and Rain warning for Cork, Waterford",
+          "description": "Spells of heavy rain along with strong and gusty southeast winds. Be aware of potential impacts: Difficult travelling conditions Localised flooding possible Poor visibility Debris, loose objects displaced",
+          "level": "yellow",
+          "types": [
+            "Wind",
+            "Rain"
+          ],
+          "onset": "2026-11-16T13:00:00+00:00",
+          "expiry": "2026-11-16T23:59:00+00:00",
+          "issued": "2026-11-15T21:34:19.636917+00:00",
+          "url": "https://www.met.ie/warnings-today.html"
+        },
+        {
+          "id": "2.49.0.1.372.0.261115213133.f956cd17-409c-4e0b-8f37-1798caebd4b3",
+          "title": "Rain and Wind warning for Kerry",
+          "description": "Spells of heavy rain along with strong and gusty southeasterly winds. Be aware of potential impacts: Debris, loose objects displaced Difficult travelling conditions Localised flooding possible",
+          "level": "yellow",
+          "types": [
+            "Wind",
+            "Rain"
+          ],
+          "onset": "2026-11-16T13:00:00+00:00",
+          "expiry": "2026-11-16T23:59:00+00:00",
+          "issued": "2026-11-15T21:31:33.646077+00:00",
+          "url": "https://www.met.ie/warnings-today.html"
+        },
+        {
+          "id": "2.49.0.1.372.0.261115213054.9dd09f4b-c5d5-481f-a900-e09aace40323",
+          "title": "Status Yellow - Wind and Rain warning for Galway, Mayo, Sligo",
+          "description": "Spells of heavy rain along with strong and gusty southeast winds. Be aware of potential impacts: Debris, loose objects displaced Difficult driving and cycling conditions Localised flooding possible",
+          "level": "yellow",
+          "types": [
+            "Wind",
+            "Rain"
+          ],
+          "onset": "2026-11-16T15:00:00+00:00",
+          "expiry": "2026-11-17T04:00:00+00:00",
+          "issued": "2026-11-15T21:30:54.154755+00:00",
+          "url": "https://www.met.ie/warnings-today.html"
+        }
+      ]
+    },
+    "ncsc": {
+      "id": "ncsc",
+      "name": "NCSC Ireland",
+      "kind": "cyber",
+      "url": "https://www.ncsc.gov.ie/news/alerts.rss",
+      "home": "https://www.ncsc.gov.ie/news/",
+      "ok": true,
+      "checkedAt": "2026-11-15T23:30:20.910Z",
+      "fetchedAt": "2026-11-15T23:30:20.910Z",
+      "items": [
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
+          "title": "New Vulnerabilities in Refrigeration Controllers",
+          "url": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
+          "summary": "",
+          "published": "2026-11-13T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2611130282_Multiple_Vulnerabilities_in_Citrix_NetScalerADC_and_NetScalerGateway.pdf",
+          "title": "Critical vulnerabilities in Citrix NetScaler Gateway & ADC",
+          "url": "https://www.ncsc.gov.ie/pdfs/2611130282_Multiple_Vulnerabilities_in_Citrix_NetScalerADC_and_NetScalerGateway.pdf",
+          "summary": "",
+          "published": "2026-11-13T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2611120264_CVE-2026-119618.pdf",
+          "title": "Critical RCE Vulnerability in Apache HTTP Server (CVE-2026-119618)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2611120264_CVE-2026-119618.pdf",
+          "summary": "",
+          "published": "2026-11-12T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2611090259_CVE-2026-123158.pdf",
+          "title": "OpenBSD: OpenSSH-Server Password Authentication Bypass (CVE-2026-123158)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2611090259_CVE-2026-123158.pdf",
+          "summary": "",
+          "published": "2026-11-09T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2611020249_Danfoss-Advisory.pdf",
+          "title": "Refrigeration_Security-2611020249",
+          "url": "https://www.ncsc.gov.ie/pdfs/2611020249_Danfoss-Advisory.pdf",
+          "summary": "",
+          "published": "2026-11-03T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610281063_CVE-2026-98432.pdf",
+          "title": "Critical vulnerabilities in Linux (TCP Flaw) (CVE-2026-98432)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610281063_CVE-2026-98432.pdf",
+          "summary": "",
+          "published": "2026-10-30T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610281061_CVE-2026-84295_CVE-2026-90868.pdf",
+          "title": "Critical vulnerabilities in Progress Software:WS_FTP Server (CVE-2026-84295 and CVE-2026-90868)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610281061_CVE-2026-84295_CVE-2026-90868.pdf",
+          "summary": "",
+          "published": "2026-10-30T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610230250_CVE-2026-110264.pdf",
+          "title": "Critical Vulnerability in GitLab Community Edition (CE) and Enterprise Edition (EE) (CVE-2026-110264)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610230250_CVE-2026-110264.pdf",
+          "summary": "",
+          "published": "2026-10-23T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610210276_CVE-2026-109618_CVE-2026-109619.pdf",
+          "title": "Critical RCE Vulnerabilities in PHP (CVE-2026-109618 and CVE-2026-109619)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610210276_CVE-2026-109618_CVE-2026-109619.pdf",
+          "summary": "",
+          "published": "2026-10-21T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610200276_CVE-2026-102764.pdf",
+          "title": "Critical Vulnerability Authentication Bypass in BeyondTrust Remote Support (CVE-2026-102764)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610200276_CVE-2026-102764.pdf",
+          "summary": "",
+          "published": "2026-10-20T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610150240_CVE-2026-76519.pdf",
+          "title": "Critical Vulnerability in Cisco Secure Email Gateway (CVE-2026-76519)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610150240_CVE-2026-76519.pdf",
+          "summary": "",
+          "published": "2026-10-15T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610130333_CVE-2026-104935.pdf",
+          "title": "Critical Vulnerability in Ivanti Connect Secure (CVE-2026-104935)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610130333_CVE-2026-104935.pdf",
+          "summary": "",
+          "published": "2026-10-13T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610090281_CVE-2026-107406.pdf",
+          "title": "Critical Vulnerability in Citrix NetScaler ADC and Gateway (CVE-2026-107406)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610090281_CVE-2026-107406.pdf",
+          "summary": "",
+          "published": "2026-10-09T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610070242_CVE-2026-102255.pdf",
+          "title": "Critical Vulnerability in SonicWall:SMA1000 (CVE-2026-102255)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610070242_CVE-2026-102255.pdf",
+          "summary": "",
+          "published": "2026-10-07T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610060236_CVE-2026-21589.pdf",
+          "title": "Critical Arbitrary File Access Vulnerability impacting Multiple Atlassian Products (CVE-2026-21589)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610060236_CVE-2026-21589.pdf",
+          "summary": "",
+          "published": "2026-10-06T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610050267_CVE-2026-88779.pdf",
+          "title": "Vulnerability in Citrix NetScaler ADC and Gateway (CVE-2026-88779)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610050267_CVE-2026-88779.pdf",
+          "summary": "",
+          "published": "2026-10-05T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610020234_CVE-2026-104286.pdf",
+          "title": "Critical vulnerability in Fortinet: FortiMail (CVE-2026-104286)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610020234_CVE-2026-104286.pdf",
+          "summary": "",
+          "published": "2026-10-02T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2610010256_CVE-2026-76504.pdf",
+          "title": "Critical vulnerability in Cisco Catalyst SD-WAN Manager (CVE-2026-76504)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2610010256_CVE-2026-76504.pdf",
+          "summary": "",
+          "published": "2026-10-01T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2609270214_Multiple_Citrix_Vulns.pdf",
+          "title": "Critical vulnerabilities in Citrix NetScaler Gateway & ADC",
+          "url": "https://www.ncsc.gov.ie/pdfs/2609270214_Multiple_Citrix_Vulns.pdf",
+          "summary": "",
+          "published": "2026-09-27T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2609230326_CVE-2026-94127.pdf",
+          "title": "Critical vulnerability in F5: BIG-IP APM",
+          "url": "https://www.ncsc.gov.ie/pdfs/2609230326_CVE-2026-94127.pdf",
+          "summary": "",
+          "published": "2026-09-23T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2609230327_CVE-2026-93952.pdf",
+          "title": "Critical vulnerability in Arista Networks: VeloCloud Orchestrator (VCO) On-Prem",
+          "url": "https://www.ncsc.gov.ie/pdfs/2609230327_CVE-2026-93952.pdf",
+          "summary": "",
+          "published": "2026-09-23T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2609180207_CVE-2026-76460.pdf",
+          "title": "Critical vulnerabilities in Cisco ISE Passive Identity Connector and Cisco Identity Services Engine",
+          "url": "https://www.ncsc.gov.ie/pdfs/2609180207_CVE-2026-76460.pdf",
+          "summary": "",
+          "published": "2026-09-18T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2609100236_CVE-2026-85102_CVE-2026-85103.pdf",
+          "title": "Critical vulnerabilites in Check Point: Quantum Security Gateway & Quantum Security Management",
+          "url": "https://www.ncsc.gov.ie/pdfs/2609100236_CVE-2026-85102_CVE-2026-85103.pdf",
+          "summary": "",
+          "published": "2026-09-11T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2609100238_CVE-2026-67401.pdf",
+          "title": "Critical Vulnerability in WebPros: cPanel/WHM (CVE-2026-67401)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2609100238_CVE-2026-67401.pdf",
+          "summary": "",
+          "published": "2026-09-10T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2609100235_CVE-2026-84869.pdf",
+          "title": "Critical Vulnerability in ConnectWise ScreenConnect (CVE-2026-84869)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2609100235_CVE-2026-84869.pdf",
+          "summary": "",
+          "published": "2026-09-10T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2609080247_CVE-2026-75650.pdf",
+          "title": "Critical Vulnerability in Adobe Commerce, Adobe Commerce B2B and Magento Open Source (CVE-2026-75650)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2609080247_CVE-2026-75650.pdf",
+          "summary": "",
+          "published": "2026-09-08T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2609070233_CVE-2026-67276_86060_67277.pdf",
+          "title": "Critical Vulnerbilities in Mikrotik: RouterOS (CVE-2026-67276, CVE-2026-86060 and CVE-2026-67277)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2609070233_CVE-2026-67276_86060_67277.pdf",
+          "summary": "",
+          "published": "2026-09-07T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2609020277_CVE-2026-81578_CVE-2026-82078.pdf",
+          "title": "Zero-Day Vulnerabilities in PaperCut MF/NG (CVE-2026-81578, CVE-2026-82078)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2609020277_CVE-2026-81578_CVE-2026-82078.pdf",
+          "summary": "",
+          "published": "2026-09-02T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2608250239_CVE-2026-74480.pdf",
+          "title": "Critical Linux Kernel Network Bridge Vulnerability (CVE-2026-74480)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2608250239_CVE-2026-74480.pdf",
+          "summary": "",
+          "published": "2026-08-25T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2608250242_CVE-2026-18963.pdf",
+          "title": "Critical Vulnerability in Redhat Keycloak (CVE-2026-18963)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2608250242_CVE-2026-18963.pdf",
+          "summary": "",
+          "published": "2026-08-25T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2608250237_CVE-2026-19478.pdf",
+          "title": "Critical Vulnerability in GitLab CE/EE (CVE-2026-19478)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2608250237_CVE-2026-19478.pdf",
+          "summary": "",
+          "published": "2026-08-25T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2608250238_CVE-2026-19598.pdf",
+          "title": "Critical Vulnerability exists in Wordpress Plugin: Pods – Custom Content Types and Fields (CVE-2026-19598)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2608250238_CVE-2026-19598.pdf",
+          "summary": "",
+          "published": "2026-08-25T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2608180217_CVE-2026-73570_Zimbra.pdf",
+          "title": "Serious vulnerability exists in Zimbra Collaboration (CVE-2026-73570)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2608180217_CVE-2026-73570_Zimbra.pdf",
+          "summary": "",
+          "published": "2026-08-18T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2608170215_CVE-2026-8452.pdf",
+          "title": "Critical vulnerability exists in Netscaler (CVE-2026-8452)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2608170215_CVE-2026-8452.pdf",
+          "summary": "",
+          "published": "2026-08-17T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2608140221_CVE-2026-59310.pdf",
+          "title": "Critical vulnerability exists in VMware (CVE-2026-59310)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2608140221_CVE-2026-59310.pdf",
+          "summary": "",
+          "published": "2026-08-14T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2607290226_CVE-2026-16723.pdf",
+          "title": "Critical vulnerability exists in Fastjson (CVE-2026-16723)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2607290226_CVE-2026-16723.pdf",
+          "summary": "",
+          "published": "2026-07-29T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2607210267_CVE-2026-2701_CVE-2026-2699.pdf",
+          "title": "Critical Vulnerbilities in Progress: ShareFile Storage Zones Controller (CVE-2026-2701 and CVE-2026-2699)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2607210267_CVE-2026-2701_CVE-2026-2699.pdf",
+          "summary": "",
+          "published": "2026-07-22T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2607200215_CVE-2026-53565_CVE-2026-53566.pdf",
+          "title": "Vulnerabilites in Citrix Secure Access Client for Windows and Citrix Endpoint Analysis Client for Windows",
+          "url": "https://www.ncsc.gov.ie/pdfs/2607200215_CVE-2026-53565_CVE-2026-53566.pdf",
+          "summary": "",
+          "published": "2026-07-20T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2607200218_CVE-2026-63030_CVE-2026-60137.pdf",
+          "title": "Multiple Vulnerabilities in WordPress Core (CVE-2026-63030_CVE-2026-60137)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2607200218_CVE-2026-63030_CVE-2026-60137.pdf",
+          "summary": "",
+          "published": "2026-07-20T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2607150243_CVE-2026-56164.pdf",
+          "title": "Critical Vulnerability exists in Microsoft SharePoint Server (CVE-2026-56164)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2607150243_CVE-2026-56164.pdf",
+          "summary": "",
+          "published": "2026-07-16T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2607150226_CVE-2026-15409_CVE-2026-15410.pdf",
+          "title": "Multiple Vulnerabilities in SonicWall: SMA1000 Series Appliances",
+          "url": "https://www.ncsc.gov.ie/pdfs/2607150226_CVE-2026-15409_CVE-2026-15410.pdf",
+          "summary": "",
+          "published": "2026-07-15T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2607140228_CVE-2026-44747.pdf",
+          "title": "Critical Memory Corruption Vulnerability in SAP NetWeaver Application Server ABAP (CVE-2026-44747)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2607140228_CVE-2026-44747.pdf",
+          "summary": "",
+          "published": "2026-07-14T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2607080262_CVE-2026-40138_CVE-2026-40139.pdf",
+          "title": "Critical Vulnerabilities exist in BeyondTrust Remote Support and Privileged Remote Access",
+          "url": "https://www.ncsc.gov.ie/pdfs/2607080262_CVE-2026-40138_CVE-2026-40139.pdf",
+          "summary": "",
+          "published": "2026-07-08T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2607070212_CVE-2026-48907_CVE-2026-48908.pdf",
+          "title": "Critical Vulnerabilities in Joomla Content Editor (JCE) and SP Page Builder Extension",
+          "url": "https://www.ncsc.gov.ie/pdfs/2607070212_CVE-2026-48907_CVE-2026-48908.pdf",
+          "summary": "",
+          "published": "2026-07-07T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2606180236_CVE-2026-20127.pdf",
+          "title": "Critical Vulnerability in Cisco Catalyst SD-WAN Manager",
+          "url": "https://www.ncsc.gov.ie/pdfs/2606180236_CVE-2026-20127.pdf",
+          "summary": "",
+          "published": "2026-06-19T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2606180233_CVE-2026-42530.pdf",
+          "title": "Mulitiple Serious Vulnerabilities in F5: NGINX Open Source",
+          "url": "https://www.ncsc.gov.ie/pdfs/2606180233_CVE-2026-42530.pdf",
+          "summary": "",
+          "published": "2026-06-19T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2606090209_CVE-2026-50751.pdf",
+          "title": "Critical Vulnerability in Checkpoint: Spark Firewalls, Quantum Security Gateway (CVE-2026-50751)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2606090209_CVE-2026-50751.pdf",
+          "summary": "",
+          "published": "2026-06-19T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/Fortinet-Fortibleed-180626.pdf",
+          "title": "Global Targeting of Fortinet Firewalls and VPN Gateways - Fortibleed",
+          "url": "https://www.ncsc.gov.ie/pdfs/Fortinet-Fortibleed-180626.pdf",
+          "summary": "",
+          "published": "2026-06-18T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2606160522_CVE-2026-48558.pdf",
+          "title": "SimpleHelp Authentication Bypass Critical Vulnerbility",
+          "url": "https://www.ncsc.gov.ie/pdfs/2606160522_CVE-2026-48558.pdf",
+          "summary": "",
+          "published": "2026-06-18T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2606160509_CVE-2026-45585.pdf",
+          "title": "Security Feature bypass in Windows OS(Multiple) - YellowKey",
+          "url": "https://www.ncsc.gov.ie/pdfs/2606160509_CVE-2026-45585.pdf",
+          "summary": "",
+          "published": "2026-06-18T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber"
+        }
+      ]
+    },
+    "journal": {
+      "id": "journal",
+      "name": "TheJournal.ie",
+      "kind": "news",
+      "url": "https://www.thejournal.ie/feed/",
+      "home": "https://www.thejournal.ie/",
+      "ok": true,
+      "checkedAt": "2026-11-15T23:30:20.910Z",
+      "fetchedAt": "2026-11-15T23:30:20.910Z",
+      "items": [
+        {
+          "id": "https://www.thejournal.ie/quiz-storms-7222253-Nov2026/",
+          "title": "Quiz: How much do you know about storms?",
+          "url": "https://www.thejournal.ie/quiz-storms-7222253-Nov2026/",
+          "summary": "Storm season is upon us.",
+          "published": "2026-11-15T22:00:33.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/press-secretary-trump-7196467-Nov2026/",
+          "title": "Just how many press secretaries has Trump had - and who could be next?",
+          "url": "https://www.thejournal.ie/press-secretary-trump-7196467-Nov2026/",
+          "summary": "Barack Obama had three press secretaries during his tenure, while George Bush had four.",
+          "published": "2026-11-15T21:00:21.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/evening-fix-15-november-2026-7227131-Nov2026/",
+          "title": "Here's What Happened Today: Sunday",
+          "url": "https://www.thejournal.ie/evening-fix-15-november-2026-7227131-Nov2026/",
+          "summary": "The most important Irish and international stories you need to know today.",
+          "published": "2026-11-15T20:30:10.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/uk-age-of-consent-7227266-Nov2026/",
+          "title": "UK facing calls to stagger age of consent to end 'abuse of power by powerful men'",
+          "url": "https://www.thejournal.ie/uk-age-of-consent-7227266-Nov2026/",
+          "summary": "Under UK law, adults of any age are legally able to have sex with 16 and 17-year-olds.",
+          "published": "2026-11-15T20:10:18.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/river/best-of-the-box-2483553-Nov2026/",
+          "title": "Best of the Box",
+          "url": "https://www.thejournal.ie/river/best-of-the-box-2483553-Nov2026/",
+          "summary": "Check out what we’re watching on TV this weekend.",
+          "published": "1970-01-01T00:00:00.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/readme/money-diaries-38-7224334-Nov2026/",
+          "title": "Christmas is coming! Want to be prepared? How about keeping a Money Diary for us?",
+          "url": "https://www.thejournal.ie/readme/money-diaries-38-7224334-Nov2026/",
+          "summary": "We want to hear from readers on how they are handling their finances right now.",
+          "published": "2026-11-15T20:00:00.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/starshield-ukraine-russian-drones-7227249-Nov2026/",
+          "title": "Zelenskyy urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+          "url": "https://www.thejournal.ie/starshield-ukraine-russian-drones-7227249-Nov2026/",
+          "summary": "The ‘protection of lives and Ukrainian energy infrastructure before winter depends’ on the restrictions being lifted, Volodymyr Zelenskyy said.",
+          "published": "2026-11-15T19:44:10.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/cork-university-hospital-hse-ceo-comments-7227205-Nov2026/",
+          "title": "CUH staff 'fearful' of attending meetings amid recording concerns, HSE chief says",
+          "url": "https://www.thejournal.ie/cork-university-hospital-hse-ceo-comments-7227205-Nov2026/",
+          "summary": "Anne O’Connor made the comments in an interview with RTÉ, in the first time she has spoken publicly since various controversies that have beset CUH.",
+          "published": "2026-11-15T18:56:48.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/man-found-dead-in-phoenix-park-identified-by-gardai-as-eastern-european-male-7226365-Nov2026/",
+          "title": "Man found dead in Phoenix Park named by gardaí",
+          "url": "https://www.thejournal.ie/man-found-dead-in-phoenix-park-identified-by-gardai-as-eastern-european-male-7226365-Nov2026/",
+          "summary": "Tomasz Robert Michowski (48) from Poland was found with suspected stab wounds in Phoenix Park on Friday morning.",
+          "published": "2026-11-15T18:04:00.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/river/daft-ie-property-magazine-2483547-Nov2026/",
+          "title": "DAFT.IE PROPERTY MAGAZINE",
+          "url": "https://www.thejournal.ie/river/daft-ie-property-magazine-2483547-Nov2026/",
+          "summary": "The perfect union of classic and contemporary style at this Ranelagh redbrick for €1,475,000",
+          "published": "1970-01-01T00:00:00.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/scotland-v-australia-result-2-7227190-Nov2026/",
+          "title": "Scotland grind out narrow Murrayfield win against Australia",
+          "url": "https://www.thejournal.ie/scotland-v-australia-result-2-7227190-Nov2026/",
+          "summary": "Scots move up to fourth in the Northern Hemisphere table ahead of next weekend’s final pool games.",
+          "published": "2026-11-15T17:27:55.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/czechia-public-media-funding-protests-7227143-Nov2026/",
+          "title": "Hundreds of thousands protest in Czechia over public-media funding overhaul",
+          "url": "https://www.thejournal.ie/czechia-public-media-funding-protests-7227143-Nov2026/",
+          "summary": "The government wants to switch from funding Czech TV and Czech Radio through licence fees paid by viewers and listeners to payments from the state budget.",
+          "published": "2026-11-15T17:19:38.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/man-serious-condition-tullamore-7227115-Nov2026/",
+          "title": "Man (70s) in serious condition following road collision in Tullamore",
+          "url": "https://www.thejournal.ie/man-serious-condition-tullamore-7227115-Nov2026/",
+          "summary": "A passenger in the car, a woman in her 70s, was medically assessed at the scene but did not require hospital treatment.",
+          "published": "2026-11-15T16:25:56.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/body-woman-20s-co-offaly-7227076-Nov2026/",
+          "title": "Body of woman (20s) found in Co Offaly",
+          "url": "https://www.thejournal.ie/body-woman-20s-co-offaly-7227076-Nov2026/",
+          "summary": "The woman was pronounced deceased at the scene.",
+          "published": "2026-11-15T15:59:09.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/daily-poll-christmas-presents-7227063-Nov2026/",
+          "title": "Have you bought your Christmas presents yet?",
+          "url": "https://www.thejournal.ie/daily-poll-christmas-presents-7227063-Nov2026/",
+          "summary": "It’s just over a month and a half until Christmas.",
+          "published": "2026-11-15T15:54:59.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/garda-m50-chase-compensation-7227043-Nov2026/",
+          "title": "Garda awarded €60k over M50 high-speed chase 'in which she could have lost her life'",
+          "url": "https://www.thejournal.ie/garda-m50-chase-compensation-7227043-Nov2026/",
+          "summary": "The garda was a member of the drugs squad and sustained her injuries in two accidents when pursuing suspected drug dealers.",
+          "published": "2026-11-15T14:53:13.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/trump-blames-biden-flight-disruption-7227001-Nov2026/",
+          "title": "Trump blames Biden administration for nationwide US flight disruption",
+          "url": "https://www.thejournal.ie/trump-blames-biden-flight-disruption-7227001-Nov2026/",
+          "summary": "The ground stop not only plunged US air travel into chaos, it also raised serious concerns about the country’s ageing infrastructure.",
+          "published": "2026-11-15T14:20:19.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/jeremy-edwards-david-walliams-comic-relief-7226974-Nov2026/",
+          "title": "Actor accuses David Walliams of ‘sexually humiliating’ him in Comic Relief sketch",
+          "url": "https://www.thejournal.ie/jeremy-edwards-david-walliams-comic-relief-7226974-Nov2026/",
+          "summary": "Former Hollyoaks star Jeremy Edwards had his trousers and pants pulled down in front of a theatre audience.",
+          "published": "2026-11-15T13:54:03.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/alleged-bus-hijacking-gunpoint-7226969-Nov2026/",
+          "title": "Man (30s) arrested after alleged attempt to hijack bus at gunpoint",
+          "url": "https://www.thejournal.ie/alleged-bus-hijacking-gunpoint-7226969-Nov2026/",
+          "summary": "The man will appear before Fermoy District Court in Co Cork on Monday.",
+          "published": "2026-11-15T13:50:31.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/world-day-of-remembrance-for-road-traffic-victims-7226932-Nov2026/",
+          "title": "Today is a day to remember those who have died on the roads",
+          "url": "https://www.thejournal.ie/world-day-of-remembrance-for-road-traffic-victims-7226932-Nov2026/",
+          "summary": "161 people have died on Irish roads so far this year – ten more than the same period in 2025.",
+          "published": "2026-11-15T13:36:43.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/andy-burnham-chatgpt-speech-7226947-Nov2026/",
+          "title": "Burnham writes 'most' of his speeches, Downing Street says after aide seen using ChatGPT",
+          "url": "https://www.thejournal.ie/andy-burnham-chatgpt-speech-7226947-Nov2026/",
+          "summary": "The clarification comes after an aide to the UK prime minister was photographed using ChatGPT to seek feedback on a speech.",
+          "published": "2026-11-15T13:31:36.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/big-renovation-clinic-2-7216589-Nov2026/",
+          "title": "Is it worth paying more for an SEAI-registered installer if the extra cost exceeds the grant?",
+          "url": "https://www.thejournal.ie/big-renovation-clinic-2-7216589-Nov2026/",
+          "summary": "Our resident quantity surveyor Shay Lally answers your big (and small) questions on renovating a home.",
+          "published": "2026-11-15T13:00:04.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/ellen-keane-bicycle-stolen-7226925-Nov2026/",
+          "title": "'She is really special to me' - Paralympian Ellen Keane issues appeal after custom bicycle stolen",
+          "url": "https://www.thejournal.ie/ellen-keane-bicycle-stolen-7226925-Nov2026/",
+          "summary": "Ellen Keane won a gold medal at the 2020 Paralympics in Tokyo and a bronze in Rio in 2016.",
+          "published": "2026-11-15T12:34:13.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/dp-world-championship-2-7226917-Nov2026/",
+          "title": "'He is recovering well, thankfully' - McIlroy dedicates Race to Dubai win to father Gerry",
+          "url": "https://www.thejournal.ie/dp-world-championship-2-7226917-Nov2026/",
+          "summary": "The back-to-back Masters champion edged out Eugenio Chacarra for the title.",
+          "published": "2026-11-15T12:05:12.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/hamas-commander-samir-abu-younis-killed-7226908-Nov2026/",
+          "title": "Senior Hamas commander killed in Israeli strike on Gaza",
+          "url": "https://www.thejournal.ie/hamas-commander-samir-abu-younis-killed-7226908-Nov2026/",
+          "summary": "Samir Abu Younis was a military leader who played a key role in planning Hamas’s 7 October 2023 attack on Israel.",
+          "published": "2026-11-15T12:01:41.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/met-eireann-weather-forecast-4-7226812-Nov2026/",
+          "title": "Frost and icy stretches forecast to spread overnight",
+          "url": "https://www.thejournal.ie/met-eireann-weather-forecast-4-7226812-Nov2026/",
+          "summary": "A rain warning for Cork and Waterford has been issued for Monday.",
+          "published": "2026-11-15T11:01:00.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/coddle-dublin-dish-irish-cuisine-7224898-Nov2026/",
+          "title": "Three castles boiling: Coddle weather is here",
+          "url": "https://www.thejournal.ie/coddle-dublin-dish-irish-cuisine-7224898-Nov2026/",
+          "summary": "The humble bowl of sausage soup they call “the widow’s memory” is calling to us.",
+          "published": "2026-11-15T10:00:09.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/iran-attack-bahrain-7226841-Nov2026/",
+          "title": "Blasts in Bahrain as Iran claims attack on US base",
+          "url": "https://www.thejournal.ie/iran-attack-bahrain-7226841-Nov2026/",
+          "summary": "After a lull in attacks, Bahrain has been targeted twice in three days.",
+          "published": "2026-11-15T09:25:00.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/sitdown-sunday-longreads-289-7220474-Nov2026/",
+          "title": "Sitdown Sunday: The lost habit of sleeping twice a day",
+          "url": "https://www.thejournal.ie/sitdown-sunday-longreads-289-7220474-Nov2026/",
+          "summary": "Settle down in a comfy chair with some of the week’s best longreads.",
+          "published": "2026-11-15T09:00:08.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/9-at-9-15-11-26-7226831-Nov2026/",
+          "title": "The 9 at 9: Sunday",
+          "url": "https://www.thejournal.ie/9-at-9-15-11-26-7226831-Nov2026/",
+          "summary": "Number of Irish citizens refused entry to Israel almost doubles, US flights to return to normal today, and frost and icy stretches forecast.",
+          "published": "2026-11-15T09:00:08.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/spacex-starship-catch-7226821-Nov2026/",
+          "title": "Elon Musk's SpaceX pulls off first-ever spaceship 'catch'",
+          "url": "https://www.thejournal.ie/spacex-starship-catch-7226821-Nov2026/",
+          "summary": "The Mechzilla catch demonstrates the full reusability of Starship, intended for Moon and Mars travel, according to SpaceX officials.",
+          "published": "2026-11-15T08:29:37.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/the-altruists-7224265-Nov2026/",
+          "title": "What you need to know about The Altruists on Netflix",
+          "url": "https://www.thejournal.ie/the-altruists-7224265-Nov2026/",
+          "summary": "The series stars Irish actor Anthony Boyle.",
+          "published": "2026-11-15T08:08:22.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/islamic-labour-party-ireland-muslim-only-website-internet-diaries-7225223-Nov2026/",
+          "title": "The mystery website claiming to belong to an Irish Muslim-only party that made international news",
+          "url": "https://www.thejournal.ie/islamic-labour-party-ireland-muslim-only-website-internet-diaries-7225223-Nov2026/",
+          "summary": "Our FactCheck editor details the internet trends seen by a thirtysomething-year-old man.",
+          "published": "2026-11-15T08:00:13.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/readme/ozempic-and-muscle-7222490-Nov2026/",
+          "title": "Weight loss drugs: Losing weight but also muscle? An orthopaedic surgeon’s take on GLP-1s",
+          "url": "https://www.thejournal.ie/readme/ozempic-and-muscle-7222490-Nov2026/",
+          "summary": "Losing weight can ease the pressure on arthritic joints, but protecting muscle strength is just as important. An orthopaedic surgeon explains why.",
+          "published": "2026-11-15T07:30:22.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/no-young-landlords-ireland-thejournal-7225551-Nov2026/",
+          "title": "Why aren't young Irish people becoming landlords?",
+          "url": "https://www.thejournal.ie/no-young-landlords-ireland-thejournal-7225551-Nov2026/",
+          "summary": "Being a landlord in Ireland is now very much an ‘old man’s game’ – so what are the factors behind this trend?",
+          "published": "2026-11-15T07:30:01.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/russell-brand-david-walliams-7221415-Nov2026/",
+          "title": "When will we actually learn from the revelations surfacing about powerful male celebrities?",
+          "url": "https://www.thejournal.ie/russell-brand-david-walliams-7221415-Nov2026/",
+          "summary": "Russell Brand did not recognise his behaviour as rape or sexual assault – but a court did.",
+          "published": "2026-11-15T06:30:38.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/irish-citizens-refused-entry-israel-7221379-Nov2026/",
+          "title": "Number of Irish citizens refused entry to Israel sharply rises after 7 October attacks",
+          "url": "https://www.thejournal.ie/irish-citizens-refused-entry-israel-7221379-Nov2026/",
+          "summary": "Around one in every 73 Irish people who has visited Israel this year has been refused entry.",
+          "published": "2026-11-15T00:05:48.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/niall-horan-dinner-party-music-quiz-7222240-Nov2026/",
+          "title": "How much do you know about Niall Horan?",
+          "url": "https://www.thejournal.ie/niall-horan-dinner-party-music-quiz-7222240-Nov2026/",
+          "summary": "Horan played four sold-out shows in Dublin as part of his Dinner Party tour this week.",
+          "published": "2026-11-14T22:00:19.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/politics-winners-losers-7223966-Nov2026/",
+          "title": "On cloud nine or stuck in the dog house? Here are the winners and losers of the political week",
+          "url": "https://www.thejournal.ie/politics-winners-losers-7223966-Nov2026/",
+          "summary": "Ireland was at the political centre this week, but who’s winning?",
+          "published": "2026-11-14T21:00:27.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.the42.ie/live-ireland-v-austria-nations-league-7226394-Nov2026/",
+          "title": "Austria v Ireland, Nations League",
+          "url": "https://www.the42.ie/live-ireland-v-austria-nations-league-7226394-Nov2026/",
+          "summary": "Ireland faced Austria as they sought to earn their second win of the campaign.",
+          "published": "2026-11-14T20:43:51.000Z",
+          "source": "journal",
+          "kind": "news"
+        }
+      ]
+    },
+    "rte": {
+      "id": "rte",
+      "name": "RTÉ News",
+      "kind": "news",
+      "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
+      "home": "https://www.rte.ie/news/ireland/",
+      "ok": false,
+      "checkedAt": "2026-11-15T23:30:20.910Z",
+      "fetchedAt": null,
+      "error": "HTTP 403",
+      "items": []
+    }
+  }
+}

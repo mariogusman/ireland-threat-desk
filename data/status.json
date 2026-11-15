@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T23:30:20.910Z",
+  "generatedAt": "2026-11-15T23:41:07.996Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-15T23:30:20.910Z",
-      "fetchedAt": "2026-11-15T23:30:20.910Z",
+      "checkedAt": "2026-11-15T23:41:07.996Z",
+      "fetchedAt": "2026-11-15T23:41:07.996Z",
       "items": [
         {
           "id": "2.49.0.1.372.0.261115213419.23c3fc4a-aac5-415f-a30f-cb04f735079d",
@@ -63,8 +63,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-15T23:30:20.910Z",
-      "fetchedAt": "2026-11-15T23:30:20.910Z",
+      "checkedAt": "2026-11-15T23:41:07.996Z",
+      "fetchedAt": "2026-11-15T23:41:07.996Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
@@ -525,8 +525,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-15T23:30:20.910Z",
-      "fetchedAt": "2026-11-15T23:30:20.910Z",
+      "checkedAt": "2026-11-15T23:41:07.996Z",
+      "fetchedAt": "2026-11-15T23:41:07.996Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/quiz-storms-7222253-Nov2026/",
@@ -896,11 +896,461 @@
       "kind": "news",
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
-      "ok": false,
-      "checkedAt": "2026-11-15T23:30:20.910Z",
-      "fetchedAt": null,
-      "error": "HTTP 403",
-      "items": []
+      "ok": true,
+      "checkedAt": "2026-11-15T23:41:07.996Z",
+      "fetchedAt": "2026-11-15T23:41:07.996Z",
+      "items": [
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1115/1599299-offaly-death/",
+          "title": "Investigation after body of woman, 20s, found in Offaly",
+          "url": "https://www.rte.ie/news/ireland/2026/1115/1599299-offaly-death/",
+          "summary": "An investigation is under way into the death of a woman whose body was found in Co Offaly.",
+          "published": "2026-11-15T15:53:15.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1115/1599280-cork-bus-hijacking/",
+          "title": "Man held after allegedly pulling fake gun on bus driver",
+          "url": "https://www.rte.ie/news/ireland/2026/1115/1599280-cork-bus-hijacking/",
+          "summary": "Gardaí have arrested a man after he allegedly used an imitation firearm and threatened the driver of a bus travelling from Dublin Airport to Cork.",
+          "published": "2026-11-15T12:52:42.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1115/1599297-roger-casement/",
+          "title": "Burial of Casement in Glasnevin 'wrong' - campaign group",
+          "url": "https://www.rte.ie/news/ireland/2026/1115/1599297-roger-casement/",
+          "summary": "A campaign group in Belfast has said that the burial of Roger Casement in Dublin's Glasnevin Cemetery is a \"wrong that must be righted\".",
+          "published": "2026-11-15T16:35:32.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/education/2026/1115/1599304-international-students-visa-refusals/",
+          "title": "Colleges lose €8m due to rise in student visa refusals",
+          "url": "https://www.rte.ie/news/education/2026/1115/1599304-international-students-visa-refusals/",
+          "summary": "Irish universities have lost more than €8 million this academic year from the increase in international student visa refusals.",
+          "published": "2026-11-15T17:23:18.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/politics/2026/1115/1599315-politics-northern-ireland/",
+          "title": "Mixed reaction from NI politicians over Tánaiste's letter",
+          "url": "https://www.rte.ie/news/politics/2026/1115/1599315-politics-northern-ireland/",
+          "summary": "Political leaders in Northern Ireland have given a mixed reaction to an approach from Tánaiste Simon Harris to discuss common ground for Irish reunification.",
+          "published": "2026-11-15T20:25:09.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1115/1599296-hse-cuh/",
+          "title": "CUH staff 'fearful' of meetings amid recording concerns",
+          "url": "https://www.rte.ie/news/2026/1115/1599296-hse-cuh/",
+          "summary": "The Chief Executive of the Health Service Executive has claimed staff at Cork University Hospital are fearful of attending meetings amid concerns they might be recorded.",
+          "published": "2026-11-15T15:30:33.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1115/1599271-cold-weather-ireland/",
+          "title": "Cold snap to hit country with lows of -3C forecast",
+          "url": "https://www.rte.ie/news/ireland/2026/1115/1599271-cold-weather-ireland/",
+          "summary": "Met Éireann has warned of a cold snap in the coming days with temperatures forecast to drop to -3C in parts of the country overnight.",
+          "published": "2026-11-15T10:59:44.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1115/1599266-road-traffic-victims/",
+          "title": "Hundreds attend commemoration event for road victims",
+          "url": "https://www.rte.ie/news/ireland/2026/1115/1599266-road-traffic-victims/",
+          "summary": "Several hundred people have attended a national commemoration event, organised by the Irish Road Victims Association in partnership with the Road Safety Authority in Mullingar, Co Westmeath.",
+          "published": "2026-11-15T08:47:46.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1114/1599241-dublin-businesses-compensation-summit/",
+          "title": "Dublin businesses seek compensation after summit impact",
+          "url": "https://www.rte.ie/news/2026/1114/1599241-dublin-businesses-compensation-summit/",
+          "summary": "Some Dublin business owners have called for compensation for losses caused by disruption during this week's EU Summit, which saw many workers heed warnings and stay at home.",
+          "published": "2026-11-14T21:48:19.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/analysis-and-comment/2026/1115/1599239-politics-analysis/",
+          "title": "Sky cleared for Coalition ahead of European summits",
+          "url": "https://www.rte.ie/news/analysis-and-comment/2026/1115/1599239-politics-analysis/",
+          "summary": "This time last week the outlook was not good for the Coalition. As Dublin prepared to host a record number of world leaders, striking public sector workers planned a large-scale demonstration in the capital to coincide with their arrival, writes Political Correspondent Barry Lenihan.",
+          "published": "2026-11-15T08:39:54.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1114/1599199-ireland-us-flights/",
+          "title": "Some Irish flights affected by US cancellations, delays",
+          "url": "https://www.rte.ie/news/ireland/2026/1114/1599199-ireland-us-flights/",
+          "summary": "The majority of flights between Ireland and the US operated as normal following the closure of US airspace last night.",
+          "published": "2026-11-14T09:11:32.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/politics/2026/1114/1599192-tanaiste-irish-unity/",
+          "title": "Tánaiste seeks views on Irish unity from party leaders",
+          "url": "https://www.rte.ie/news/politics/2026/1114/1599192-tanaiste-irish-unity/",
+          "summary": "Tánaiste Simon Harris has written to all political leaders across the island to seek their views on Irish unity and to explore what common ground exists on Irish reunification.",
+          "published": "2026-11-14T00:55:20.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1114/1599224-bishop-achonry-elphin/",
+          "title": "Bishop supports call for talks on declining birth rate",
+          "url": "https://www.rte.ie/news/ireland/2026/1114/1599224-bishop-achonry-elphin/",
+          "summary": "The Bishop of Achonry and Elphin has supported the call for a national discussion on declining birth rate, abortion figures and the long-term implications for families, healthcare services and the sustainability of the welfare state by the group Healthcare Professionals for Life.",
+          "published": "2026-11-14T16:03:32.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/dublin/2026/1114/1599212-dublin-body-death/",
+          "title": "Post-mortem completed on man's body found in Phoenix Park",
+          "url": "https://www.rte.ie/news/dublin/2026/1114/1599212-dublin-body-death/",
+          "summary": "Gardaí investigating the discovery of a man's body in Dublin's Phoenix Park say a post-mortem examination has been completed.",
+          "published": "2026-11-14T12:31:45.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1114/1599227-derry-hit-and-run/",
+          "title": "Boy hospitalised after hit-and-run incident in Co Armagh",
+          "url": "https://www.rte.ie/news/2026/1114/1599227-derry-hit-and-run/",
+          "summary": "Police are appealing for witnesses after a boy was injured in a hit-and-run incident in Co Armagh this afternoon.",
+          "published": "2026-11-14T16:31:59.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/regional/2026/1114/1599195-ni-eu-poll/",
+          "title": "More than half of NI voters back UK rejoining EU - poll",
+          "url": "https://www.rte.ie/news/regional/2026/1114/1599195-ni-eu-poll/",
+          "summary": "More than half of voters in Northern Ireland believe the UK should rejoin the European Union a decade after the Brexit referendum, a new opinion poll has suggested.",
+          "published": "2026-11-14T03:46:44.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1114/1599205-microsoft-outage/",
+          "title": "Microsoft services fully restored after global outage",
+          "url": "https://www.rte.ie/news/2026/1114/1599205-microsoft-outage/",
+          "summary": "Microsoft has said that services have fully recovered across Teams, Outlook ⁠and its other products, ending a global outage that crippled online communications for businesses and governments for over 24 hours.",
+          "published": "2026-11-14T11:16:15.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/business/2026/1114/1599113-secondhand-ecommerce/",
+          "title": "How Ireland embraced 'pre-loved' e-commerce",
+          "url": "https://www.rte.ie/news/business/2026/1114/1599113-secondhand-ecommerce/",
+          "summary": "It's not surprising that Irish shoppers have an urge to get rid of stuff – statistics show we've accumulated a lot of it.",
+          "published": "2026-11-14T07:00:07.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1114/1599206-homeles-figures/",
+          "title": "Record homeless level revealed as EU red carpet rolled up",
+          "url": "https://www.rte.ie/news/2026/1114/1599206-homeles-figures/",
+          "summary": "The distraction of events at the Convention Centre enabled the Government to quietly publish an action plan on child and family homelessness as well as the latest homeless figures, which reached 18,000 for the first time.",
+          "published": "2026-11-14T11:57:05.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1113/1599127-omagh-inquiry/",
+          "title": "'Garda-MI5' source drove Omagh bomb car - former officer",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599127-omagh-inquiry/",
+          "summary": "A former head of the Serious Crime Branch at the PSNI has told the Omagh Bomb Inquiry that there was a \"Garda-MI5 source\" involved in carrying out the attack.",
+          "published": "2026-11-13T14:43:03.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1113/1599063-eu-summit-dublin/",
+          "title": "As it happened: Summit hears AI growing at speed",
+          "url": "https://www.rte.ie/news/2026/1113/1599063-eu-summit-dublin/",
+          "summary": "Follow live developments as EU leaders convene in Dublin with the conflict in Ukraine and the development of AI being discussed.",
+          "published": "2026-11-13T07:26:08.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1113/1599178-homeless-figures-september/",
+          "title": "Record 18,065 people in emergency accommodation",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599178-homeless-figures-september/",
+          "summary": "The number of people in emergency accommodation has surpassed 18,000 for the first time.",
+          "published": "2026-11-13T19:25:18.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1113/1599179-yvonne-nolan-dublin/",
+          "title": "Mother facing eviction denied respite for non-verbal sons",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599179-yvonne-nolan-dublin/",
+          "summary": "A Dublin mother who is being evicted from her home with her two severely autistic teenage sons has said the HSE has repeatedly told her that emergency residential care is unavailable.",
+          "published": "2026-11-13T20:04:47.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1113/1599175-carrie-mullane/",
+          "title": "Body of woman in Lough Erne identified as Carrie Mullane",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599175-carrie-mullane/",
+          "summary": "The body of a woman recovered from Lough Erne has been formally identified as Carrie Mullane from Co Limerick.",
+          "published": "2026-11-13T19:14:24.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1113/1599110-eleanor-donaldson/",
+          "title": "Eleanor Donaldson on sex offenders list for five years",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599110-eleanor-donaldson/",
+          "summary": "Eleanor Donaldson, the wife of former DUP leader Jeffrey Donaldson, has been placed on the sex offenders list for five years.",
+          "published": "2026-11-13T12:03:04.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1113/1599186-ai-taoiseach-eu/",
+          "title": "AI should be for the benefit of mankind - Taoiseach",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599186-ai-taoiseach-eu/",
+          "summary": "Artificial intelligence should be designed for the benefit rather than the \"ruination of mankind\", Taoiseach Micheál Martin has said.",
+          "published": "2026-11-13T21:12:55.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1113/1599104-funeral-elliot-english/",
+          "title": "Boy killed in fire 'brought home' to family, funeral told",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599104-funeral-elliot-english/",
+          "summary": "A six-year-old boy who died in an arson attack that claimed the lives of his parents and two brothers was a \"power of energy and love\", mourners at his funeral have heard.",
+          "published": "2026-11-13T11:12:03.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1113/1599169-scarlett-faulkner-court/",
+          "title": "Murder accused 'did not condone' Scarlett Faulkner attack",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599169-scarlett-faulkner-court/",
+          "summary": "A woman on trial for the murder of Scarlett Faulkner told gardaí she did not condone what happened to Ms Faulkner and said she was not responsible.",
+          "published": "2026-11-13T18:19:58.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ulster/2026/1113/1599045-psni-officers-sacked/",
+          "title": "PSNI officers fired over 'utterly despicable' behaviour",
+          "url": "https://www.rte.ie/news/ulster/2026/1113/1599045-psni-officers-sacked/",
+          "summary": "Two PSNI officers have been dismissed for what a police oversight body has described as \"utterly despicable\" behaviour towards vulnerable people they had been sent to help.",
+          "published": "2026-11-13T00:01:00.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1113/1599149-tallaght-pursuit-courts/",
+          "title": "Teenager jailed after high-speed pursuit through Tallaght",
+          "url": "https://www.rte.ie/news/2026/1113/1599149-tallaght-pursuit-courts/",
+          "summary": "A teenager who led gardaí on a high-speed pursuit through Dublin on a busy morning, breaking red lights and endangering road users, has been jailed for two and a half years.",
+          "published": "2026-11-13T16:12:57.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/",
+          "title": "Europe selects negotiating team for Ukraine talks",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/",
+          "summary": "EU leaders have agreed that Europe would be represented by Britain, France, Germany, Italy and Poland and the bloc's institutions at the next Ukraine talks.",
+          "published": "2026-11-13T06:14:37.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1113/1599158-pci-fails-to-justify-sharing-data-on-former-church-elder/",
+          "title": "PCI fails to justify sharing data on former church elder",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599158-pci-fails-to-justify-sharing-data-on-former-church-elder/",
+          "summary": "The Presbyterian Church in Ireland (PCI) has failed to justify sharing sensitive personal data about a former church elder according to the Data Protection Commission (DPC).",
+          "published": "2026-11-13T17:34:43.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/politics/2026/1113/1599091-martin-general-election/",
+          "title": "Martin says he will lead Fianna Fáil into next election",
+          "url": "https://www.rte.ie/news/politics/2026/1113/1599091-martin-general-election/",
+          "summary": "Taoiseach Micheál Martin has confirmed he will contest the next General Election and insisted he will lead Fianna Fáil into the campaign.",
+          "published": "2026-11-13T10:21:35.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/courts/2026/1113/1599116-richard-brennan/",
+          "title": "Sentence increased for ex-priest who raped his sisters",
+          "url": "https://www.rte.ie/news/courts/2026/1113/1599116-richard-brennan/",
+          "summary": "A former priest who raped and sexually assaulted his sisters while he was a seminarian has had his sentence increased by six years.",
+          "published": "2026-11-13T13:37:00.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/business/2026/1113/1599053-motor-insurance/",
+          "title": "Shop around to save €300 on motor insurance - research",
+          "url": "https://www.rte.ie/news/business/2026/1113/1599053-motor-insurance/",
+          "summary": "New research from the Central Bank suggests consumers can save around €300 by shopping around for motor insurance.",
+          "published": "2026-11-13T00:01:01.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/dublin/2026/1113/1599051-dublin-traffic-restrictions/",
+          "title": "Dublin traffic restrictions on second day of EU meetings",
+          "url": "https://www.rte.ie/news/dublin/2026/1113/1599051-dublin-traffic-restrictions/",
+          "summary": "Traffic restrictions remain in place around Dublin city on the second day of meetings involving European political leaders.",
+          "published": "2026-11-13T00:01:01.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1113/1598966-oiche-na-hoige/",
+          "title": "Óiche na hÓige events to take place nationwide",
+          "url": "https://www.rte.ie/news/2026/1113/1598966-oiche-na-hoige/",
+          "summary": "A celebration of youth work in communities will take place across Ireland tonight as part of Oíche na hÓige as youth clubs and services are set to open to the wider community.",
+          "published": "2026-11-13T06:43:06.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ulster/2026/1113/1599082-donegal-thatching/",
+          "title": "Ireland's only thatching school 'getting great results'",
+          "url": "https://www.rte.ie/news/ulster/2026/1113/1599082-donegal-thatching/",
+          "summary": "Ireland's only purpose-built thatching school said it is \"getting great results\" from people seeking to learn an iconic trade that underpins part of the country's heritage.",
+          "published": "2026-11-13T09:22:19.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/eu-presidency/2026/1112/1598891-epc-summit/",
+          "title": "50 leaders in Dublin for State's largest diplomatic event",
+          "url": "https://www.rte.ie/news/eu-presidency/2026/1112/1598891-epc-summit/",
+          "summary": "The largest diplomatic undertaking in Irish history took place in Dublin today as the ninth European Political Community meeting was held in Dublin.",
+          "published": "2026-11-12T06:00:00.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/regional/2026/1113/1599107-plan-for-step-down-beds-at-uhl-off-due-to-lack-of-funding/",
+          "title": "Plan for step-down beds at UHL off due to lack of funding",
+          "url": "https://www.rte.ie/news/regional/2026/1113/1599107-plan-for-step-down-beds-at-uhl-off-due-to-lack-of-funding/",
+          "summary": "Plans to secure 100 step-down or rehab beds to ease pressure on the consistently overcrowded University Hospital Limerick were scrapped due to a lack of available HSE funding.",
+          "published": "2026-11-13T12:41:16.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/courts/2026/1112/1598957-limerick-woman-beaten-to-death/",
+          "title": "Mullane's body kept for fortnight then hidden, court told",
+          "url": "https://www.rte.ie/news/courts/2026/1112/1598957-limerick-woman-beaten-to-death/",
+          "summary": "A Limerick woman was beaten to death and her body kept for a fortnight before it was hidden in a Co Fermanagh Lough, a court heard today.",
+          "published": "2026-11-12T12:17:47.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1112/1599048-epc-takeaways/",
+          "title": "5 takeaways from Dublin's EPC summit",
+          "url": "https://www.rte.ie/news/2026/1112/1599048-epc-takeaways/",
+          "summary": "Following a day of hectic diplomatic activity around Dublin's Convention Centre, reporter Harry Manning takes a look at five key takeaways from the ninth European Political Community summit.",
+          "published": "2026-11-12T21:08:18.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1112/1599034-eu-presidency-taoiseach-analysis/",
+          "title": "What next for Martin after moment on world stage?",
+          "url": "https://www.rte.ie/news/2026/1112/1599034-eu-presidency-taoiseach-analysis/",
+          "summary": "For the hundreds of journalists assigned to cover the biggest gathering of political leaders in the history of the Irish State, the day began in the bowels of Croke Park.",
+          "published": "2026-11-12T18:17:24.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/courts/2026/1112/1599002-jason-murphy-court/",
+          "title": "Hutch's son facing charges involving garda 'infiltration'",
+          "url": "https://www.rte.ie/news/courts/2026/1112/1599002-jason-murphy-court/",
+          "summary": "A 37-year-old man has been denied bail pending his trial on a charge of facilitating organised crime involving allegations of high-level \"infiltration\" of An Garda Síochána.",
+          "published": "2026-11-12T15:39:05.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1112/1599036-omagh-bomb-inquiry/",
+          "title": "State agent involved in planting Omagh bomb, inquiry told",
+          "url": "https://www.rte.ie/news/2026/1112/1599036-omagh-bomb-inquiry/",
+          "summary": "A state agent was among those who planted the Omagh bomb, a former senior police officer has told the inquiry investigating the 1998 inquiry.",
+          "published": "2026-11-12T18:48:00.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1112/1599031-decoy-court/",
+          "title": "Man caught in child-decoy sex sting jailed for five years",
+          "url": "https://www.rte.ie/news/ireland/2026/1112/1599031-decoy-court/",
+          "summary": "A man who travelled to Donegal from Dublin intending to have sex with a 13-year-old girl has been jailed for five years.",
+          "published": "2026-11-12T18:20:35.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/middle-east/2026/1112/1598998-gaza-protest-dublin-arrests/",
+          "title": "Two arrests at pro-Palestine protest in Dublin city",
+          "url": "https://www.rte.ie/news/middle-east/2026/1112/1598998-gaza-protest-dublin-arrests/",
+          "summary": "Two people have been arrested after scuffles at a Mothers Against Genocide protest on Westmoreland Street.",
+          "published": "2026-11-12T15:27:52.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1112/1599038-teachers-pay-deal/",
+          "title": "Teachers express concerns over proposed pay deal - unions",
+          "url": "https://www.rte.ie/news/ireland/2026/1112/1599038-teachers-pay-deal/",
+          "summary": "Second-level teacher unions, the Association of Secondary Teachers Ireland (ASTI) and the Teachers Union of Ireland (TUI), have said they have serious concerns and are seeking clarification over the proposed public service pay deal.",
+          "published": "2026-11-12T18:43:53.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/analysis-and-comment/2026/1112/1598946-epc-analysis/",
+          "title": "Who speaks for Europe key issue as leaders meet",
+          "url": "https://www.rte.ie/news/analysis-and-comment/2026/1112/1598946-epc-analysis/",
+          "summary": "Deciding who speaks for Europe in the event of peace negotiations with Russia is shaping up to be a key issue in today's EPC meeting, with perhaps more focus on the issue when 27 EU leaders meet separately tomorrow at the Convention Centre.",
+          "published": "2026-11-12T11:05:50.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1112/1599026-superintendent-brian-oreilly/",
+          "title": "Garda whistleblower loses enhanced sick pay appeal",
+          "url": "https://www.rte.ie/news/ireland/2026/1112/1599026-superintendent-brian-oreilly/",
+          "summary": "A senior garda who says he was penalised for making protected disclosures about alleged defective gun holsters has lost his appeal against the dismissal of his claim for enhanced sick pay.",
+          "published": "2026-11-12T17:08:38.000Z",
+          "source": "rte",
+          "kind": "news"
+        }
+      ]
     }
   }
 }

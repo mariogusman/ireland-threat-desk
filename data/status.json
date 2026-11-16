@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T11:51:35.975Z",
+  "generatedAt": "2026-11-16T21:56:49.103Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,13 +9,13 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-16T11:51:35.975Z",
-      "fetchedAt": "2026-11-16T11:51:35.975Z",
+      "checkedAt": "2026-11-16T21:56:49.103Z",
+      "fetchedAt": "2026-11-16T21:56:49.103Z",
       "items": [
         {
-          "id": "2.49.0.1.372.0.261116082708.01ca3dc0-ec46-4f5e-8c0f-7ea9e681e56a",
+          "id": "2.49.0.1.372.0.261116120224.7a09d3e3-701d-4cbc-80ef-31f13e6621d0",
           "title": "Status Yellow - Wind and Rain warning for Cork, Kerry, Waterford",
-          "description": "Spells of heavy rain along with strong and gusty southeast winds. Be aware of potential impacts: Difficult travelling conditions Localised flooding possible Poor visibility Debris, loose objects displaced",
+          "description": "Strong and gusty southeastly winds, veering southwesterly with heavy spells of rain at times. Be aware of potential impacts: Difficult travelling conditions Localised flooding possible Poor visibility Debris, loose objects displaced",
           "level": "yellow",
           "types": [
             "Rain",
@@ -23,7 +23,7 @@
           ],
           "onset": "2026-11-16T13:00:00+00:00",
           "expiry": "2026-11-16T23:59:00+00:00",
-          "issued": "2026-11-16T08:27:08.753178+00:00",
+          "issued": "2026-11-16T12:02:23.954887+00:00",
           "url": "https://www.met.ie/warnings-today.html"
         },
         {
@@ -62,8 +62,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-16T11:51:35.975Z",
-      "fetchedAt": "2026-11-16T11:51:35.975Z",
+      "checkedAt": "2026-11-16T21:56:49.103Z",
+      "fetchedAt": "2026-11-16T21:56:49.103Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
@@ -574,45 +574,25 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-16T11:51:35.975Z",
-      "fetchedAt": "2026-11-16T11:51:35.975Z",
+      "checkedAt": "2026-11-16T21:56:49.103Z",
+      "fetchedAt": "2026-11-16T21:56:49.103Z",
       "items": [
+        {
+          "id": "https://www.thejournal.ie/weather-warnings-forecast-monday-7227374-Nov2026/",
+          "title": "Heavy wind and rain blowing in as eight counties put under weather warnings",
+          "url": "https://www.thejournal.ie/weather-warnings-forecast-monday-7227374-Nov2026/",
+          "summary": "Localised flooding and difficult travelling conditions are possible, with sleet or snow forecast in Donegal.",
+          "published": "2026-11-16T13:08:00.000Z",
+          "source": "journal",
+          "kind": "news",
+          "topic": "Weather & flooding"
+        },
         {
           "id": "https://www.thejournal.ie/dublin-ai-flood-warning-system-7227372-Nov2026/",
           "title": "New AI warning system for flooding to be rolled out in Dublin",
           "url": "https://www.thejournal.ie/dublin-ai-flood-warning-system-7227372-Nov2026/",
           "summary": "Trials showed that the technology could potentially give up to 21 hours’ notice of flooding events.",
           "published": "2026-11-16T07:51:22.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Weather & flooding"
-        },
-        {
-          "id": "https://www.thejournal.ie/weather-warnings-forecast-monday-7227374-Nov2026/",
-          "title": "Wind and rain warnings for seven counties as heavy downpours on the way",
-          "url": "https://www.thejournal.ie/weather-warnings-forecast-monday-7227374-Nov2026/",
-          "summary": "Localised flooding and difficult travelling conditions are possible, with sleet or snow forecast in Donegal.",
-          "published": "2026-11-16T07:35:18.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Weather & flooding"
-        },
-        {
-          "id": "https://www.thejournal.ie/trump-blames-biden-flight-disruption-7227001-Nov2026/",
-          "title": "Trump blames Biden administration for nationwide US flight disruption",
-          "url": "https://www.thejournal.ie/trump-blames-biden-flight-disruption-7227001-Nov2026/",
-          "summary": "The ground stop not only plunged US air travel into chaos, it also raised serious concerns about the country’s ageing infrastructure.",
-          "published": "2026-11-15T14:20:19.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Travel disruption"
-        },
-        {
-          "id": "https://www.thejournal.ie/met-eireann-weather-forecast-4-7226812-Nov2026/",
-          "title": "Frost and icy stretches forecast to spread overnight",
-          "url": "https://www.thejournal.ie/met-eireann-weather-forecast-4-7226812-Nov2026/",
-          "summary": "A rain warning for Cork and Waterford has been issued for Monday.",
-          "published": "2026-11-15T11:01:00.000Z",
           "source": "journal",
           "kind": "news",
           "topic": "Weather & flooding"
@@ -626,14 +606,14 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-16T11:51:35.975Z",
-      "fetchedAt": "2026-11-16T11:51:35.975Z",
+      "checkedAt": "2026-11-16T21:56:49.103Z",
+      "fetchedAt": "2026-11-16T21:56:49.103Z",
       "items": [
         {
-          "id": "https://www.rte.ie/news/ireland/2026/1116/1599326-weather-ireland/",
-          "title": "Wind and rain warnings issued for seven counties",
-          "url": "https://www.rte.ie/news/ireland/2026/1116/1599326-weather-ireland/",
-          "summary": "Three separate status Yellow wind and rain warnings have been issued for seven counties.",
+          "id": "https://www.rte.ie/news/regional/2026/1116/1599326-weather-ireland/",
+          "title": "Wind and rain warnings in place for seven counties",
+          "url": "https://www.rte.ie/news/regional/2026/1116/1599326-weather-ireland/",
+          "summary": "Two Status Yellow wind and rain warnings are in place for seven counties with an additional Status Yellow wind warning also in place for one county.",
           "published": "2026-11-16T04:43:55.000Z",
           "source": "rte",
           "kind": "news",
@@ -668,16 +648,6 @@
           "source": "rte",
           "kind": "news",
           "topic": "Service disruption"
-        },
-        {
-          "id": "https://www.rte.ie/news/dublin/2026/1113/1599051-dublin-traffic-restrictions/",
-          "title": "Dublin traffic restrictions on second day of EU meetings",
-          "url": "https://www.rte.ie/news/dublin/2026/1113/1599051-dublin-traffic-restrictions/",
-          "summary": "Traffic restrictions remain in place around Dublin city on the second day of meetings involving European political leaders.",
-          "published": "2026-11-13T00:01:01.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Travel disruption"
         }
       ]
     }

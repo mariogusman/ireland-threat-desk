@@ -73,7 +73,8 @@
           "summary": "",
           "published": "2026-11-13T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611130282_Multiple_Vulnerabilities_in_Citrix_NetScalerADC_and_NetScalerGateway.pdf",
@@ -82,7 +83,8 @@
           "summary": "",
           "published": "2026-11-13T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611120264_CVE-2026-119618.pdf",
@@ -91,7 +93,8 @@
           "summary": "",
           "published": "2026-11-12T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611090259_CVE-2026-123158.pdf",
@@ -100,7 +103,8 @@
           "summary": "",
           "published": "2026-11-09T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611020249_Danfoss-Advisory.pdf",
@@ -109,7 +113,8 @@
           "summary": "",
           "published": "2026-11-03T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610281063_CVE-2026-98432.pdf",
@@ -118,7 +123,8 @@
           "summary": "",
           "published": "2026-10-30T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610281061_CVE-2026-84295_CVE-2026-90868.pdf",
@@ -127,7 +133,8 @@
           "summary": "",
           "published": "2026-10-30T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610230250_CVE-2026-110264.pdf",
@@ -136,7 +143,8 @@
           "summary": "",
           "published": "2026-10-23T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610210276_CVE-2026-109618_CVE-2026-109619.pdf",
@@ -145,7 +153,8 @@
           "summary": "",
           "published": "2026-10-21T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610200276_CVE-2026-102764.pdf",
@@ -154,7 +163,8 @@
           "summary": "",
           "published": "2026-10-20T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610150240_CVE-2026-76519.pdf",
@@ -163,7 +173,8 @@
           "summary": "",
           "published": "2026-10-15T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610130333_CVE-2026-104935.pdf",
@@ -172,7 +183,8 @@
           "summary": "",
           "published": "2026-10-13T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610090281_CVE-2026-107406.pdf",
@@ -181,7 +193,8 @@
           "summary": "",
           "published": "2026-10-09T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610070242_CVE-2026-102255.pdf",
@@ -190,7 +203,8 @@
           "summary": "",
           "published": "2026-10-07T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610060236_CVE-2026-21589.pdf",
@@ -199,7 +213,8 @@
           "summary": "",
           "published": "2026-10-06T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610050267_CVE-2026-88779.pdf",
@@ -208,7 +223,8 @@
           "summary": "",
           "published": "2026-10-05T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610020234_CVE-2026-104286.pdf",
@@ -217,7 +233,8 @@
           "summary": "",
           "published": "2026-10-02T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2610010256_CVE-2026-76504.pdf",
@@ -226,7 +243,8 @@
           "summary": "",
           "published": "2026-10-01T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2609270214_Multiple_Citrix_Vulns.pdf",
@@ -235,7 +253,8 @@
           "summary": "",
           "published": "2026-09-27T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2609230326_CVE-2026-94127.pdf",
@@ -244,7 +263,8 @@
           "summary": "",
           "published": "2026-09-23T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2609230327_CVE-2026-93952.pdf",
@@ -253,7 +273,8 @@
           "summary": "",
           "published": "2026-09-23T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2609180207_CVE-2026-76460.pdf",
@@ -262,7 +283,8 @@
           "summary": "",
           "published": "2026-09-18T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2609100236_CVE-2026-85102_CVE-2026-85103.pdf",
@@ -271,7 +293,8 @@
           "summary": "",
           "published": "2026-09-11T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2609100238_CVE-2026-67401.pdf",
@@ -280,7 +303,8 @@
           "summary": "",
           "published": "2026-09-10T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2609100235_CVE-2026-84869.pdf",
@@ -289,7 +313,8 @@
           "summary": "",
           "published": "2026-09-10T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2609080247_CVE-2026-75650.pdf",
@@ -298,7 +323,8 @@
           "summary": "",
           "published": "2026-09-08T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2609070233_CVE-2026-67276_86060_67277.pdf",
@@ -307,7 +333,8 @@
           "summary": "",
           "published": "2026-09-07T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2609020277_CVE-2026-81578_CVE-2026-82078.pdf",
@@ -316,7 +343,8 @@
           "summary": "",
           "published": "2026-09-02T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2608250239_CVE-2026-74480.pdf",
@@ -325,7 +353,8 @@
           "summary": "",
           "published": "2026-08-25T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2608250242_CVE-2026-18963.pdf",
@@ -334,7 +363,8 @@
           "summary": "",
           "published": "2026-08-25T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2608250237_CVE-2026-19478.pdf",
@@ -343,7 +373,8 @@
           "summary": "",
           "published": "2026-08-25T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2608250238_CVE-2026-19598.pdf",
@@ -352,7 +383,8 @@
           "summary": "",
           "published": "2026-08-25T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2608180217_CVE-2026-73570_Zimbra.pdf",
@@ -361,7 +393,8 @@
           "summary": "",
           "published": "2026-08-18T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2608170215_CVE-2026-8452.pdf",
@@ -370,7 +403,8 @@
           "summary": "",
           "published": "2026-08-17T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2608140221_CVE-2026-59310.pdf",
@@ -379,7 +413,8 @@
           "summary": "",
           "published": "2026-08-14T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2607290226_CVE-2026-16723.pdf",
@@ -388,7 +423,8 @@
           "summary": "",
           "published": "2026-07-29T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2607210267_CVE-2026-2701_CVE-2026-2699.pdf",
@@ -397,7 +433,8 @@
           "summary": "",
           "published": "2026-07-22T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2607200215_CVE-2026-53565_CVE-2026-53566.pdf",
@@ -406,7 +443,8 @@
           "summary": "",
           "published": "2026-07-20T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2607200218_CVE-2026-63030_CVE-2026-60137.pdf",
@@ -415,7 +453,8 @@
           "summary": "",
           "published": "2026-07-20T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2607150243_CVE-2026-56164.pdf",
@@ -424,7 +463,8 @@
           "summary": "",
           "published": "2026-07-16T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2607150226_CVE-2026-15409_CVE-2026-15410.pdf",
@@ -433,7 +473,8 @@
           "summary": "",
           "published": "2026-07-15T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2607140228_CVE-2026-44747.pdf",
@@ -442,7 +483,8 @@
           "summary": "",
           "published": "2026-07-14T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2607080262_CVE-2026-40138_CVE-2026-40139.pdf",
@@ -451,7 +493,8 @@
           "summary": "",
           "published": "2026-07-08T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2607070212_CVE-2026-48907_CVE-2026-48908.pdf",
@@ -460,7 +503,8 @@
           "summary": "",
           "published": "2026-07-07T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2606180236_CVE-2026-20127.pdf",
@@ -469,7 +513,8 @@
           "summary": "",
           "published": "2026-06-19T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2606180233_CVE-2026-42530.pdf",
@@ -478,7 +523,8 @@
           "summary": "",
           "published": "2026-06-19T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2606090209_CVE-2026-50751.pdf",
@@ -487,7 +533,8 @@
           "summary": "",
           "published": "2026-06-19T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/Fortinet-Fortibleed-180626.pdf",
@@ -496,7 +543,8 @@
           "summary": "",
           "published": "2026-06-18T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2606160522_CVE-2026-48558.pdf",
@@ -505,7 +553,8 @@
           "summary": "",
           "published": "2026-06-18T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2606160509_CVE-2026-45585.pdf",
@@ -514,7 +563,8 @@
           "summary": "",
           "published": "2026-06-18T00:00:00.000Z",
           "source": "ncsc",
-          "kind": "cyber"
+          "kind": "cyber",
+          "topic": "Cyber security"
         }
       ]
     },
@@ -529,220 +579,14 @@
       "fetchedAt": "2026-11-16T03:13:38.548Z",
       "items": [
         {
-          "id": "https://www.thejournal.ie/ires-reit-tenant-case-7221435-Nov2026/",
-          "title": "Ires Reit eviction bid: Dispute between Ireland’s biggest private landlord and ex-employee continues",
-          "url": "https://www.thejournal.ie/ires-reit-tenant-case-7221435-Nov2026/",
-          "summary": "The case concerns a man and woman, both of whom have worked for Ires Reit, who are resisting an eviction.",
-          "published": "2026-11-16T00:05:29.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/quiz-storms-7222253-Nov2026/",
-          "title": "Quiz: How much do you know about storms?",
-          "url": "https://www.thejournal.ie/quiz-storms-7222253-Nov2026/",
-          "summary": "Storm season is upon us.",
-          "published": "2026-11-15T22:00:33.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/press-secretary-trump-7196467-Nov2026/",
-          "title": "Just how many press secretaries has Trump had - and who could be next?",
-          "url": "https://www.thejournal.ie/press-secretary-trump-7196467-Nov2026/",
-          "summary": "Barack Obama had three press secretaries during his tenure, while George Bush had four.",
-          "published": "2026-11-15T21:00:21.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/evening-fix-15-november-2026-7227131-Nov2026/",
-          "title": "Here's What Happened Today: Sunday",
-          "url": "https://www.thejournal.ie/evening-fix-15-november-2026-7227131-Nov2026/",
-          "summary": "The most important Irish and international stories you need to know today.",
-          "published": "2026-11-15T20:30:10.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/uk-age-of-consent-7227266-Nov2026/",
-          "title": "UK facing calls to stagger age of consent to end 'abuse of power by powerful men'",
-          "url": "https://www.thejournal.ie/uk-age-of-consent-7227266-Nov2026/",
-          "summary": "Under UK law, adults of any age are legally able to have sex with 16 and 17-year-olds.",
-          "published": "2026-11-15T20:10:18.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/readme/money-diaries-38-7224334-Nov2026/",
-          "title": "Christmas is coming! Want to be prepared? How about keeping a Money Diary for us?",
-          "url": "https://www.thejournal.ie/readme/money-diaries-38-7224334-Nov2026/",
-          "summary": "We want to hear from readers on how they are handling their finances right now.",
-          "published": "2026-11-15T20:00:00.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/starshield-ukraine-russian-drones-7227249-Nov2026/",
-          "title": "Zelenskyy urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-          "url": "https://www.thejournal.ie/starshield-ukraine-russian-drones-7227249-Nov2026/",
-          "summary": "The ‘protection of lives and Ukrainian energy infrastructure before winter depends’ on the restrictions being lifted, Volodymyr Zelenskyy said.",
-          "published": "2026-11-15T19:44:10.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/cork-university-hospital-hse-ceo-comments-7227205-Nov2026/",
-          "title": "CUH staff 'fearful' of attending meetings amid recording concerns, HSE chief says",
-          "url": "https://www.thejournal.ie/cork-university-hospital-hse-ceo-comments-7227205-Nov2026/",
-          "summary": "Anne O’Connor made the comments in an interview with RTÉ, in the first time she has spoken publicly since various controversies that have beset CUH.",
-          "published": "2026-11-15T18:56:48.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/man-found-dead-in-phoenix-park-identified-by-gardai-as-eastern-european-male-7226365-Nov2026/",
-          "title": "Man found dead in Phoenix Park named by gardaí",
-          "url": "https://www.thejournal.ie/man-found-dead-in-phoenix-park-identified-by-gardai-as-eastern-european-male-7226365-Nov2026/",
-          "summary": "Tomasz Robert Michowski (48) from Poland was found with suspected stab wounds in Phoenix Park on Friday morning.",
-          "published": "2026-11-15T18:04:00.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/scotland-v-australia-result-2-7227190-Nov2026/",
-          "title": "Scotland grind out narrow Murrayfield win against Australia",
-          "url": "https://www.thejournal.ie/scotland-v-australia-result-2-7227190-Nov2026/",
-          "summary": "Scots move up to fourth in the Northern Hemisphere table ahead of next weekend’s final pool games.",
-          "published": "2026-11-15T17:27:55.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/czechia-public-media-funding-protests-7227143-Nov2026/",
-          "title": "Hundreds of thousands protest in Czechia over public-media funding overhaul",
-          "url": "https://www.thejournal.ie/czechia-public-media-funding-protests-7227143-Nov2026/",
-          "summary": "The government wants to switch from funding Czech TV and Czech Radio through licence fees paid by viewers and listeners to payments from the state budget.",
-          "published": "2026-11-15T17:19:38.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/man-serious-condition-tullamore-7227115-Nov2026/",
-          "title": "Man (70s) in serious condition following road collision in Tullamore",
-          "url": "https://www.thejournal.ie/man-serious-condition-tullamore-7227115-Nov2026/",
-          "summary": "A passenger in the car, a woman in her 70s, was medically assessed at the scene but did not require hospital treatment.",
-          "published": "2026-11-15T16:25:56.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/body-woman-20s-co-offaly-7227076-Nov2026/",
-          "title": "Body of woman (20s) found in Co Offaly",
-          "url": "https://www.thejournal.ie/body-woman-20s-co-offaly-7227076-Nov2026/",
-          "summary": "The woman was pronounced deceased at the scene.",
-          "published": "2026-11-15T15:59:09.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/daily-poll-christmas-presents-7227063-Nov2026/",
-          "title": "Have you bought your Christmas presents yet?",
-          "url": "https://www.thejournal.ie/daily-poll-christmas-presents-7227063-Nov2026/",
-          "summary": "It’s just over a month and a half until Christmas.",
-          "published": "2026-11-15T15:54:59.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/garda-m50-chase-compensation-7227043-Nov2026/",
-          "title": "Garda awarded €60k over M50 high-speed chase 'in which she could have lost her life'",
-          "url": "https://www.thejournal.ie/garda-m50-chase-compensation-7227043-Nov2026/",
-          "summary": "The garda was a member of the drugs squad and sustained her injuries in two accidents when pursuing suspected drug dealers.",
-          "published": "2026-11-15T14:53:13.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
           "id": "https://www.thejournal.ie/trump-blames-biden-flight-disruption-7227001-Nov2026/",
           "title": "Trump blames Biden administration for nationwide US flight disruption",
           "url": "https://www.thejournal.ie/trump-blames-biden-flight-disruption-7227001-Nov2026/",
           "summary": "The ground stop not only plunged US air travel into chaos, it also raised serious concerns about the country’s ageing infrastructure.",
           "published": "2026-11-15T14:20:19.000Z",
           "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/jeremy-edwards-david-walliams-comic-relief-7226974-Nov2026/",
-          "title": "Actor accuses David Walliams of ‘sexually humiliating’ him in Comic Relief sketch",
-          "url": "https://www.thejournal.ie/jeremy-edwards-david-walliams-comic-relief-7226974-Nov2026/",
-          "summary": "Former Hollyoaks star Jeremy Edwards had his trousers and pants pulled down in front of a theatre audience.",
-          "published": "2026-11-15T13:54:03.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/alleged-bus-hijacking-gunpoint-7226969-Nov2026/",
-          "title": "Man (30s) arrested after alleged attempt to hijack bus at gunpoint",
-          "url": "https://www.thejournal.ie/alleged-bus-hijacking-gunpoint-7226969-Nov2026/",
-          "summary": "The man will appear before Fermoy District Court in Co Cork on Monday.",
-          "published": "2026-11-15T13:50:31.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/world-day-of-remembrance-for-road-traffic-victims-7226932-Nov2026/",
-          "title": "Today is a day to remember those who have died on the roads",
-          "url": "https://www.thejournal.ie/world-day-of-remembrance-for-road-traffic-victims-7226932-Nov2026/",
-          "summary": "161 people have died on Irish roads so far this year – ten more than the same period in 2025.",
-          "published": "2026-11-15T13:36:43.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/andy-burnham-chatgpt-speech-7226947-Nov2026/",
-          "title": "Burnham writes 'most' of his speeches, Downing Street says after aide seen using ChatGPT",
-          "url": "https://www.thejournal.ie/andy-burnham-chatgpt-speech-7226947-Nov2026/",
-          "summary": "The clarification comes after an aide to the UK prime minister was photographed using ChatGPT to seek feedback on a speech.",
-          "published": "2026-11-15T13:31:36.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/big-renovation-clinic-2-7216589-Nov2026/",
-          "title": "Is it worth paying more for an SEAI-registered installer if the extra cost exceeds the grant?",
-          "url": "https://www.thejournal.ie/big-renovation-clinic-2-7216589-Nov2026/",
-          "summary": "Our resident quantity surveyor Shay Lally answers your big (and small) questions on renovating a home.",
-          "published": "2026-11-15T13:00:04.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/ellen-keane-bicycle-stolen-7226925-Nov2026/",
-          "title": "'She is really special to me' - Paralympian Ellen Keane issues appeal after custom bicycle stolen",
-          "url": "https://www.thejournal.ie/ellen-keane-bicycle-stolen-7226925-Nov2026/",
-          "summary": "Ellen Keane won a gold medal at the 2020 Paralympics in Tokyo and a bronze in Rio in 2016.",
-          "published": "2026-11-15T12:34:13.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/dp-world-championship-2-7226917-Nov2026/",
-          "title": "'He is recovering well, thankfully' - McIlroy dedicates Race to Dubai win to father Gerry",
-          "url": "https://www.thejournal.ie/dp-world-championship-2-7226917-Nov2026/",
-          "summary": "The back-to-back Masters champion edged out Eugenio Chacarra for the title.",
-          "published": "2026-11-15T12:05:12.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/hamas-commander-samir-abu-younis-killed-7226908-Nov2026/",
-          "title": "Senior Hamas commander killed in Israeli strike on Gaza",
-          "url": "https://www.thejournal.ie/hamas-commander-samir-abu-younis-killed-7226908-Nov2026/",
-          "summary": "Samir Abu Younis was a military leader who played a key role in planning Hamas’s 7 October 2023 attack on Israel.",
-          "published": "2026-11-15T12:01:41.000Z",
-          "source": "journal",
-          "kind": "news"
+          "kind": "news",
+          "topic": "Travel disruption"
         },
         {
           "id": "https://www.thejournal.ie/met-eireann-weather-forecast-4-7226812-Nov2026/",
@@ -751,142 +595,8 @@
           "summary": "A rain warning for Cork and Waterford has been issued for Monday.",
           "published": "2026-11-15T11:01:00.000Z",
           "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/coddle-dublin-dish-irish-cuisine-7224898-Nov2026/",
-          "title": "Three castles boiling: Coddle weather is here",
-          "url": "https://www.thejournal.ie/coddle-dublin-dish-irish-cuisine-7224898-Nov2026/",
-          "summary": "The humble bowl of sausage soup they call “the widow’s memory” is calling to us.",
-          "published": "2026-11-15T10:00:09.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/iran-attack-bahrain-7226841-Nov2026/",
-          "title": "Blasts in Bahrain as Iran claims attack on US base",
-          "url": "https://www.thejournal.ie/iran-attack-bahrain-7226841-Nov2026/",
-          "summary": "After a lull in attacks, Bahrain has been targeted twice in three days.",
-          "published": "2026-11-15T09:25:00.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/sitdown-sunday-longreads-289-7220474-Nov2026/",
-          "title": "Sitdown Sunday: The lost habit of sleeping twice a day",
-          "url": "https://www.thejournal.ie/sitdown-sunday-longreads-289-7220474-Nov2026/",
-          "summary": "Settle down in a comfy chair with some of the week’s best longreads.",
-          "published": "2026-11-15T09:00:08.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/9-at-9-15-11-26-7226831-Nov2026/",
-          "title": "The 9 at 9: Sunday",
-          "url": "https://www.thejournal.ie/9-at-9-15-11-26-7226831-Nov2026/",
-          "summary": "Number of Irish citizens refused entry to Israel almost doubles, US flights to return to normal today, and frost and icy stretches forecast.",
-          "published": "2026-11-15T09:00:08.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/spacex-starship-catch-7226821-Nov2026/",
-          "title": "Elon Musk's SpaceX pulls off first-ever spaceship 'catch'",
-          "url": "https://www.thejournal.ie/spacex-starship-catch-7226821-Nov2026/",
-          "summary": "The Mechzilla catch demonstrates the full reusability of Starship, intended for Moon and Mars travel, according to SpaceX officials.",
-          "published": "2026-11-15T08:29:37.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/the-altruists-7224265-Nov2026/",
-          "title": "What you need to know about The Altruists on Netflix",
-          "url": "https://www.thejournal.ie/the-altruists-7224265-Nov2026/",
-          "summary": "The series stars Irish actor Anthony Boyle.",
-          "published": "2026-11-15T08:08:22.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/islamic-labour-party-ireland-muslim-only-website-internet-diaries-7225223-Nov2026/",
-          "title": "The mystery website claiming to belong to an Irish Muslim-only party that made international news",
-          "url": "https://www.thejournal.ie/islamic-labour-party-ireland-muslim-only-website-internet-diaries-7225223-Nov2026/",
-          "summary": "Our FactCheck editor details the internet trends seen by a thirtysomething-year-old man.",
-          "published": "2026-11-15T08:00:13.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/readme/ozempic-and-muscle-7222490-Nov2026/",
-          "title": "Weight loss drugs: Losing weight but also muscle? An orthopaedic surgeon’s take on GLP-1s",
-          "url": "https://www.thejournal.ie/readme/ozempic-and-muscle-7222490-Nov2026/",
-          "summary": "Losing weight can ease the pressure on arthritic joints, but protecting muscle strength is just as important. An orthopaedic surgeon explains why.",
-          "published": "2026-11-15T07:30:22.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/no-young-landlords-ireland-thejournal-7225551-Nov2026/",
-          "title": "Why aren't young Irish people becoming landlords?",
-          "url": "https://www.thejournal.ie/no-young-landlords-ireland-thejournal-7225551-Nov2026/",
-          "summary": "Being a landlord in Ireland is now very much an ‘old man’s game’ – so what are the factors behind this trend?",
-          "published": "2026-11-15T07:30:01.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/russell-brand-david-walliams-7221415-Nov2026/",
-          "title": "When will we actually learn from the revelations surfacing about powerful male celebrities?",
-          "url": "https://www.thejournal.ie/russell-brand-david-walliams-7221415-Nov2026/",
-          "summary": "Russell Brand did not recognise his behaviour as rape or sexual assault – but a court did.",
-          "published": "2026-11-15T06:30:38.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/irish-citizens-refused-entry-israel-7221379-Nov2026/",
-          "title": "Number of Irish citizens refused entry to Israel sharply rises after 7 October attacks",
-          "url": "https://www.thejournal.ie/irish-citizens-refused-entry-israel-7221379-Nov2026/",
-          "summary": "Around one in every 73 Irish people who has visited Israel this year has been refused entry.",
-          "published": "2026-11-15T00:05:48.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/river/best-of-the-box-2483553-Nov2026/",
-          "title": "Best of the Box",
-          "url": "https://www.thejournal.ie/river/best-of-the-box-2483553-Nov2026/",
-          "summary": "Check out what we’re watching on TV this weekend.",
-          "published": "1970-01-01T00:00:00.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/river/daft-ie-property-magazine-2483547-Nov2026/",
-          "title": "DAFT.IE PROPERTY MAGAZINE",
-          "url": "https://www.thejournal.ie/river/daft-ie-property-magazine-2483547-Nov2026/",
-          "summary": "The perfect union of classic and contemporary style at this Ranelagh redbrick for €1,475,000",
-          "published": "1970-01-01T00:00:00.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/niall-horan-dinner-party-music-quiz-7222240-Nov2026/",
-          "title": "How much do you know about Niall Horan?",
-          "url": "https://www.thejournal.ie/niall-horan-dinner-party-music-quiz-7222240-Nov2026/",
-          "summary": "Horan played four sold-out shows in Dublin as part of his Dinner Party tour this week.",
-          "published": "2026-11-14T22:00:19.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/politics-winners-losers-7223966-Nov2026/",
-          "title": "On cloud nine or stuck in the dog house? Here are the winners and losers of the political week",
-          "url": "https://www.thejournal.ie/politics-winners-losers-7223966-Nov2026/",
-          "summary": "Ireland was at the political centre this week, but who’s winning?",
-          "published": "2026-11-14T21:00:27.000Z",
-          "source": "journal",
-          "kind": "news"
+          "kind": "news",
+          "topic": "Weather & flooding"
         }
       ]
     },
@@ -901,103 +611,14 @@
       "fetchedAt": "2026-11-16T03:13:38.548Z",
       "items": [
         {
-          "id": "https://www.rte.ie/news/2026/1116/1599310-domestic-economy-grow-ibec/",
-          "title": "Domestic economy to grow 3.5% this year, says IBEC",
-          "url": "https://www.rte.ie/news/2026/1116/1599310-domestic-economy-grow-ibec/",
-          "summary": "Employer group IBEC forecasts that the domestic economy will grow by 3.5% this year and 4% in 2027, with the number of people in employment expected to reach 2.9 million next year.",
-          "published": "2026-11-16T00:01:00.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1115/1599299-offaly-death/",
-          "title": "Investigation after body of woman, 20s, found in Offaly",
-          "url": "https://www.rte.ie/news/ireland/2026/1115/1599299-offaly-death/",
-          "summary": "An investigation is under way into the death of a woman whose body was found in Co Offaly.",
-          "published": "2026-11-15T15:53:15.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1115/1599280-cork-bus-hijacking/",
-          "title": "Man held after allegedly pulling fake gun on bus driver",
-          "url": "https://www.rte.ie/news/ireland/2026/1115/1599280-cork-bus-hijacking/",
-          "summary": "Gardaí have arrested a man after he allegedly used an imitation firearm and threatened the driver of a bus travelling from Dublin Airport to Cork.",
-          "published": "2026-11-15T12:52:42.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1115/1599297-roger-casement/",
-          "title": "Burial of Casement in Glasnevin 'wrong' - campaign group",
-          "url": "https://www.rte.ie/news/ireland/2026/1115/1599297-roger-casement/",
-          "summary": "A campaign group in Belfast has said that the burial of Roger Casement in Dublin's Glasnevin Cemetery is a \"wrong that must be righted\".",
-          "published": "2026-11-15T16:35:32.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/education/2026/1115/1599304-international-students-visa-refusals/",
-          "title": "Colleges lose €8m due to rise in student visa refusals",
-          "url": "https://www.rte.ie/news/education/2026/1115/1599304-international-students-visa-refusals/",
-          "summary": "Irish universities have lost more than €8 million this academic year from the increase in international student visa refusals.",
-          "published": "2026-11-15T17:23:18.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/politics/2026/1115/1599315-politics-northern-ireland/",
-          "title": "Mixed reaction from NI politicians over Tánaiste's letter",
-          "url": "https://www.rte.ie/news/politics/2026/1115/1599315-politics-northern-ireland/",
-          "summary": "Political leaders in Northern Ireland have given a mixed reaction to an approach from Tánaiste Simon Harris to discuss common ground for Irish reunification.",
-          "published": "2026-11-15T20:25:09.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1115/1599296-hse-cuh/",
-          "title": "CUH staff 'fearful' of meetings amid recording concerns",
-          "url": "https://www.rte.ie/news/2026/1115/1599296-hse-cuh/",
-          "summary": "The Chief Executive of the Health Service Executive has claimed staff at Cork University Hospital are fearful of attending meetings amid concerns they might be recorded.",
-          "published": "2026-11-15T15:30:33.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
           "id": "https://www.rte.ie/news/ireland/2026/1115/1599271-cold-weather-ireland/",
           "title": "Cold snap to hit country with lows of -3C forecast",
           "url": "https://www.rte.ie/news/ireland/2026/1115/1599271-cold-weather-ireland/",
           "summary": "Met Éireann has warned of a cold snap in the coming days with temperatures forecast to drop to -3C in parts of the country overnight.",
           "published": "2026-11-15T10:59:44.000Z",
           "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1115/1599266-road-traffic-victims/",
-          "title": "Hundreds attend commemoration event for road victims",
-          "url": "https://www.rte.ie/news/ireland/2026/1115/1599266-road-traffic-victims/",
-          "summary": "Several hundred people have attended a national commemoration event, organised by the Irish Road Victims Association in partnership with the Road Safety Authority in Mullingar, Co Westmeath.",
-          "published": "2026-11-15T08:47:46.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1114/1599241-dublin-businesses-compensation-summit/",
-          "title": "Dublin businesses seek compensation after summit impact",
-          "url": "https://www.rte.ie/news/2026/1114/1599241-dublin-businesses-compensation-summit/",
-          "summary": "Some Dublin business owners have called for compensation for losses caused by disruption during this week's EU Summit, which saw many workers heed warnings and stay at home.",
-          "published": "2026-11-14T21:48:19.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/analysis-and-comment/2026/1115/1599239-politics-analysis/",
-          "title": "Sky cleared for Coalition ahead of European summits",
-          "url": "https://www.rte.ie/news/analysis-and-comment/2026/1115/1599239-politics-analysis/",
-          "summary": "This time last week the outlook was not good for the Coalition. As Dublin prepared to host a record number of world leaders, striking public sector workers planned a large-scale demonstration in the capital to coincide with their arrival, writes Political Correspondent Barry Lenihan.",
-          "published": "2026-11-15T08:39:54.000Z",
-          "source": "rte",
-          "kind": "news"
+          "kind": "news",
+          "topic": "Weather & flooding"
         },
         {
           "id": "https://www.rte.ie/news/ireland/2026/1114/1599199-ireland-us-flights/",
@@ -1006,52 +627,8 @@
           "summary": "The majority of flights between Ireland and the US operated as normal following the closure of US airspace last night.",
           "published": "2026-11-14T09:11:32.000Z",
           "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/politics/2026/1114/1599192-tanaiste-irish-unity/",
-          "title": "Tánaiste seeks views on Irish unity from party leaders",
-          "url": "https://www.rte.ie/news/politics/2026/1114/1599192-tanaiste-irish-unity/",
-          "summary": "Tánaiste Simon Harris has written to all political leaders across the island to seek their views on Irish unity and to explore what common ground exists on Irish reunification.",
-          "published": "2026-11-14T00:55:20.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1114/1599224-bishop-achonry-elphin/",
-          "title": "Bishop supports call for talks on declining birth rate",
-          "url": "https://www.rte.ie/news/ireland/2026/1114/1599224-bishop-achonry-elphin/",
-          "summary": "The Bishop of Achonry and Elphin has supported the call for a national discussion on declining birth rate, abortion figures and the long-term implications for families, healthcare services and the sustainability of the welfare state by the group Healthcare Professionals for Life.",
-          "published": "2026-11-14T16:03:32.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/dublin/2026/1114/1599212-dublin-body-death/",
-          "title": "Post-mortem completed on man's body found in Phoenix Park",
-          "url": "https://www.rte.ie/news/dublin/2026/1114/1599212-dublin-body-death/",
-          "summary": "Gardaí investigating the discovery of a man's body in Dublin's Phoenix Park say a post-mortem examination has been completed.",
-          "published": "2026-11-14T12:31:45.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1114/1599227-derry-hit-and-run/",
-          "title": "Boy hospitalised after hit-and-run incident in Co Armagh",
-          "url": "https://www.rte.ie/news/2026/1114/1599227-derry-hit-and-run/",
-          "summary": "Police are appealing for witnesses after a boy was injured in a hit-and-run incident in Co Armagh this afternoon.",
-          "published": "2026-11-14T16:31:59.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/regional/2026/1114/1599195-ni-eu-poll/",
-          "title": "More than half of NI voters back UK rejoining EU - poll",
-          "url": "https://www.rte.ie/news/regional/2026/1114/1599195-ni-eu-poll/",
-          "summary": "More than half of voters in Northern Ireland believe the UK should rejoin the European Union a decade after the Brexit referendum, a new opinion poll has suggested.",
-          "published": "2026-11-14T03:46:44.000Z",
-          "source": "rte",
-          "kind": "news"
+          "kind": "news",
+          "topic": "Travel disruption"
         },
         {
           "id": "https://www.rte.ie/news/2026/1114/1599205-microsoft-outage/",
@@ -1060,169 +637,8 @@
           "summary": "Microsoft has said that services have fully recovered across Teams, Outlook ⁠and its other products, ending a global outage that crippled online communications for businesses and governments for over 24 hours.",
           "published": "2026-11-14T11:16:15.000Z",
           "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/business/2026/1114/1599113-secondhand-ecommerce/",
-          "title": "How Ireland embraced 'pre-loved' e-commerce",
-          "url": "https://www.rte.ie/news/business/2026/1114/1599113-secondhand-ecommerce/",
-          "summary": "It's not surprising that Irish shoppers have an urge to get rid of stuff – statistics show we've accumulated a lot of it.",
-          "published": "2026-11-14T07:00:07.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1114/1599206-homeles-figures/",
-          "title": "Record homeless level revealed as EU red carpet rolled up",
-          "url": "https://www.rte.ie/news/2026/1114/1599206-homeles-figures/",
-          "summary": "The distraction of events at the Convention Centre enabled the Government to quietly publish an action plan on child and family homelessness as well as the latest homeless figures, which reached 18,000 for the first time.",
-          "published": "2026-11-14T11:57:05.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1113/1599127-omagh-inquiry/",
-          "title": "'Garda-MI5' source drove Omagh bomb car - former officer",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599127-omagh-inquiry/",
-          "summary": "A former head of the Serious Crime Branch at the PSNI has told the Omagh Bomb Inquiry that there was a \"Garda-MI5 source\" involved in carrying out the attack.",
-          "published": "2026-11-13T14:43:03.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1113/1599063-eu-summit-dublin/",
-          "title": "As it happened: Summit hears AI growing at speed",
-          "url": "https://www.rte.ie/news/2026/1113/1599063-eu-summit-dublin/",
-          "summary": "Follow live developments as EU leaders convene in Dublin with the conflict in Ukraine and the development of AI being discussed.",
-          "published": "2026-11-13T07:26:08.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1113/1599178-homeless-figures-september/",
-          "title": "Record 18,065 people in emergency accommodation",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599178-homeless-figures-september/",
-          "summary": "The number of people in emergency accommodation has surpassed 18,000 for the first time.",
-          "published": "2026-11-13T19:25:18.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1113/1599179-yvonne-nolan-dublin/",
-          "title": "Mother facing eviction denied respite for non-verbal sons",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599179-yvonne-nolan-dublin/",
-          "summary": "A Dublin mother who is being evicted from her home with her two severely autistic teenage sons has said the HSE has repeatedly told her that emergency residential care is unavailable.",
-          "published": "2026-11-13T20:04:47.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1113/1599175-carrie-mullane/",
-          "title": "Body of woman in Lough Erne identified as Carrie Mullane",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599175-carrie-mullane/",
-          "summary": "The body of a woman recovered from Lough Erne has been formally identified as Carrie Mullane from Co Limerick.",
-          "published": "2026-11-13T19:14:24.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1113/1599110-eleanor-donaldson/",
-          "title": "Eleanor Donaldson on sex offenders list for five years",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599110-eleanor-donaldson/",
-          "summary": "Eleanor Donaldson, the wife of former DUP leader Jeffrey Donaldson, has been placed on the sex offenders list for five years.",
-          "published": "2026-11-13T12:03:04.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1113/1599186-ai-taoiseach-eu/",
-          "title": "AI should be for the benefit of mankind - Taoiseach",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599186-ai-taoiseach-eu/",
-          "summary": "Artificial intelligence should be designed for the benefit rather than the \"ruination of mankind\", Taoiseach Micheál Martin has said.",
-          "published": "2026-11-13T21:12:55.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1113/1599104-funeral-elliot-english/",
-          "title": "Boy killed in fire 'brought home' to family, funeral told",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599104-funeral-elliot-english/",
-          "summary": "A six-year-old boy who died in an arson attack that claimed the lives of his parents and two brothers was a \"power of energy and love\", mourners at his funeral have heard.",
-          "published": "2026-11-13T11:12:03.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1113/1599169-scarlett-faulkner-court/",
-          "title": "Murder accused 'did not condone' Scarlett Faulkner attack",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599169-scarlett-faulkner-court/",
-          "summary": "A woman on trial for the murder of Scarlett Faulkner told gardaí she did not condone what happened to Ms Faulkner and said she was not responsible.",
-          "published": "2026-11-13T18:19:58.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ulster/2026/1113/1599045-psni-officers-sacked/",
-          "title": "PSNI officers fired over 'utterly despicable' behaviour",
-          "url": "https://www.rte.ie/news/ulster/2026/1113/1599045-psni-officers-sacked/",
-          "summary": "Two PSNI officers have been dismissed for what a police oversight body has described as \"utterly despicable\" behaviour towards vulnerable people they had been sent to help.",
-          "published": "2026-11-13T00:01:00.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1113/1599149-tallaght-pursuit-courts/",
-          "title": "Teenager jailed after high-speed pursuit through Tallaght",
-          "url": "https://www.rte.ie/news/2026/1113/1599149-tallaght-pursuit-courts/",
-          "summary": "A teenager who led gardaí on a high-speed pursuit through Dublin on a busy morning, breaking red lights and endangering road users, has been jailed for two and a half years.",
-          "published": "2026-11-13T16:12:57.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/",
-          "title": "Europe selects negotiating team for Ukraine talks",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/",
-          "summary": "EU leaders have agreed that Europe would be represented by Britain, France, Germany, Italy and Poland and the bloc's institutions at the next Ukraine talks.",
-          "published": "2026-11-13T06:14:37.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1113/1599158-pci-fails-to-justify-sharing-data-on-former-church-elder/",
-          "title": "PCI fails to justify sharing data on former church elder",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599158-pci-fails-to-justify-sharing-data-on-former-church-elder/",
-          "summary": "The Presbyterian Church in Ireland (PCI) has failed to justify sharing sensitive personal data about a former church elder according to the Data Protection Commission (DPC).",
-          "published": "2026-11-13T17:34:43.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/politics/2026/1113/1599091-martin-general-election/",
-          "title": "Martin says he will lead Fianna Fáil into next election",
-          "url": "https://www.rte.ie/news/politics/2026/1113/1599091-martin-general-election/",
-          "summary": "Taoiseach Micheál Martin has confirmed he will contest the next General Election and insisted he will lead Fianna Fáil into the campaign.",
-          "published": "2026-11-13T10:21:35.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/courts/2026/1113/1599116-richard-brennan/",
-          "title": "Sentence increased for ex-priest who raped his sisters",
-          "url": "https://www.rte.ie/news/courts/2026/1113/1599116-richard-brennan/",
-          "summary": "A former priest who raped and sexually assaulted his sisters while he was a seminarian has had his sentence increased by six years.",
-          "published": "2026-11-13T13:37:00.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/business/2026/1113/1599053-motor-insurance/",
-          "title": "Shop around to save €300 on motor insurance - research",
-          "url": "https://www.rte.ie/news/business/2026/1113/1599053-motor-insurance/",
-          "summary": "New research from the Central Bank suggests consumers can save around €300 by shopping around for motor insurance.",
-          "published": "2026-11-13T00:01:01.000Z",
-          "source": "rte",
-          "kind": "news"
+          "kind": "news",
+          "topic": "Service disruption"
         },
         {
           "id": "https://www.rte.ie/news/dublin/2026/1113/1599051-dublin-traffic-restrictions/",
@@ -1231,124 +647,8 @@
           "summary": "Traffic restrictions remain in place around Dublin city on the second day of meetings involving European political leaders.",
           "published": "2026-11-13T00:01:01.000Z",
           "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1113/1598966-oiche-na-hoige/",
-          "title": "Óiche na hÓige events to take place nationwide",
-          "url": "https://www.rte.ie/news/2026/1113/1598966-oiche-na-hoige/",
-          "summary": "A celebration of youth work in communities will take place across Ireland tonight as part of Oíche na hÓige as youth clubs and services are set to open to the wider community.",
-          "published": "2026-11-13T06:43:06.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ulster/2026/1113/1599082-donegal-thatching/",
-          "title": "Ireland's only thatching school 'getting great results'",
-          "url": "https://www.rte.ie/news/ulster/2026/1113/1599082-donegal-thatching/",
-          "summary": "Ireland's only purpose-built thatching school said it is \"getting great results\" from people seeking to learn an iconic trade that underpins part of the country's heritage.",
-          "published": "2026-11-13T09:22:19.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/eu-presidency/2026/1112/1598891-epc-summit/",
-          "title": "50 leaders in Dublin for State's largest diplomatic event",
-          "url": "https://www.rte.ie/news/eu-presidency/2026/1112/1598891-epc-summit/",
-          "summary": "The largest diplomatic undertaking in Irish history took place in Dublin today as the ninth European Political Community meeting was held in Dublin.",
-          "published": "2026-11-12T06:00:00.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/regional/2026/1113/1599107-plan-for-step-down-beds-at-uhl-off-due-to-lack-of-funding/",
-          "title": "Plan for step-down beds at UHL off due to lack of funding",
-          "url": "https://www.rte.ie/news/regional/2026/1113/1599107-plan-for-step-down-beds-at-uhl-off-due-to-lack-of-funding/",
-          "summary": "Plans to secure 100 step-down or rehab beds to ease pressure on the consistently overcrowded University Hospital Limerick were scrapped due to a lack of available HSE funding.",
-          "published": "2026-11-13T12:41:16.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/courts/2026/1112/1598957-limerick-woman-beaten-to-death/",
-          "title": "Mullane's body kept for fortnight then hidden, court told",
-          "url": "https://www.rte.ie/news/courts/2026/1112/1598957-limerick-woman-beaten-to-death/",
-          "summary": "A Limerick woman was beaten to death and her body kept for a fortnight before it was hidden in a Co Fermanagh Lough, a court heard today.",
-          "published": "2026-11-12T12:17:47.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1112/1599048-epc-takeaways/",
-          "title": "5 takeaways from Dublin's EPC summit",
-          "url": "https://www.rte.ie/news/2026/1112/1599048-epc-takeaways/",
-          "summary": "Following a day of hectic diplomatic activity around Dublin's Convention Centre, reporter Harry Manning takes a look at five key takeaways from the ninth European Political Community summit.",
-          "published": "2026-11-12T21:08:18.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1112/1599034-eu-presidency-taoiseach-analysis/",
-          "title": "What next for Martin after moment on world stage?",
-          "url": "https://www.rte.ie/news/2026/1112/1599034-eu-presidency-taoiseach-analysis/",
-          "summary": "For the hundreds of journalists assigned to cover the biggest gathering of political leaders in the history of the Irish State, the day began in the bowels of Croke Park.",
-          "published": "2026-11-12T18:17:24.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/courts/2026/1112/1599002-jason-murphy-court/",
-          "title": "Hutch's son facing charges involving garda 'infiltration'",
-          "url": "https://www.rte.ie/news/courts/2026/1112/1599002-jason-murphy-court/",
-          "summary": "A 37-year-old man has been denied bail pending his trial on a charge of facilitating organised crime involving allegations of high-level \"infiltration\" of An Garda Síochána.",
-          "published": "2026-11-12T15:39:05.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1112/1599036-omagh-bomb-inquiry/",
-          "title": "State agent involved in planting Omagh bomb, inquiry told",
-          "url": "https://www.rte.ie/news/2026/1112/1599036-omagh-bomb-inquiry/",
-          "summary": "A state agent was among those who planted the Omagh bomb, a former senior police officer has told the inquiry investigating the 1998 inquiry.",
-          "published": "2026-11-12T18:48:00.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1112/1599031-decoy-court/",
-          "title": "Man caught in child-decoy sex sting jailed for five years",
-          "url": "https://www.rte.ie/news/ireland/2026/1112/1599031-decoy-court/",
-          "summary": "A man who travelled to Donegal from Dublin intending to have sex with a 13-year-old girl has been jailed for five years.",
-          "published": "2026-11-12T18:20:35.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/middle-east/2026/1112/1598998-gaza-protest-dublin-arrests/",
-          "title": "Two arrests at pro-Palestine protest in Dublin city",
-          "url": "https://www.rte.ie/news/middle-east/2026/1112/1598998-gaza-protest-dublin-arrests/",
-          "summary": "Two people have been arrested after scuffles at a Mothers Against Genocide protest on Westmoreland Street.",
-          "published": "2026-11-12T15:27:52.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1112/1599038-teachers-pay-deal/",
-          "title": "Teachers express concerns over proposed pay deal - unions",
-          "url": "https://www.rte.ie/news/ireland/2026/1112/1599038-teachers-pay-deal/",
-          "summary": "Second-level teacher unions, the Association of Secondary Teachers Ireland (ASTI) and the Teachers Union of Ireland (TUI), have said they have serious concerns and are seeking clarification over the proposed public service pay deal.",
-          "published": "2026-11-12T18:43:53.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/analysis-and-comment/2026/1112/1598946-epc-analysis/",
-          "title": "Who speaks for Europe key issue as leaders meet",
-          "url": "https://www.rte.ie/news/analysis-and-comment/2026/1112/1598946-epc-analysis/",
-          "summary": "Deciding who speaks for Europe in the event of peace negotiations with Russia is shaping up to be a key issue in today's EPC meeting, with perhaps more focus on the issue when 27 EU leaders meet separately tomorrow at the Convention Centre.",
-          "published": "2026-11-12T11:05:50.000Z",
-          "source": "rte",
-          "kind": "news"
+          "kind": "news",
+          "topic": "Travel disruption"
         }
       ]
     }

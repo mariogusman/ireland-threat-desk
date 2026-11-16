@@ -5,7 +5,7 @@
 **Local information. Practical preparation.**
 
 An independent emergency preparation desk for the **Republic of Ireland**.<br>
-Official weather warnings, Irish cyber advisories, local headlines, and a household plan that stays on your device.
+Official weather warnings, Irish cyber advisories, relevant incident reports, and a household plan that stays on your device.
 
 ### [Open the live desk →](https://mariogusman.github.io/ireland-threat-desk/)
 
@@ -24,7 +24,7 @@ No account · No adverts · No analytics · Mobile friendly
 | In the app | What you can do |
 | --- | --- |
 | **Overview** | Check Met Éireann warnings, choose from all 26 counties, see a local forecast, and open Irish utility maps. |
-| **Irish live wire** | Read and search NCSC Ireland advisories and Irish news, with publication dates, source links and retrieval status. |
+| **Irish live wire** | Read and search NCSC Ireland advisories and relevant emergency, safety and service-disruption reports, with publication dates, source links and retrieval status. |
 | **My household plan** | Set 1–20 people and 1–14 days; calculate water and meals; work through an 18-item checklist. |
 | **Power cut guide** | Follow first-hour, first-day and extended-outage guidance, start an outage timer and track stored water. |
 | **Emergency contacts** | Tap to call Irish emergency services, ESB Networks, Gas Networks Ireland, Uisce Éireann and other support. |
@@ -40,13 +40,21 @@ Plans support **printing, JSON backup and restoration, light/dark themes, and of
 | --- | --- | --- |
 | [Met Éireann](https://www.met.ie/warnings-today.html) | Official weather warnings | Expired warnings are removed. Duplicate wind/rain notices are combined. Upcoming warnings remain visible. |
 | [NCSC Ireland](https://www.ncsc.gov.ie/news/) | Official Irish cyber advisories | RSS notices link to the original advisory or document. |
-| [TheJournal.ie](https://www.thejournal.ie/) | Irish news | Headlines link to the publisher; reporting is not presented as an official alert. |
-| [RTÉ News](https://www.rte.ie/news/ireland/) | Irish news, when accessible | RTÉ can reject automated feed requests. The desk shows failures and keeps a direct website link. |
+| [TheJournal.ie](https://www.thejournal.ie/) | Irish news | Filtered incident and warning headlines link to the publisher; reporting is not presented as an official alert. |
+| [RTÉ News](https://www.rte.ie/news/ireland/) | Irish news, when accessible | Reports are filtered for relevant incidents and warnings. RTÉ can reject automated feed requests. The desk shows failures and keeps a direct website link. |
 | [Open-Meteo](https://open-meteo.com/) | Four-day local forecast | A representative town in the selected county; separate from official warnings. Forecast data: CC BY 4.0. |
 
 A GitHub Actions job retrieves the shared feeds **approximately every 20 minutes**. GitHub can delay scheduled jobs. While open, the app reloads the latest snapshot every five minutes and also attempts direct Met Éireann access where browser permissions allow it.
 
 Weather is considered fresh for **30 minutes** after a successful retrieval; news for **six hours**. A failed source retains its last-known items and original timestamp, with an unverified label. A failed or stale weather feed **never becomes an all-clear**. Offline information is labelled unverified.
+
+### Relevant reports, rather than a general news feed
+
+The live wire and overview retain reports about **weather and flooding, utility and digital-service outages, significant travel disruption, public-health alerts, evacuations and other major safety incidents, and cyber security**. Official NCSC Ireland advisories are always included.
+
+Topic rules use headlines and summaries. General politics, sport, entertainment, quizzes, daily roundups, routine crime reports and historical court or inquiry coverage are excluded. Reports receive a topic label so you can see why they appear. A matching topic is not an official warning or a severity rating.
+
+The same rules run during collection and in the browser, including against previously saved snapshots. A successful news-feed retrieval with no relevant articles is shown as healthy with zero items; the desk does not fill the gap with unrelated headlines. The rules are in [`scripts/relevance.mjs`](scripts/relevance.mjs).
 
 ### Official links, checked by you
 
@@ -104,6 +112,7 @@ app.js                     Screens, controls, local storage and source retrieval
 core.js                    Household calculations, county logic and Irish services
 sw.js                      Offline application cache
 scripts/feeds.mjs          Source definitions, parsing and failure handling
+scripts/relevance.mjs      Shared incident and warning relevance rules
 scripts/refresh-feeds.mjs  Shared snapshot refresh
 data/status.json           Latest retrieved source snapshot
 tests/                     Core and DOM integration tests

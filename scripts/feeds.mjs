@@ -1,3 +1,4 @@
+import {filterRelevantNews} from './relevance.mjs';
 export const SOURCES = [
   {id:'met', name:'Met Éireann', kind:'weather', url:'https://www.met.ie/Open_Data/json/warning_IRELAND.json', home:'https://www.met.ie/warnings-today.html'},
   {id:'ncsc', name:'NCSC Ireland', kind:'cyber', url:'https://www.ncsc.gov.ie/news/alerts.rss', home:'https://www.ncsc.gov.ie/news/'},
@@ -42,10 +43,11 @@ export async function collect(previous={sources:{}},fetcher=fetch) {
       const r=await fetcher(s.url,{headers:{'User-Agent':'IrelandThreatDesk/1.0 (+https://github.com/mariogusman/ireland-threat-desk)','Accept':'application/json, application/rss+xml, application/xml, text/xml'},signal:AbortSignal.timeout(18000)});
       if(!r.ok)throw new Error(`HTTP ${r.status}`);
       const body=await r.text();
-      const items=s.kind==='weather'?parseWarnings(JSON.parse(body)):parseRSS(body,s);
-      if(s.kind!=='weather'&&!items.length)throw new Error('Feed contained no readable items');
+      const parsed=s.kind==='weather'?parseWarnings(JSON.parse(body)):parseRSS(body,s);
+      if(s.kind!=='weather'&&!parsed.length)throw new Error('Feed contained no readable items');
+      const items=s.kind==='weather'?parsed:filterRelevantNews(parsed);
       return [s.id,{...s,ok:true,checkedAt:now,fetchedAt:now,items}];
-    }catch(e){const old=previous.sources?.[s.id];return [s.id,{...s,ok:false,checkedAt:now,fetchedAt:old?.fetchedAt||null,error:String(e.message).slice(0,180),items:old?.items||[]}];}
+    }catch(e){const old=previous.sources?.[s.id];return [s.id,{...s,ok:false,checkedAt:now,fetchedAt:old?.fetchedAt||null,error:String(e.message).slice(0,180),items:s.kind==='weather'?(old?.items||[]):filterRelevantNews(old?.items||[])}];}
   }));
   return {version:1,generatedAt:now,sources:Object.fromEntries(sources)};
 }

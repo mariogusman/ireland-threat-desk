@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T08:08:14.668Z",
+  "generatedAt": "2026-11-16T11:51:35.975Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,12 +9,12 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-16T08:08:14.668Z",
-      "fetchedAt": "2026-11-16T08:08:14.668Z",
+      "checkedAt": "2026-11-16T11:51:35.975Z",
+      "fetchedAt": "2026-11-16T11:51:35.975Z",
       "items": [
         {
-          "id": "2.49.0.1.372.0.261115213419.d14fd667-8d86-42d9-b1e1-4bb495386206",
-          "title": "Status Yellow - Wind and Rain warning for Cork, Waterford",
+          "id": "2.49.0.1.372.0.261116082708.01ca3dc0-ec46-4f5e-8c0f-7ea9e681e56a",
+          "title": "Status Yellow - Wind and Rain warning for Cork, Kerry, Waterford",
           "description": "Spells of heavy rain along with strong and gusty southeast winds. Be aware of potential impacts: Difficult travelling conditions Localised flooding possible Poor visibility Debris, loose objects displaced",
           "level": "yellow",
           "types": [
@@ -23,27 +23,13 @@
           ],
           "onset": "2026-11-16T13:00:00+00:00",
           "expiry": "2026-11-16T23:59:00+00:00",
-          "issued": "2026-11-15T21:34:19.636917+00:00",
+          "issued": "2026-11-16T08:27:08.753178+00:00",
           "url": "https://www.met.ie/warnings-today.html"
         },
         {
-          "id": "2.49.0.1.372.0.261115213133.f956cd17-409c-4e0b-8f37-1798caebd4b3",
-          "title": "Rain and Wind warning for Kerry",
-          "description": "Spells of heavy rain along with strong and gusty southeasterly winds. Be aware of potential impacts: Debris, loose objects displaced Difficult travelling conditions Localised flooding possible",
-          "level": "yellow",
-          "types": [
-            "Wind",
-            "Rain"
-          ],
-          "onset": "2026-11-16T13:00:00+00:00",
-          "expiry": "2026-11-16T23:59:00+00:00",
-          "issued": "2026-11-15T21:31:33.646077+00:00",
-          "url": "https://www.met.ie/warnings-today.html"
-        },
-        {
-          "id": "2.49.0.1.372.0.261115213054.1ca70c3e-817c-4df2-93fb-ce06284c5034",
-          "title": "Status Yellow - Wind and Rain warning for Galway, Mayo, Sligo",
-          "description": "Spells of heavy rain along with strong and gusty southeast winds. Be aware of potential impacts: Debris, loose objects displaced Difficult driving and cycling conditions Localised flooding possible",
+          "id": "2.49.0.1.372.0.261116103909.83bd58ce-db01-4d92-8a3b-7518ad1b9d23",
+          "title": "Status Yellow - Wind and Rain warning for Clare, Galway, Mayo, Sligo",
+          "description": "Strong and gusty southeast winds veering southwesterly with spells of rain, turning heavy at times. Be aware of potential impacts: Debris, loose objects displaced Difficult driving and cycling conditions Localised flooding possible",
           "level": "yellow",
           "types": [
             "Rain",
@@ -51,21 +37,20 @@
           ],
           "onset": "2026-11-16T15:00:00+00:00",
           "expiry": "2026-11-17T04:00:00+00:00",
-          "issued": "2026-11-15T21:30:54.154755+00:00",
+          "issued": "2026-11-16T10:39:08.995546+00:00",
           "url": "https://www.met.ie/warnings-today.html"
         },
         {
-          "id": "2.49.0.1.372.0.261116064627.c2209c28-a166-4040-a2fe-698c1e736d79",
-          "title": "Status Yellow - Wind and Rain warning for Donegal",
-          "description": "Very strong and gusty southeast winds with heavy driving rain, and sleet or snow on hills for a time. Be aware of potential impacts: Debris, loose objects displaced Difficult travelling conditions Localised flooding possible",
+          "id": "2.49.0.1.372.0.261116093054.226e2c77-4f72-4877-bd19-5f9e4cf6415a",
+          "title": "Status Yellow - Wind warning for Donegal",
+          "description": "Very strong and gusty southeast winds veering southwesterly. Debris, loose objects displaced Difficult travelling conditions",
           "level": "yellow",
           "types": [
-            "Rain",
             "Wind"
           ],
           "onset": "2026-11-16T19:00:00+00:00",
-          "expiry": "2026-11-17T04:00:00+00:00",
-          "issued": "2026-11-16T06:46:27.775114+00:00",
+          "expiry": "2026-11-17T06:00:00+00:00",
+          "issued": "2026-11-16T09:30:54.564891+00:00",
           "url": "https://www.met.ie/warnings-today.html"
         }
       ]
@@ -77,8 +62,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-16T08:08:14.668Z",
-      "fetchedAt": "2026-11-16T08:08:14.668Z",
+      "checkedAt": "2026-11-16T11:51:35.975Z",
+      "fetchedAt": "2026-11-16T11:51:35.975Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
@@ -589,8 +574,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-16T08:08:14.668Z",
-      "fetchedAt": "2026-11-16T08:08:14.668Z",
+      "checkedAt": "2026-11-16T11:51:35.975Z",
+      "fetchedAt": "2026-11-16T11:51:35.975Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/dublin-ai-flood-warning-system-7227372-Nov2026/",
@@ -641,14 +626,14 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-16T08:08:14.668Z",
-      "fetchedAt": "2026-11-16T08:08:14.668Z",
+      "checkedAt": "2026-11-16T11:51:35.975Z",
+      "fetchedAt": "2026-11-16T11:51:35.975Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/ireland/2026/1116/1599326-weather-ireland/",
           "title": "Wind and rain warnings issued for seven counties",
           "url": "https://www.rte.ie/news/ireland/2026/1116/1599326-weather-ireland/",
-          "summary": "Four separate status Yellow wind and rain warnings have been issued for seven counties.",
+          "summary": "Three separate status Yellow wind and rain warnings have been issued for seven counties.",
           "published": "2026-11-16T04:43:55.000Z",
           "source": "rte",
           "kind": "news",

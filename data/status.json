@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T23:41:07.996Z",
+  "generatedAt": "2026-11-16T03:13:38.548Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-15T23:41:07.996Z",
-      "fetchedAt": "2026-11-15T23:41:07.996Z",
+      "checkedAt": "2026-11-16T03:13:38.548Z",
+      "fetchedAt": "2026-11-16T03:13:38.548Z",
       "items": [
         {
           "id": "2.49.0.1.372.0.261115213419.23c3fc4a-aac5-415f-a30f-cb04f735079d",
@@ -27,13 +27,13 @@
           "url": "https://www.met.ie/warnings-today.html"
         },
         {
-          "id": "2.49.0.1.372.0.261115213133.f956cd17-409c-4e0b-8f37-1798caebd4b3",
+          "id": "2.49.0.1.372.0.261115213133.0284cdb7-9474-4d8c-9622-7b5d448bae5b",
           "title": "Rain and Wind warning for Kerry",
           "description": "Spells of heavy rain along with strong and gusty southeasterly winds. Be aware of potential impacts: Debris, loose objects displaced Difficult travelling conditions Localised flooding possible",
           "level": "yellow",
           "types": [
-            "Wind",
-            "Rain"
+            "Rain",
+            "Wind"
           ],
           "onset": "2026-11-16T13:00:00+00:00",
           "expiry": "2026-11-16T23:59:00+00:00",
@@ -63,8 +63,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-15T23:41:07.996Z",
-      "fetchedAt": "2026-11-15T23:41:07.996Z",
+      "checkedAt": "2026-11-16T03:13:38.548Z",
+      "fetchedAt": "2026-11-16T03:13:38.548Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
@@ -525,9 +525,18 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-15T23:41:07.996Z",
-      "fetchedAt": "2026-11-15T23:41:07.996Z",
+      "checkedAt": "2026-11-16T03:13:38.548Z",
+      "fetchedAt": "2026-11-16T03:13:38.548Z",
       "items": [
+        {
+          "id": "https://www.thejournal.ie/ires-reit-tenant-case-7221435-Nov2026/",
+          "title": "Ires Reit eviction bid: Dispute between Ireland’s biggest private landlord and ex-employee continues",
+          "url": "https://www.thejournal.ie/ires-reit-tenant-case-7221435-Nov2026/",
+          "summary": "The case concerns a man and woman, both of whom have worked for Ires Reit, who are resisting an eviction.",
+          "published": "2026-11-16T00:05:29.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
         {
           "id": "https://www.thejournal.ie/quiz-storms-7222253-Nov2026/",
           "title": "Quiz: How much do you know about storms?",
@@ -565,15 +574,6 @@
           "kind": "news"
         },
         {
-          "id": "https://www.thejournal.ie/river/best-of-the-box-2483553-Nov2026/",
-          "title": "Best of the Box",
-          "url": "https://www.thejournal.ie/river/best-of-the-box-2483553-Nov2026/",
-          "summary": "Check out what we’re watching on TV this weekend.",
-          "published": "1970-01-01T00:00:00.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
           "id": "https://www.thejournal.ie/readme/money-diaries-38-7224334-Nov2026/",
           "title": "Christmas is coming! Want to be prepared? How about keeping a Money Diary for us?",
           "url": "https://www.thejournal.ie/readme/money-diaries-38-7224334-Nov2026/",
@@ -606,15 +606,6 @@
           "url": "https://www.thejournal.ie/man-found-dead-in-phoenix-park-identified-by-gardai-as-eastern-european-male-7226365-Nov2026/",
           "summary": "Tomasz Robert Michowski (48) from Poland was found with suspected stab wounds in Phoenix Park on Friday morning.",
           "published": "2026-11-15T18:04:00.000Z",
-          "source": "journal",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.thejournal.ie/river/daft-ie-property-magazine-2483547-Nov2026/",
-          "title": "DAFT.IE PROPERTY MAGAZINE",
-          "url": "https://www.thejournal.ie/river/daft-ie-property-magazine-2483547-Nov2026/",
-          "summary": "The perfect union of classic and contemporary style at this Ranelagh redbrick for €1,475,000",
-          "published": "1970-01-01T00:00:00.000Z",
           "source": "journal",
           "kind": "news"
         },
@@ -862,6 +853,24 @@
           "kind": "news"
         },
         {
+          "id": "https://www.thejournal.ie/river/best-of-the-box-2483553-Nov2026/",
+          "title": "Best of the Box",
+          "url": "https://www.thejournal.ie/river/best-of-the-box-2483553-Nov2026/",
+          "summary": "Check out what we’re watching on TV this weekend.",
+          "published": "1970-01-01T00:00:00.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
+          "id": "https://www.thejournal.ie/river/daft-ie-property-magazine-2483547-Nov2026/",
+          "title": "DAFT.IE PROPERTY MAGAZINE",
+          "url": "https://www.thejournal.ie/river/daft-ie-property-magazine-2483547-Nov2026/",
+          "summary": "The perfect union of classic and contemporary style at this Ranelagh redbrick for €1,475,000",
+          "published": "1970-01-01T00:00:00.000Z",
+          "source": "journal",
+          "kind": "news"
+        },
+        {
           "id": "https://www.thejournal.ie/niall-horan-dinner-party-music-quiz-7222240-Nov2026/",
           "title": "How much do you know about Niall Horan?",
           "url": "https://www.thejournal.ie/niall-horan-dinner-party-music-quiz-7222240-Nov2026/",
@@ -878,15 +887,6 @@
           "published": "2026-11-14T21:00:27.000Z",
           "source": "journal",
           "kind": "news"
-        },
-        {
-          "id": "https://www.the42.ie/live-ireland-v-austria-nations-league-7226394-Nov2026/",
-          "title": "Austria v Ireland, Nations League",
-          "url": "https://www.the42.ie/live-ireland-v-austria-nations-league-7226394-Nov2026/",
-          "summary": "Ireland faced Austria as they sought to earn their second win of the campaign.",
-          "published": "2026-11-14T20:43:51.000Z",
-          "source": "journal",
-          "kind": "news"
         }
       ]
     },
@@ -897,9 +897,18 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-15T23:41:07.996Z",
-      "fetchedAt": "2026-11-15T23:41:07.996Z",
+      "checkedAt": "2026-11-16T03:13:38.548Z",
+      "fetchedAt": "2026-11-16T03:13:38.548Z",
       "items": [
+        {
+          "id": "https://www.rte.ie/news/2026/1116/1599310-domestic-economy-grow-ibec/",
+          "title": "Domestic economy to grow 3.5% this year, says IBEC",
+          "url": "https://www.rte.ie/news/2026/1116/1599310-domestic-economy-grow-ibec/",
+          "summary": "Employer group IBEC forecasts that the domestic economy will grow by 3.5% this year and 4% in 2027, with the number of people in employment expected to reach 2.9 million next year.",
+          "published": "2026-11-16T00:01:00.000Z",
+          "source": "rte",
+          "kind": "news"
+        },
         {
           "id": "https://www.rte.ie/news/ireland/2026/1115/1599299-offaly-death/",
           "title": "Investigation after body of woman, 20s, found in Offaly",
@@ -1338,15 +1347,6 @@
           "url": "https://www.rte.ie/news/analysis-and-comment/2026/1112/1598946-epc-analysis/",
           "summary": "Deciding who speaks for Europe in the event of peace negotiations with Russia is shaping up to be a key issue in today's EPC meeting, with perhaps more focus on the issue when 27 EU leaders meet separately tomorrow at the Convention Centre.",
           "published": "2026-11-12T11:05:50.000Z",
-          "source": "rte",
-          "kind": "news"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1112/1599026-superintendent-brian-oreilly/",
-          "title": "Garda whistleblower loses enhanced sick pay appeal",
-          "url": "https://www.rte.ie/news/ireland/2026/1112/1599026-superintendent-brian-oreilly/",
-          "summary": "A senior garda who says he was penalised for making protected disclosures about alleged defective gun holsters has lost his appeal against the dismissal of his claim for enhanced sick pay.",
-          "published": "2026-11-12T17:08:38.000Z",
           "source": "rte",
           "kind": "news"
         }

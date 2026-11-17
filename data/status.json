@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T21:56:49.103Z",
+  "generatedAt": "2026-11-17T04:26:37.527Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,37 +9,9 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-16T21:56:49.103Z",
-      "fetchedAt": "2026-11-16T21:56:49.103Z",
+      "checkedAt": "2026-11-17T04:26:37.527Z",
+      "fetchedAt": "2026-11-17T04:26:37.527Z",
       "items": [
-        {
-          "id": "2.49.0.1.372.0.261116120224.7a09d3e3-701d-4cbc-80ef-31f13e6621d0",
-          "title": "Status Yellow - Wind and Rain warning for Cork, Kerry, Waterford",
-          "description": "Strong and gusty southeastly winds, veering southwesterly with heavy spells of rain at times. Be aware of potential impacts: Difficult travelling conditions Localised flooding possible Poor visibility Debris, loose objects displaced",
-          "level": "yellow",
-          "types": [
-            "Rain",
-            "Wind"
-          ],
-          "onset": "2026-11-16T13:00:00+00:00",
-          "expiry": "2026-11-16T23:59:00+00:00",
-          "issued": "2026-11-16T12:02:23.954887+00:00",
-          "url": "https://www.met.ie/warnings-today.html"
-        },
-        {
-          "id": "2.49.0.1.372.0.261116103909.83bd58ce-db01-4d92-8a3b-7518ad1b9d23",
-          "title": "Status Yellow - Wind and Rain warning for Clare, Galway, Mayo, Sligo",
-          "description": "Strong and gusty southeast winds veering southwesterly with spells of rain, turning heavy at times. Be aware of potential impacts: Debris, loose objects displaced Difficult driving and cycling conditions Localised flooding possible",
-          "level": "yellow",
-          "types": [
-            "Rain",
-            "Wind"
-          ],
-          "onset": "2026-11-16T15:00:00+00:00",
-          "expiry": "2026-11-17T04:00:00+00:00",
-          "issued": "2026-11-16T10:39:08.995546+00:00",
-          "url": "https://www.met.ie/warnings-today.html"
-        },
         {
           "id": "2.49.0.1.372.0.261116093054.226e2c77-4f72-4877-bd19-5f9e4cf6415a",
           "title": "Status Yellow - Wind warning for Donegal",
@@ -62,8 +34,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-16T21:56:49.103Z",
-      "fetchedAt": "2026-11-16T21:56:49.103Z",
+      "checkedAt": "2026-11-17T04:26:37.527Z",
+      "fetchedAt": "2026-11-17T04:26:37.527Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
@@ -574,9 +546,19 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-16T21:56:49.103Z",
-      "fetchedAt": "2026-11-16T21:56:49.103Z",
+      "checkedAt": "2026-11-17T04:26:37.527Z",
+      "fetchedAt": "2026-11-17T04:26:37.527Z",
       "items": [
+        {
+          "id": "https://www.thejournal.ie/biosecurity-regulations-avian-flu-7228252-Nov2026/",
+          "title": "New rules to be imposed on poultry keepers to prevent the spread of bird flu",
+          "url": "https://www.thejournal.ie/biosecurity-regulations-avian-flu-7228252-Nov2026/",
+          "summary": "The arrival of migratory birds and colder temperatures increases the risk of bird flu.",
+          "published": "2026-11-16T22:04:58.000Z",
+          "source": "journal",
+          "kind": "news",
+          "topic": "Public health"
+        },
         {
           "id": "https://www.thejournal.ie/weather-warnings-forecast-monday-7227374-Nov2026/",
           "title": "Heavy wind and rain blowing in as eight counties put under weather warnings",
@@ -606,8 +588,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-16T21:56:49.103Z",
-      "fetchedAt": "2026-11-16T21:56:49.103Z",
+      "checkedAt": "2026-11-17T04:26:37.527Z",
+      "fetchedAt": "2026-11-17T04:26:37.527Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/regional/2026/1116/1599326-weather-ireland/",

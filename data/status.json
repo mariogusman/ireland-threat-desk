@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T13:45:27.626Z",
+  "generatedAt": "2026-11-17T21:55:40.312Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-17T13:45:27.626Z",
-      "fetchedAt": "2026-11-17T13:45:27.626Z",
+      "checkedAt": "2026-11-17T21:55:40.312Z",
+      "fetchedAt": "2026-11-17T21:55:40.312Z",
       "items": []
     },
     "ncsc": {
@@ -20,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-17T13:45:27.626Z",
-      "fetchedAt": "2026-11-17T13:45:27.626Z",
+      "checkedAt": "2026-11-17T21:55:40.312Z",
+      "fetchedAt": "2026-11-17T21:55:40.312Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
@@ -532,28 +532,18 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-17T13:45:27.626Z",
-      "fetchedAt": "2026-11-17T13:45:27.626Z",
+      "checkedAt": "2026-11-17T21:55:40.312Z",
+      "fetchedAt": "2026-11-17T21:55:40.312Z",
       "items": [
         {
-          "id": "https://www.thejournal.ie/daft-rental-report-4-7228389-Nov2026/",
-          "title": "More rental homes are available as the market cools, says report",
-          "url": "https://www.thejournal.ie/daft-rental-report-4-7228389-Nov2026/",
-          "summary": "Market rents are 43% above their pre-Covid levels, and while availability has improved, it is still far below levels seen before the pandemic.",
-          "published": "2026-11-17T08:14:56.000Z",
+          "id": "https://www.thejournal.ie/credit-union-data-breach-7229027-Nov2026/",
+          "title": "Investigation underway into cyberattack on multiple Irish credit unions",
+          "url": "https://www.thejournal.ie/credit-union-data-breach-7229027-Nov2026/",
+          "summary": "A spokesperson for the Irish League of Credit Unions said member accounts and balances have not been compromised.",
+          "published": "2026-11-17T17:20:00.000Z",
           "source": "journal",
           "kind": "news",
-          "topic": "Public health"
-        },
-        {
-          "id": "https://www.thejournal.ie/biosecurity-regulations-avian-flu-7228252-Nov2026/",
-          "title": "New rules to be imposed on poultry keepers to prevent the spread of bird flu",
-          "url": "https://www.thejournal.ie/biosecurity-regulations-avian-flu-7228252-Nov2026/",
-          "summary": "The arrival of migratory birds and colder temperatures increases the risk of bird flu.",
-          "published": "2026-11-16T22:04:58.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Public health"
+          "topic": "Cyber security"
         }
       ]
     },
@@ -564,25 +554,25 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-17T13:45:27.626Z",
-      "fetchedAt": "2026-11-17T13:45:27.626Z",
+      "checkedAt": "2026-11-17T21:55:40.312Z",
+      "fetchedAt": "2026-11-17T21:55:40.312Z",
       "items": [
+        {
+          "id": "https://www.rte.ie/news/business/2026/1117/1599594-supected-data-breach-at-credit-unions/",
+          "title": "Dozens of credit union branches hit by data breach",
+          "url": "https://www.rte.ie/news/business/2026/1117/1599594-supected-data-breach-at-credit-unions/",
+          "summary": "Around 40 data breach notifications from credit unions have been reported to the Data Protection Commission, it is understood.",
+          "published": "2026-11-17T17:03:58.000Z",
+          "source": "rte",
+          "kind": "news",
+          "topic": "Cyber security"
+        },
         {
           "id": "https://www.rte.ie/news/regional/2026/1116/1599326-weather-ireland/",
           "title": "Wind and rain warnings for seven counties expire",
           "url": "https://www.rte.ie/news/regional/2026/1116/1599326-weather-ireland/",
           "summary": "Two Status Yellow wind and rain warnings have expired for seven counties as hasan additional Status Yellow wind warning that was in place for one county.",
           "published": "2026-11-16T04:43:55.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Weather & flooding"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1115/1599271-cold-weather-ireland/",
-          "title": "Cold snap to hit country with lows of -3C forecast",
-          "url": "https://www.rte.ie/news/ireland/2026/1115/1599271-cold-weather-ireland/",
-          "summary": "Met Éireann has warned of a cold snap in the coming days with temperatures forecast to drop to -3C in parts of the country overnight.",
-          "published": "2026-11-15T10:59:44.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Weather & flooding"

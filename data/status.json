@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T04:26:37.527Z",
+  "generatedAt": "2026-11-17T13:45:27.626Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,23 +9,9 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-17T04:26:37.527Z",
-      "fetchedAt": "2026-11-17T04:26:37.527Z",
-      "items": [
-        {
-          "id": "2.49.0.1.372.0.261116093054.226e2c77-4f72-4877-bd19-5f9e4cf6415a",
-          "title": "Status Yellow - Wind warning for Donegal",
-          "description": "Very strong and gusty southeast winds veering southwesterly. Debris, loose objects displaced Difficult travelling conditions",
-          "level": "yellow",
-          "types": [
-            "Wind"
-          ],
-          "onset": "2026-11-16T19:00:00+00:00",
-          "expiry": "2026-11-17T06:00:00+00:00",
-          "issued": "2026-11-16T09:30:54.564891+00:00",
-          "url": "https://www.met.ie/warnings-today.html"
-        }
-      ]
+      "checkedAt": "2026-11-17T13:45:27.626Z",
+      "fetchedAt": "2026-11-17T13:45:27.626Z",
+      "items": []
     },
     "ncsc": {
       "id": "ncsc",
@@ -34,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-17T04:26:37.527Z",
-      "fetchedAt": "2026-11-17T04:26:37.527Z",
+      "checkedAt": "2026-11-17T13:45:27.626Z",
+      "fetchedAt": "2026-11-17T13:45:27.626Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
@@ -546,9 +532,19 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-17T04:26:37.527Z",
-      "fetchedAt": "2026-11-17T04:26:37.527Z",
+      "checkedAt": "2026-11-17T13:45:27.626Z",
+      "fetchedAt": "2026-11-17T13:45:27.626Z",
       "items": [
+        {
+          "id": "https://www.thejournal.ie/daft-rental-report-4-7228389-Nov2026/",
+          "title": "More rental homes are available as the market cools, says report",
+          "url": "https://www.thejournal.ie/daft-rental-report-4-7228389-Nov2026/",
+          "summary": "Market rents are 43% above their pre-Covid levels, and while availability has improved, it is still far below levels seen before the pandemic.",
+          "published": "2026-11-17T08:14:56.000Z",
+          "source": "journal",
+          "kind": "news",
+          "topic": "Public health"
+        },
         {
           "id": "https://www.thejournal.ie/biosecurity-regulations-avian-flu-7228252-Nov2026/",
           "title": "New rules to be imposed on poultry keepers to prevent the spread of bird flu",
@@ -558,26 +554,6 @@
           "source": "journal",
           "kind": "news",
           "topic": "Public health"
-        },
-        {
-          "id": "https://www.thejournal.ie/weather-warnings-forecast-monday-7227374-Nov2026/",
-          "title": "Heavy wind and rain blowing in as eight counties put under weather warnings",
-          "url": "https://www.thejournal.ie/weather-warnings-forecast-monday-7227374-Nov2026/",
-          "summary": "Localised flooding and difficult travelling conditions are possible, with sleet or snow forecast in Donegal.",
-          "published": "2026-11-16T13:08:00.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Weather & flooding"
-        },
-        {
-          "id": "https://www.thejournal.ie/dublin-ai-flood-warning-system-7227372-Nov2026/",
-          "title": "New AI warning system for flooding to be rolled out in Dublin",
-          "url": "https://www.thejournal.ie/dublin-ai-flood-warning-system-7227372-Nov2026/",
-          "summary": "Trials showed that the technology could potentially give up to 21 hours’ notice of flooding events.",
-          "published": "2026-11-16T07:51:22.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Weather & flooding"
         }
       ]
     },
@@ -588,14 +564,14 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-17T04:26:37.527Z",
-      "fetchedAt": "2026-11-17T04:26:37.527Z",
+      "checkedAt": "2026-11-17T13:45:27.626Z",
+      "fetchedAt": "2026-11-17T13:45:27.626Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/regional/2026/1116/1599326-weather-ireland/",
-          "title": "Wind and rain warnings in place for seven counties",
+          "title": "Wind and rain warnings for seven counties expire",
           "url": "https://www.rte.ie/news/regional/2026/1116/1599326-weather-ireland/",
-          "summary": "Two Status Yellow wind and rain warnings are in place for seven counties with an additional Status Yellow wind warning also in place for one county.",
+          "summary": "Two Status Yellow wind and rain warnings have expired for seven counties as hasan additional Status Yellow wind warning that was in place for one county.",
           "published": "2026-11-16T04:43:55.000Z",
           "source": "rte",
           "kind": "news",
@@ -610,26 +586,6 @@
           "source": "rte",
           "kind": "news",
           "topic": "Weather & flooding"
-        },
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1114/1599199-ireland-us-flights/",
-          "title": "Some Irish flights affected by US cancellations, delays",
-          "url": "https://www.rte.ie/news/ireland/2026/1114/1599199-ireland-us-flights/",
-          "summary": "The majority of flights between Ireland and the US operated as normal following the closure of US airspace last night.",
-          "published": "2026-11-14T09:11:32.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Travel disruption"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1114/1599205-microsoft-outage/",
-          "title": "Microsoft services fully restored after global outage",
-          "url": "https://www.rte.ie/news/2026/1114/1599205-microsoft-outage/",
-          "summary": "Microsoft has said that services have fully recovered across Teams, Outlook ⁠and its other products, ending a global outage that crippled online communications for businesses and governments for over 24 hours.",
-          "published": "2026-11-14T11:16:15.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Service disruption"
         }
       ]
     }

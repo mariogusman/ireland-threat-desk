@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T12:18:45.419Z",
+  "generatedAt": "2026-11-18T20:47:13.762Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-18T12:18:45.419Z",
-      "fetchedAt": "2026-11-18T12:18:45.419Z",
+      "checkedAt": "2026-11-18T20:47:13.762Z",
+      "fetchedAt": "2026-11-18T20:47:13.762Z",
       "items": []
     },
     "ncsc": {
@@ -20,9 +20,29 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-18T12:18:45.419Z",
-      "fetchedAt": "2026-11-18T12:18:45.419Z",
+      "checkedAt": "2026-11-18T20:47:13.762Z",
+      "fetchedAt": "2026-11-18T20:47:13.762Z",
       "items": [
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2611180365_F5_NGINX.pdf",
+          "title": "Vulnerabilities in F5 NGINX",
+          "url": "https://www.ncsc.gov.ie/pdfs/2611180365_F5_NGINX.pdf",
+          "summary": "",
+          "published": "2026-11-18T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber",
+          "topic": "Cyber security"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2611180322_CVE-2026-114938.pdf",
+          "title": "Vulnerability in Oracle Java SE/SDK (CVE-2026-114938)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2611180322_CVE-2026-114938.pdf",
+          "summary": "",
+          "published": "2026-11-18T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber",
+          "topic": "Cyber security"
+        },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
           "title": "New Vulnerabilities in Refrigeration Controllers",
@@ -502,26 +522,6 @@
           "source": "ncsc",
           "kind": "cyber",
           "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.ncsc.gov.ie/pdfs/2606160522_CVE-2026-48558.pdf",
-          "title": "SimpleHelp Authentication Bypass Critical Vulnerbility",
-          "url": "https://www.ncsc.gov.ie/pdfs/2606160522_CVE-2026-48558.pdf",
-          "summary": "",
-          "published": "2026-06-18T00:00:00.000Z",
-          "source": "ncsc",
-          "kind": "cyber",
-          "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.ncsc.gov.ie/pdfs/2606160509_CVE-2026-45585.pdf",
-          "title": "Security Feature bypass in Windows OS(Multiple) - YellowKey",
-          "url": "https://www.ncsc.gov.ie/pdfs/2606160509_CVE-2026-45585.pdf",
-          "summary": "",
-          "published": "2026-06-18T00:00:00.000Z",
-          "source": "ncsc",
-          "kind": "cyber",
-          "topic": "Cyber security"
         }
       ]
     },
@@ -532,25 +532,25 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-18T12:18:45.419Z",
-      "fetchedAt": "2026-11-18T12:18:45.419Z",
+      "checkedAt": "2026-11-18T20:47:13.762Z",
+      "fetchedAt": "2026-11-18T20:47:13.762Z",
       "items": [
+        {
+          "id": "https://www.thejournal.ie/bird-flu-ireland-housing-order-2-7230165-Nov2026/",
+          "title": "Poultry and captive birds to be confined from Monday to prevent spread of bird flu",
+          "url": "https://www.thejournal.ie/bird-flu-ireland-housing-order-2-7230165-Nov2026/",
+          "summary": "The news comes after an outbreak of bird flu at a commercial farm in Tyrone this week.",
+          "published": "2026-11-18T12:55:49.000Z",
+          "source": "journal",
+          "kind": "news",
+          "topic": "Public health"
+        },
         {
           "id": "https://www.thejournal.ie/irish-credit-union-hack-7229920-Nov2026/",
           "title": "Credit union customer data obtained by 'bad actor' in cyberattack, says minister",
           "url": "https://www.thejournal.ie/irish-credit-union-hack-7229920-Nov2026/",
           "summary": "Robert Troy confirmed that around 40 of Ireland’s 160 credit union institutions were affected by the hack.",
           "published": "2026-11-18T12:15:00.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.thejournal.ie/credit-union-data-breach-7229027-Nov2026/",
-          "title": "Investigation underway into cyberattack on multiple Irish credit unions",
-          "url": "https://www.thejournal.ie/credit-union-data-breach-7229027-Nov2026/",
-          "summary": "A spokesperson for the Irish League of Credit Unions said member accounts and balances have not been compromised.",
-          "published": "2026-11-17T17:20:00.000Z",
           "source": "journal",
           "kind": "news",
           "topic": "Cyber security"
@@ -564,15 +564,25 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-18T12:18:45.419Z",
-      "fetchedAt": "2026-11-18T12:18:45.419Z",
+      "checkedAt": "2026-11-18T20:47:13.762Z",
+      "fetchedAt": "2026-11-18T20:47:13.762Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/2026/1118/1599645-credit-union-data-breach-assessed/",
-          "title": "Credit unions only told yesterday of October data breach",
+          "title": "Credit unions informed of October breach yesterday - Troy",
           "url": "https://www.rte.ie/news/2026/1118/1599645-credit-union-data-breach-assessed/",
-          "summary": "Minister of State at the Department of Finance with responsibility for Credit Unions Robert Troy has said many credit unions were only informed of a data breach yesterday, despite it taking place in October.",
+          "summary": "Minister of State at the Department of Finance with responsibility for credit unions Robert Troy has written to the Wellington IT - the service provider at the centre of the data breach - to seek a meeting with them to explain the reason for the delay in informing credit unions of the breach",
           "published": "2026-11-18T09:22:24.000Z",
+          "source": "rte",
+          "kind": "news",
+          "topic": "Cyber security"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1118/1599690-credit-union-data-breach/",
+          "title": "Credit union breach: What is known and is my money safe?",
+          "url": "https://www.rte.ie/news/2026/1118/1599690-credit-union-data-breach/",
+          "summary": "A data breach at around 40 credit unions has compromised the details of hundreds of thousands of members. Here is what we know so far.",
+          "published": "2026-11-18T13:14:52.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Cyber security"
@@ -586,16 +596,6 @@
           "source": "rte",
           "kind": "news",
           "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.rte.ie/news/regional/2026/1116/1599326-weather-ireland/",
-          "title": "Wind and rain warnings for seven counties expire",
-          "url": "https://www.rte.ie/news/regional/2026/1116/1599326-weather-ireland/",
-          "summary": "Two Status Yellow wind and rain warnings have expired for seven counties as hasan additional Status Yellow wind warning that was in place for one county.",
-          "published": "2026-11-16T04:43:55.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Weather & flooding"
         }
       ]
     }

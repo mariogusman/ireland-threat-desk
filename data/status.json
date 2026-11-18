@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T03:39:50.965Z",
+  "generatedAt": "2026-11-18T12:18:45.419Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-18T03:39:50.965Z",
-      "fetchedAt": "2026-11-18T03:39:50.965Z",
+      "checkedAt": "2026-11-18T12:18:45.419Z",
+      "fetchedAt": "2026-11-18T12:18:45.419Z",
       "items": []
     },
     "ncsc": {
@@ -20,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-18T03:39:50.965Z",
-      "fetchedAt": "2026-11-18T03:39:50.965Z",
+      "checkedAt": "2026-11-18T12:18:45.419Z",
+      "fetchedAt": "2026-11-18T12:18:45.419Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
@@ -532,9 +532,19 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-18T03:39:50.965Z",
-      "fetchedAt": "2026-11-18T03:39:50.965Z",
+      "checkedAt": "2026-11-18T12:18:45.419Z",
+      "fetchedAt": "2026-11-18T12:18:45.419Z",
       "items": [
+        {
+          "id": "https://www.thejournal.ie/irish-credit-union-hack-7229920-Nov2026/",
+          "title": "Credit union customer data obtained by 'bad actor' in cyberattack, says minister",
+          "url": "https://www.thejournal.ie/irish-credit-union-hack-7229920-Nov2026/",
+          "summary": "Robert Troy confirmed that around 40 of Ireland’s 160 credit union institutions were affected by the hack.",
+          "published": "2026-11-18T12:15:00.000Z",
+          "source": "journal",
+          "kind": "news",
+          "topic": "Cyber security"
+        },
         {
           "id": "https://www.thejournal.ie/credit-union-data-breach-7229027-Nov2026/",
           "title": "Investigation underway into cyberattack on multiple Irish credit unions",
@@ -554,9 +564,19 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-18T03:39:50.965Z",
-      "fetchedAt": "2026-11-18T03:39:50.965Z",
+      "checkedAt": "2026-11-18T12:18:45.419Z",
+      "fetchedAt": "2026-11-18T12:18:45.419Z",
       "items": [
+        {
+          "id": "https://www.rte.ie/news/2026/1118/1599645-credit-union-data-breach-assessed/",
+          "title": "Credit unions only told yesterday of October data breach",
+          "url": "https://www.rte.ie/news/2026/1118/1599645-credit-union-data-breach-assessed/",
+          "summary": "Minister of State at the Department of Finance with responsibility for Credit Unions Robert Troy has said many credit unions were only informed of a data breach yesterday, despite it taking place in October.",
+          "published": "2026-11-18T09:22:24.000Z",
+          "source": "rte",
+          "kind": "news",
+          "topic": "Cyber security"
+        },
         {
           "id": "https://www.rte.ie/news/business/2026/1117/1599594-supected-data-breach-at-credit-unions/",
           "title": "Dozens of credit union branches hit by data breach",

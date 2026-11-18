@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T21:55:40.312Z",
+  "generatedAt": "2026-11-18T03:39:50.965Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-17T21:55:40.312Z",
-      "fetchedAt": "2026-11-17T21:55:40.312Z",
+      "checkedAt": "2026-11-18T03:39:50.965Z",
+      "fetchedAt": "2026-11-18T03:39:50.965Z",
       "items": []
     },
     "ncsc": {
@@ -20,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-17T21:55:40.312Z",
-      "fetchedAt": "2026-11-17T21:55:40.312Z",
+      "checkedAt": "2026-11-18T03:39:50.965Z",
+      "fetchedAt": "2026-11-18T03:39:50.965Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611130306_New_Vulnerabilities_in_Refrigeration_Controllers.pdf",
@@ -532,8 +532,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-17T21:55:40.312Z",
-      "fetchedAt": "2026-11-17T21:55:40.312Z",
+      "checkedAt": "2026-11-18T03:39:50.965Z",
+      "fetchedAt": "2026-11-18T03:39:50.965Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/credit-union-data-breach-7229027-Nov2026/",
@@ -554,8 +554,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-17T21:55:40.312Z",
-      "fetchedAt": "2026-11-17T21:55:40.312Z",
+      "checkedAt": "2026-11-18T03:39:50.965Z",
+      "fetchedAt": "2026-11-18T03:39:50.965Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/business/2026/1117/1599594-supected-data-breach-at-credit-unions/",

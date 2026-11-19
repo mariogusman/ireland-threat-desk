@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T10:46:33.701Z",
+  "generatedAt": "2026-11-19T19:12:39.485Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-19T10:46:33.701Z",
-      "fetchedAt": "2026-11-19T10:46:33.701Z",
+      "checkedAt": "2026-11-19T19:12:39.485Z",
+      "fetchedAt": "2026-11-19T19:12:39.485Z",
       "items": []
     },
     "ncsc": {
@@ -20,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-19T10:46:33.701Z",
-      "fetchedAt": "2026-11-19T10:46:33.701Z",
+      "checkedAt": "2026-11-19T19:12:39.485Z",
+      "fetchedAt": "2026-11-19T19:12:39.485Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611180365_F5_NGINX.pdf",
@@ -532,15 +532,15 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-19T10:46:33.701Z",
-      "fetchedAt": "2026-11-19T10:46:33.701Z",
+      "checkedAt": "2026-11-19T19:12:39.485Z",
+      "fetchedAt": "2026-11-19T19:12:39.485Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/irish-credit-union-data-breach-7230987-Nov2026/",
-          "title": "IT service provider says it alerted credit unions to data breach 'as soon as risk was confirmed'",
+          "title": "Credit union data breach could affect anyone who received payments from members",
           "url": "https://www.thejournal.ie/irish-credit-union-data-breach-7230987-Nov2026/",
           "summary": "The hacking occurred in October, but credit unions were only informed of the breach on Tuesday.",
-          "published": "2026-11-19T08:44:20.000Z",
+          "published": "2026-11-19T11:20:00.000Z",
           "source": "journal",
           "kind": "news",
           "topic": "Cyber security"
@@ -554,15 +554,25 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-19T10:46:33.701Z",
-      "fetchedAt": "2026-11-19T10:46:33.701Z",
+      "checkedAt": "2026-11-19T19:12:39.485Z",
+      "fetchedAt": "2026-11-19T19:12:39.485Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/business/2026/1119/1599774-credit-union-breach/",
-          "title": "Credit unions alerted when data risk confirmed - provider",
+          "title": "Initial probe by provider didn't identify breach - ILCU",
           "url": "https://www.rte.ie/news/business/2026/1119/1599774-credit-union-breach/",
-          "summary": "Wellington IT, the service provider at the centre of a data breach affecting credit unions, has said it alerted its credit union customers to the breach \"as soon as the company confirmed the potential risk to customer data\".",
+          "summary": "Affected credit unions were not informed of a data breach at a service provider for over a month as an initial investigation by the company did not identify it, according to the Irish League of Credit Unions.",
           "published": "2026-11-19T00:01:02.000Z",
+          "source": "rte",
+          "kind": "news",
+          "topic": "Cyber security"
+        },
+        {
+          "id": "https://www.rte.ie/news/business/2026/1119/1599846-central-banks-financial-stability-review/",
+          "title": "Central Bank urges credit union members to be 'vigilant'",
+          "url": "https://www.rte.ie/news/business/2026/1119/1599846-central-banks-financial-stability-review/",
+          "summary": "The Central Bank has said that consumers affected by the cyberattack on credit unions must be \"vigilant\" of scams.",
+          "published": "2026-11-19T12:41:47.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Cyber security"
@@ -583,16 +593,6 @@
           "url": "https://www.rte.ie/news/2026/1118/1599690-credit-union-data-breach/",
           "summary": "A data breach at around 40 credit unions has compromised the details of hundreds of thousands of members. Here is what we know so far.",
           "published": "2026-11-18T13:14:52.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.rte.ie/news/business/2026/1117/1599594-supected-data-breach-at-credit-unions/",
-          "title": "Dozens of credit union branches hit by data breach",
-          "url": "https://www.rte.ie/news/business/2026/1117/1599594-supected-data-breach-at-credit-unions/",
-          "summary": "Around 40 data breach notifications from credit unions have been reported to the Data Protection Commission, it is understood.",
-          "published": "2026-11-17T17:03:58.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Cyber security"

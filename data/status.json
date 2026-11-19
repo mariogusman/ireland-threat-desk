@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T20:47:13.762Z",
+  "generatedAt": "2026-11-19T02:30:14.292Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-18T20:47:13.762Z",
-      "fetchedAt": "2026-11-18T20:47:13.762Z",
+      "checkedAt": "2026-11-19T02:30:14.292Z",
+      "fetchedAt": "2026-11-19T02:30:14.292Z",
       "items": []
     },
     "ncsc": {
@@ -20,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-18T20:47:13.762Z",
-      "fetchedAt": "2026-11-18T20:47:13.762Z",
+      "checkedAt": "2026-11-19T02:30:14.292Z",
+      "fetchedAt": "2026-11-19T02:30:14.292Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611180365_F5_NGINX.pdf",
@@ -532,8 +532,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-18T20:47:13.762Z",
-      "fetchedAt": "2026-11-18T20:47:13.762Z",
+      "checkedAt": "2026-11-19T02:30:14.292Z",
+      "fetchedAt": "2026-11-19T02:30:14.292Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/bird-flu-ireland-housing-order-2-7230165-Nov2026/",
@@ -564,8 +564,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-18T20:47:13.762Z",
-      "fetchedAt": "2026-11-18T20:47:13.762Z",
+      "checkedAt": "2026-11-19T02:30:14.292Z",
+      "fetchedAt": "2026-11-19T02:30:14.292Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/2026/1118/1599645-credit-union-data-breach-assessed/",
@@ -573,6 +573,16 @@
           "url": "https://www.rte.ie/news/2026/1118/1599645-credit-union-data-breach-assessed/",
           "summary": "Minister of State at the Department of Finance with responsibility for credit unions Robert Troy has written to the Wellington IT - the service provider at the centre of the data breach - to seek a meeting with them to explain the reason for the delay in informing credit unions of the breach",
           "published": "2026-11-18T09:22:24.000Z",
+          "source": "rte",
+          "kind": "news",
+          "topic": "Cyber security"
+        },
+        {
+          "id": "https://www.rte.ie/news/business/2026/1119/1599774-credit-union-breach/",
+          "title": "Credit union users alerted as soon as risk identified",
+          "url": "https://www.rte.ie/news/business/2026/1119/1599774-credit-union-breach/",
+          "summary": "Wellington IT, the service provider at the centre of a data breach affecting credit unions, has said it alerted its credit union customers to the breach \"as soon as the company confirmed the potential risk to customer data\".",
+          "published": "2026-11-19T00:01:02.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Cyber security"

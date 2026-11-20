@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T17:44:13.370Z",
+  "generatedAt": "2026-11-20T23:25:12.099Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-20T17:44:13.370Z",
-      "fetchedAt": "2026-11-20T17:44:13.370Z",
+      "checkedAt": "2026-11-20T23:25:12.099Z",
+      "fetchedAt": "2026-11-20T23:25:12.099Z",
       "items": [
         {
           "id": "2.49.0.1.372.0.261120111008.992cdc51-2235-4c85-bfaf-288ef64a2921",
@@ -47,8 +47,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-20T17:44:13.370Z",
-      "fetchedAt": "2026-11-20T17:44:13.370Z",
+      "checkedAt": "2026-11-20T23:25:12.099Z",
+      "fetchedAt": "2026-11-20T23:25:12.099Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -559,30 +559,9 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-20T17:44:13.370Z",
-      "fetchedAt": "2026-11-20T17:44:13.370Z",
-      "items": [
-        {
-          "id": "https://www.thejournal.ie/white-house-fires-cybersecurity-chief-sean-cairncross-after-recent-widespread-outages-7232072-Nov2026/",
-          "title": "White House fires cybersecurity chief after recent widespread outages",
-          "url": "https://www.thejournal.ie/white-house-fires-cybersecurity-chief-sean-cairncross-after-recent-widespread-outages-7232072-Nov2026/",
-          "summary": "In recent days and weeks, major outages disrupted travel, communications and e-commerce, but also affected an internal communications network at the NSA.",
-          "published": "2026-11-20T07:13:10.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.thejournal.ie/credit-union-wellington-it-robert-troy-7231923-Nov2026/",
-          "title": "Credit unions seek answers on scale of data breach as IT provider says flaw is fixed",
-          "url": "https://www.thejournal.ie/credit-union-wellington-it-robert-troy-7231923-Nov2026/",
-          "summary": "Wellington IT said there was no evidence of unauthorised access to members’ funds, but the number of users affected remains unclear.",
-          "published": "2026-11-19T20:25:38.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Cyber security"
-        }
-      ]
+      "checkedAt": "2026-11-20T23:25:12.099Z",
+      "fetchedAt": "2026-11-20T23:25:12.099Z",
+      "items": []
     },
     "rte": {
       "id": "rte",
@@ -591,8 +570,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-20T17:44:13.370Z",
-      "fetchedAt": "2026-11-20T17:44:13.370Z",
+      "checkedAt": "2026-11-20T23:25:12.099Z",
+      "fetchedAt": "2026-11-20T23:25:12.099Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/business/2026/1119/1599774-credit-union-breach/",

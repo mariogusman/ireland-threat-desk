@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T23:25:12.099Z",
+  "generatedAt": "2026-11-21T04:10:59.870Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-20T23:25:12.099Z",
-      "fetchedAt": "2026-11-20T23:25:12.099Z",
+      "checkedAt": "2026-11-21T04:10:59.870Z",
+      "fetchedAt": "2026-11-21T04:10:59.870Z",
       "items": [
         {
           "id": "2.49.0.1.372.0.261120111008.992cdc51-2235-4c85-bfaf-288ef64a2921",
@@ -47,8 +47,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-20T23:25:12.099Z",
-      "fetchedAt": "2026-11-20T23:25:12.099Z",
+      "checkedAt": "2026-11-21T04:10:59.870Z",
+      "fetchedAt": "2026-11-21T04:10:59.870Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -559,8 +559,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-20T23:25:12.099Z",
-      "fetchedAt": "2026-11-20T23:25:12.099Z",
+      "checkedAt": "2026-11-21T04:10:59.870Z",
+      "fetchedAt": "2026-11-21T04:10:59.870Z",
       "items": []
     },
     "rte": {
@@ -570,8 +570,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-20T23:25:12.099Z",
-      "fetchedAt": "2026-11-20T23:25:12.099Z",
+      "checkedAt": "2026-11-21T04:10:59.870Z",
+      "fetchedAt": "2026-11-21T04:10:59.870Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/business/2026/1119/1599774-credit-union-breach/",
@@ -589,16 +589,6 @@
           "url": "https://www.rte.ie/news/business/2026/1119/1599846-central-banks-financial-stability-review/",
           "summary": "The Central Bank has said that consumers affected by the cyberattack on credit unions must be \"vigilant\" of scams.",
           "published": "2026-11-19T12:41:47.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1118/1599645-credit-union-data-breach-assessed/",
-          "title": "Credit unions informed of October breach yesterday - Troy",
-          "url": "https://www.rte.ie/news/2026/1118/1599645-credit-union-data-breach-assessed/",
-          "summary": "Minister of State at the Department of Finance with responsibility for credit unions Robert Troy has written to the Wellington IT - the service provider at the centre of the data breach - to seek a meeting with them to explain the reason for the delay in informing credit unions of the breach",
-          "published": "2026-11-18T09:22:24.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Cyber security"

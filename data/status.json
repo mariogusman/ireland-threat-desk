@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T07:12:27.337Z",
+  "generatedAt": "2026-11-22T15:30:18.772Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,36 +9,9 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-22T07:12:27.337Z",
-      "fetchedAt": "2026-11-22T07:12:27.337Z",
-      "items": [
-        {
-          "id": "2.49.0.1.372.0.261120111008.992cdc51-2235-4c85-bfaf-288ef64a2921",
-          "title": "Status Yellow - Rain warning for Cork, Kerry",
-          "description": "Rain, heavy at times. Be aware of potential impacts: Difficult travelling conditions Localised flooding possible",
-          "level": "yellow",
-          "types": [
-            "Rain"
-          ],
-          "onset": "2026-11-21T22:00:00+00:00",
-          "expiry": "2026-11-22T08:00:00+00:00",
-          "issued": "2026-11-20T11:10:08.658967+00:00",
-          "url": "https://www.met.ie/warnings-today.html"
-        },
-        {
-          "id": "2.49.0.1.372.0.261120111201.2e824bab-bc7f-4183-9e0f-75cb33e78d8e",
-          "title": "Status Yellow - Rain warning for Waterford",
-          "description": "Rain, heavy at times. Be aware of potential impacts: Difficult travelling conditions Localised flooding possible Outdoor events impacted",
-          "level": "yellow",
-          "types": [
-            "Rain"
-          ],
-          "onset": "2026-11-22T00:00:00+00:00",
-          "expiry": "2026-11-22T12:00:00+00:00",
-          "issued": "2026-11-20T11:12:01.32533+00:00",
-          "url": "https://www.met.ie/warnings-today.html"
-        }
-      ]
+      "checkedAt": "2026-11-22T15:30:18.772Z",
+      "fetchedAt": "2026-11-22T15:30:18.772Z",
+      "items": []
     },
     "ncsc": {
       "id": "ncsc",
@@ -47,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-22T07:12:27.337Z",
-      "fetchedAt": "2026-11-22T07:12:27.337Z",
+      "checkedAt": "2026-11-22T15:30:18.772Z",
+      "fetchedAt": "2026-11-22T15:30:18.772Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -559,20 +532,9 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-22T07:12:27.337Z",
-      "fetchedAt": "2026-11-22T07:12:27.337Z",
-      "items": [
-        {
-          "id": "https://www.thejournal.ie/rain-warning-cork-kerry-waterford-7233361-Nov2026/",
-          "title": "Rain warnings to kick in for three counties from midnight",
-          "url": "https://www.thejournal.ie/rain-warning-cork-kerry-waterford-7233361-Nov2026/",
-          "summary": "By midnight Cork, Kerry and Waterford will be under a Status Yellow rain warning.",
-          "published": "2026-11-21T09:53:21.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Weather & flooding"
-        }
-      ]
+      "checkedAt": "2026-11-22T15:30:18.772Z",
+      "fetchedAt": "2026-11-22T15:30:18.772Z",
+      "items": []
     },
     "rte": {
       "id": "rte",
@@ -581,8 +543,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-22T07:12:27.337Z",
-      "fetchedAt": "2026-11-22T07:12:27.337Z",
+      "checkedAt": "2026-11-22T15:30:18.772Z",
+      "fetchedAt": "2026-11-22T15:30:18.772Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/business/2026/1119/1599774-credit-union-breach/",

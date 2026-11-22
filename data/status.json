@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T00:18:09.163Z",
+  "generatedAt": "2026-11-22T07:12:27.337Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-22T00:18:09.163Z",
-      "fetchedAt": "2026-11-22T00:18:09.163Z",
+      "checkedAt": "2026-11-22T07:12:27.337Z",
+      "fetchedAt": "2026-11-22T07:12:27.337Z",
       "items": [
         {
           "id": "2.49.0.1.372.0.261120111008.992cdc51-2235-4c85-bfaf-288ef64a2921",
@@ -47,8 +47,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-22T00:18:09.163Z",
-      "fetchedAt": "2026-11-22T00:18:09.163Z",
+      "checkedAt": "2026-11-22T07:12:27.337Z",
+      "fetchedAt": "2026-11-22T07:12:27.337Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -559,8 +559,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-22T00:18:09.163Z",
-      "fetchedAt": "2026-11-22T00:18:09.163Z",
+      "checkedAt": "2026-11-22T07:12:27.337Z",
+      "fetchedAt": "2026-11-22T07:12:27.337Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/rain-warning-cork-kerry-waterford-7233361-Nov2026/",
@@ -581,8 +581,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-22T00:18:09.163Z",
-      "fetchedAt": "2026-11-22T00:18:09.163Z",
+      "checkedAt": "2026-11-22T07:12:27.337Z",
+      "fetchedAt": "2026-11-22T07:12:27.337Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/business/2026/1119/1599774-credit-union-breach/",

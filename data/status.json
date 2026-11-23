@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T01:53:04.777Z",
+  "generatedAt": "2026-11-23T10:40:11.873Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,9 +9,36 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-23T01:53:04.777Z",
-      "fetchedAt": "2026-11-23T01:53:04.777Z",
-      "items": []
+      "checkedAt": "2026-11-23T10:40:11.873Z",
+      "fetchedAt": "2026-11-23T10:40:11.873Z",
+      "items": [
+        {
+          "id": "2.49.0.1.372.0.261123090441.16c30c67-f954-486e-b86f-904259e137c7",
+          "title": "Status Yellow - Rain warning for Clare, Galway, Kerry, Mayo",
+          "description": "Persistent rain, turning heavy and possibly thundery at times. Potential impacts: Difficult travelling conditions Localised flooding possible",
+          "level": "yellow",
+          "types": [
+            "Rain"
+          ],
+          "onset": "2026-11-23T15:00:00+00:00",
+          "expiry": "2026-11-23T23:59:00+00:00",
+          "issued": "2026-11-23T09:04:41.014283+00:00",
+          "url": "https://www.met.ie/warnings-today.html"
+        },
+        {
+          "id": "2.49.0.1.372.0.261123090406.afa1dce9-6fce-4c8e-abab-ec8448231be7",
+          "title": "Status Yellow - Rain warning for Cork, Waterford",
+          "description": "Persistent rain, turning heavy and possibly thundery at times. Potential impacts: Difficult travelling conditions Localised flooding possible",
+          "level": "yellow",
+          "types": [
+            "Rain"
+          ],
+          "onset": "2026-11-23T19:00:00+00:00",
+          "expiry": "2026-11-24T05:00:00+00:00",
+          "issued": "2026-11-23T09:04:06.674003+00:00",
+          "url": "https://www.met.ie/warnings-today.html"
+        }
+      ]
     },
     "ncsc": {
       "id": "ncsc",
@@ -20,8 +47,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-23T01:53:04.777Z",
-      "fetchedAt": "2026-11-23T01:53:04.777Z",
+      "checkedAt": "2026-11-23T10:40:11.873Z",
+      "fetchedAt": "2026-11-23T10:40:11.873Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -532,9 +559,40 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-23T01:53:04.777Z",
-      "fetchedAt": "2026-11-23T01:53:04.777Z",
-      "items": []
+      "checkedAt": "2026-11-23T10:40:11.873Z",
+      "fetchedAt": "2026-11-23T10:40:11.873Z",
+      "items": [
+        {
+          "id": "https://www.thejournal.ie/battery-fire-risk-ireland-7234716-Nov2026/",
+          "title": "Battery fire risk warning amid Christmas tech buying boom",
+          "url": "https://www.thejournal.ie/battery-fire-risk-ireland-7234716-Nov2026/",
+          "summary": "Waste Electrical and Electronic Equipment Ireland said new figures highlight the scale of the recycling challenge.",
+          "published": "2026-11-23T07:42:48.000Z",
+          "source": "journal",
+          "kind": "news",
+          "topic": "Public safety"
+        },
+        {
+          "id": "https://www.thejournal.ie/thousands-evacuated-from-don-toliver-concert-after-unknown-substance-let-off-in-crowd-7234707-Nov2026/",
+          "title": "Thousands evacuated from Don Toliver concert after ‘unknown substance’ let off in crowd",
+          "url": "https://www.thejournal.ie/thousands-evacuated-from-don-toliver-concert-after-unknown-substance-let-off-in-crowd-7234707-Nov2026/",
+          "summary": "Footage shared on social media appeared to show concertgoers coughing and covering their mouths as they left the venue.",
+          "published": "2026-11-23T07:31:53.000Z",
+          "source": "journal",
+          "kind": "news",
+          "topic": "Public safety"
+        },
+        {
+          "id": "https://www.thejournal.ie/readme/parenting-in-ireland-4-7231859-Nov2026/",
+          "title": "My kids are now doomsday preppers, but as a millennial I’m less freaked out - I've seen it all",
+          "url": "https://www.thejournal.ie/readme/parenting-in-ireland-4-7231859-Nov2026/",
+          "summary": "Between emergency booklets, hoax bomb threats and warnings of cyber-attacks, children are becoming increasingly aware of the dangers facing the world.",
+          "published": "2026-11-23T07:00:34.000Z",
+          "source": "journal",
+          "kind": "news",
+          "topic": "Cyber security"
+        }
+      ]
     },
     "rte": {
       "id": "rte",
@@ -543,9 +601,19 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-23T01:53:04.777Z",
-      "fetchedAt": "2026-11-23T01:53:04.777Z",
+      "checkedAt": "2026-11-23T10:40:11.873Z",
+      "fetchedAt": "2026-11-23T10:40:11.873Z",
       "items": [
+        {
+          "id": "https://www.rte.ie/news/2026/1123/1600264-weather-warnings/",
+          "title": "Two Status Yellow rain warnings issued for six counties",
+          "url": "https://www.rte.ie/news/2026/1123/1600264-weather-warnings/",
+          "summary": "Parts of Co Cork, which were hit by flooding over the weekend, will be under another Status Yellow rain warning this evening.",
+          "published": "2026-11-23T09:15:19.000Z",
+          "source": "rte",
+          "kind": "news",
+          "topic": "Weather & flooding"
+        },
         {
           "id": "https://www.rte.ie/news/munster/2026/1122/1600208-floods-damage-bantry/",
           "title": "Bantry businesses 'waiting and praying' after flooding",
@@ -562,16 +630,6 @@
           "url": "https://www.rte.ie/news/business/2026/1119/1599774-credit-union-breach/",
           "summary": "Affected credit unions were not informed of a data breach at a service provider for over a month as an initial investigation by the company did not identify it, according to the Irish League of Credit Unions.",
           "published": "2026-11-19T00:01:02.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.rte.ie/news/business/2026/1119/1599846-central-banks-financial-stability-review/",
-          "title": "Central Bank urges credit union members to be 'vigilant'",
-          "url": "https://www.rte.ie/news/business/2026/1119/1599846-central-banks-financial-stability-review/",
-          "summary": "The Central Bank has said that consumers affected by the cyberattack on credit unions must be \"vigilant\" of scams.",
-          "published": "2026-11-19T12:41:47.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Cyber security"

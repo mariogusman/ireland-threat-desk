@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T21:19:01.969Z",
+  "generatedAt": "2026-11-23T01:53:04.777Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-22T21:19:01.969Z",
-      "fetchedAt": "2026-11-22T21:19:01.969Z",
+      "checkedAt": "2026-11-23T01:53:04.777Z",
+      "fetchedAt": "2026-11-23T01:53:04.777Z",
       "items": []
     },
     "ncsc": {
@@ -20,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-22T21:19:01.969Z",
-      "fetchedAt": "2026-11-22T21:19:01.969Z",
+      "checkedAt": "2026-11-23T01:53:04.777Z",
+      "fetchedAt": "2026-11-23T01:53:04.777Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -532,8 +532,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-22T21:19:01.969Z",
-      "fetchedAt": "2026-11-22T21:19:01.969Z",
+      "checkedAt": "2026-11-23T01:53:04.777Z",
+      "fetchedAt": "2026-11-23T01:53:04.777Z",
       "items": []
     },
     "rte": {
@@ -543,8 +543,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-22T21:19:01.969Z",
-      "fetchedAt": "2026-11-22T21:19:01.969Z",
+      "checkedAt": "2026-11-23T01:53:04.777Z",
+      "fetchedAt": "2026-11-23T01:53:04.777Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/munster/2026/1122/1600208-floods-damage-bantry/",

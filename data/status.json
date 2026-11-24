@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T22:16:17.910Z",
+  "generatedAt": "2026-11-24T06:13:20.475Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,36 +9,9 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-23T22:16:17.910Z",
-      "fetchedAt": "2026-11-23T22:16:17.910Z",
-      "items": [
-        {
-          "id": "2.49.0.1.372.0.261123090441.16c30c67-f954-486e-b86f-904259e137c7",
-          "title": "Status Yellow - Rain warning for Clare, Galway, Kerry, Mayo",
-          "description": "Persistent rain, turning heavy and possibly thundery at times. Potential impacts: Difficult travelling conditions Localised flooding possible",
-          "level": "yellow",
-          "types": [
-            "Rain"
-          ],
-          "onset": "2026-11-23T15:00:00+00:00",
-          "expiry": "2026-11-23T23:59:00+00:00",
-          "issued": "2026-11-23T09:04:41.014283+00:00",
-          "url": "https://www.met.ie/warnings-today.html"
-        },
-        {
-          "id": "2.49.0.1.372.0.261123153742.9fb63801-4f18-4b5b-9537-fc5251f753fa",
-          "title": "Status Yellow - Rain warning for Cork, Limerick, Waterford",
-          "description": "Persistent rain, turning heavy and possibly thundery at times. Potential impacts: Difficult travelling conditions Localised flooding possible",
-          "level": "yellow",
-          "types": [
-            "Rain"
-          ],
-          "onset": "2026-11-23T19:00:00+00:00",
-          "expiry": "2026-11-24T05:00:00+00:00",
-          "issued": "2026-11-23T15:37:42.36727+00:00",
-          "url": "https://www.met.ie/warnings-today.html"
-        }
-      ]
+      "checkedAt": "2026-11-24T06:13:20.475Z",
+      "fetchedAt": "2026-11-24T06:13:20.475Z",
+      "items": []
     },
     "ncsc": {
       "id": "ncsc",
@@ -47,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-23T22:16:17.910Z",
-      "fetchedAt": "2026-11-23T22:16:17.910Z",
+      "checkedAt": "2026-11-24T06:13:20.475Z",
+      "fetchedAt": "2026-11-24T06:13:20.475Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -559,8 +532,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-23T22:16:17.910Z",
-      "fetchedAt": "2026-11-23T22:16:17.910Z",
+      "checkedAt": "2026-11-24T06:13:20.475Z",
+      "fetchedAt": "2026-11-24T06:13:20.475Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/bantry-flooding-update-7234777-Nov2026/",
@@ -601,16 +574,6 @@
           "source": "journal",
           "kind": "news",
           "topic": "Public safety"
-        },
-        {
-          "id": "https://www.thejournal.ie/thousands-evacuated-from-don-toliver-concert-after-unknown-substance-let-off-in-crowd-7234707-Nov2026/",
-          "title": "Thousands evacuated from Don Toliver concert after ‘unknown substance’ let off in crowd",
-          "url": "https://www.thejournal.ie/thousands-evacuated-from-don-toliver-concert-after-unknown-substance-let-off-in-crowd-7234707-Nov2026/",
-          "summary": "Footage shared on social media appeared to show concertgoers coughing and covering their mouths as they left the venue.",
-          "published": "2026-11-23T07:31:53.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Public safety"
         }
       ]
     },
@@ -621,15 +584,15 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-23T22:16:17.910Z",
-      "fetchedAt": "2026-11-23T22:16:17.910Z",
+      "checkedAt": "2026-11-24T06:13:20.475Z",
+      "fetchedAt": "2026-11-24T06:13:20.475Z",
       "items": [
         {
-          "id": "https://www.rte.ie/news/2026/1123/1600264-weather-warnings/",
-          "title": "Two Yellow rain warnings in place for six counties",
-          "url": "https://www.rte.ie/news/2026/1123/1600264-weather-warnings/",
-          "summary": "Parts of Co Cork, which were hit by flooding over the weekend, are under another Status Yellow rain warning tonight.",
-          "published": "2026-11-23T09:15:19.000Z",
+          "id": "https://www.rte.ie/news/2026/1124/1600388-met-weather-warnings/",
+          "title": "Yellow rain warning in place for three counties",
+          "url": "https://www.rte.ie/news/2026/1124/1600388-met-weather-warnings/",
+          "summary": "A Status Yellow rain warning is in place for counties Cork, Limerick and Waterford until 5am.",
+          "published": "2026-11-24T00:18:04.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Weather & flooding"
@@ -640,6 +603,16 @@
           "url": "https://www.rte.ie/news/munster/2026/1122/1600208-floods-damage-bantry/",
           "summary": "Business owners in Bantry have been left \"waiting and praying\" to see if electrical equipment will work after the Co Cork town was hit by flooding in the early hours of the morning.",
           "published": "2026-11-22T16:08:51.000Z",
+          "source": "rte",
+          "kind": "news",
+          "topic": "Weather & flooding"
+        },
+        {
+          "id": "https://www.rte.ie/news/2026/1123/1600264-weather-warnings/",
+          "title": "Two Yellow rain warnings in place for six counties",
+          "url": "https://www.rte.ie/news/2026/1123/1600264-weather-warnings/",
+          "summary": "Parts of Co Cork, which were hit by flooding over the weekend, are under another Status Yellow rain warning tonight.",
+          "published": "2026-11-23T09:15:19.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Weather & flooding"

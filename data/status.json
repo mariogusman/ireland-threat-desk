@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T06:13:20.475Z",
+  "generatedAt": "2026-11-24T18:02:38.988Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-24T06:13:20.475Z",
-      "fetchedAt": "2026-11-24T06:13:20.475Z",
+      "checkedAt": "2026-11-24T18:02:38.988Z",
+      "fetchedAt": "2026-11-24T18:02:38.988Z",
       "items": []
     },
     "ncsc": {
@@ -20,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-24T06:13:20.475Z",
-      "fetchedAt": "2026-11-24T06:13:20.475Z",
+      "checkedAt": "2026-11-24T18:02:38.988Z",
+      "fetchedAt": "2026-11-24T18:02:38.988Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -532,50 +532,9 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-24T06:13:20.475Z",
-      "fetchedAt": "2026-11-24T06:13:20.475Z",
-      "items": [
-        {
-          "id": "https://www.thejournal.ie/bantry-flooding-update-7234777-Nov2026/",
-          "title": "Bantry 'on guard' for repeat of weekend flooding with new weather warning",
-          "url": "https://www.thejournal.ie/bantry-flooding-update-7234777-Nov2026/",
-          "summary": "Frustration at the OPW has been expressed by residents and business owners.",
-          "published": "2026-11-23T17:00:00.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Weather & flooding"
-        },
-        {
-          "id": "https://www.thejournal.ie/met-eireann-rain-warning-7235092-Nov2026/",
-          "title": "Heavy rain, 'possibly thundery', forecast for six counties today",
-          "url": "https://www.thejournal.ie/met-eireann-rain-warning-7235092-Nov2026/",
-          "summary": "Counties Clare, Galway, Kerry, Cork, Waterford and Mayo will be under weather warnings.",
-          "published": "2026-11-23T13:49:23.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Weather & flooding"
-        },
-        {
-          "id": "https://www.thejournal.ie/readme/parenting-in-ireland-4-7231859-Nov2026/",
-          "title": "My kids are now doomsday preppers, but as a millennial I’m less freaked out - I've seen it all",
-          "url": "https://www.thejournal.ie/readme/parenting-in-ireland-4-7231859-Nov2026/",
-          "summary": "Between emergency booklets, hoax bomb threats and warnings of cyber-attacks, children are becoming increasingly aware of the dangers facing the world.",
-          "published": "2026-11-23T12:38:00.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.thejournal.ie/battery-fire-risk-ireland-7234716-Nov2026/",
-          "title": "Battery fire risk warning amid Christmas tech buying boom",
-          "url": "https://www.thejournal.ie/battery-fire-risk-ireland-7234716-Nov2026/",
-          "summary": "Waste Electrical and Electronic Equipment Ireland said new figures highlight the scale of the recycling challenge.",
-          "published": "2026-11-23T07:42:48.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Public safety"
-        }
-      ]
+      "checkedAt": "2026-11-24T18:02:38.988Z",
+      "fetchedAt": "2026-11-24T18:02:38.988Z",
+      "items": []
     },
     "rte": {
       "id": "rte",
@@ -584,18 +543,28 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-24T06:13:20.475Z",
-      "fetchedAt": "2026-11-24T06:13:20.475Z",
+      "checkedAt": "2026-11-24T18:02:38.988Z",
+      "fetchedAt": "2026-11-24T18:02:38.988Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/2026/1124/1600388-met-weather-warnings/",
-          "title": "Yellow rain warning in place for three counties",
+          "title": "Yellow rain warning for three counties expires",
           "url": "https://www.rte.ie/news/2026/1124/1600388-met-weather-warnings/",
-          "summary": "A Status Yellow rain warning is in place for counties Cork, Limerick and Waterford until 5am.",
+          "summary": "A Status Yellow rain warning, which was in place for counties Cork, Limerick and Waterford, expired at 5am.",
           "published": "2026-11-24T00:18:04.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Weather & flooding"
+        },
+        {
+          "id": "https://www.rte.ie/news/dublin/2026/1124/1600392-creche-data-breach/",
+          "title": "Possible data breach at Dublin crèche software provider",
+          "url": "https://www.rte.ie/news/dublin/2026/1124/1600392-creche-data-breach/",
+          "summary": "A software provider for crèches and early education has said children's names, dates of birth and contact details of parents may have been exposed in what it called a \"security incident\".",
+          "published": "2026-11-24T06:53:27.000Z",
+          "source": "rte",
+          "kind": "news",
+          "topic": "Cyber security"
         },
         {
           "id": "https://www.rte.ie/news/munster/2026/1122/1600208-floods-damage-bantry/",
@@ -603,16 +572,6 @@
           "url": "https://www.rte.ie/news/munster/2026/1122/1600208-floods-damage-bantry/",
           "summary": "Business owners in Bantry have been left \"waiting and praying\" to see if electrical equipment will work after the Co Cork town was hit by flooding in the early hours of the morning.",
           "published": "2026-11-22T16:08:51.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Weather & flooding"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1123/1600264-weather-warnings/",
-          "title": "Two Yellow rain warnings in place for six counties",
-          "url": "https://www.rte.ie/news/2026/1123/1600264-weather-warnings/",
-          "summary": "Parts of Co Cork, which were hit by flooding over the weekend, are under another Status Yellow rain warning tonight.",
-          "published": "2026-11-23T09:15:19.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Weather & flooding"

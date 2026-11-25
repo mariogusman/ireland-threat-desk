@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T02:20:35.670Z",
+  "generatedAt": "2026-11-25T11:32:46.814Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-25T02:20:35.670Z",
-      "fetchedAt": "2026-11-25T02:20:35.670Z",
+      "checkedAt": "2026-11-25T11:32:46.814Z",
+      "fetchedAt": "2026-11-25T11:32:46.814Z",
       "items": []
     },
     "ncsc": {
@@ -20,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-25T02:20:35.670Z",
-      "fetchedAt": "2026-11-25T02:20:35.670Z",
+      "checkedAt": "2026-11-25T11:32:46.814Z",
+      "fetchedAt": "2026-11-25T11:32:46.814Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -532,9 +532,20 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-25T02:20:35.670Z",
-      "fetchedAt": "2026-11-25T02:20:35.670Z",
-      "items": []
+      "checkedAt": "2026-11-25T11:32:46.814Z",
+      "fetchedAt": "2026-11-25T11:32:46.814Z",
+      "items": [
+        {
+          "id": "https://www.thejournal.ie/tara-street-train-suspended-incident-dublin-city-7237298-Nov2026/",
+          "title": "Trains suspended through Dublin city as emergency services attend incident near Tara Street",
+          "url": "https://www.thejournal.ie/tara-street-train-suspended-incident-dublin-city-7237298-Nov2026/",
+          "summary": "Irish Rail said services are suspended “until further notice”.",
+          "published": "2026-11-25T11:13:03.000Z",
+          "source": "journal",
+          "kind": "news",
+          "topic": "Travel disruption"
+        }
+      ]
     },
     "rte": {
       "id": "rte",
@@ -543,9 +554,19 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-25T02:20:35.670Z",
-      "fetchedAt": "2026-11-25T02:20:35.670Z",
+      "checkedAt": "2026-11-25T11:32:46.814Z",
+      "fetchedAt": "2026-11-25T11:32:46.814Z",
       "items": [
+        {
+          "id": "https://www.rte.ie/news/2026/1125/1600579-limerick-recyling-fire/",
+          "title": "Crews tackle fire at Limerick metal recycling facility",
+          "url": "https://www.rte.ie/news/2026/1125/1600579-limerick-recyling-fire/",
+          "summary": "Fire crews are continuing to tackle an industrial fire at a metal recycling facility in Limerick city.",
+          "published": "2026-11-25T09:29:05.000Z",
+          "source": "rte",
+          "kind": "news",
+          "topic": "Public safety"
+        },
         {
           "id": "https://www.rte.ie/news/2026/1124/1600388-met-weather-warnings/",
           "title": "Yellow rain warning for three counties expires",

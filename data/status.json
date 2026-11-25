@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T11:32:46.814Z",
+  "generatedAt": "2026-11-25T20:40:36.763Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-25T11:32:46.814Z",
-      "fetchedAt": "2026-11-25T11:32:46.814Z",
+      "checkedAt": "2026-11-25T20:40:36.763Z",
+      "fetchedAt": "2026-11-25T20:40:36.763Z",
       "items": []
     },
     "ncsc": {
@@ -20,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-25T11:32:46.814Z",
-      "fetchedAt": "2026-11-25T11:32:46.814Z",
+      "checkedAt": "2026-11-25T20:40:36.763Z",
+      "fetchedAt": "2026-11-25T20:40:36.763Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -532,15 +532,15 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-25T11:32:46.814Z",
-      "fetchedAt": "2026-11-25T11:32:46.814Z",
+      "checkedAt": "2026-11-25T20:40:36.763Z",
+      "fetchedAt": "2026-11-25T20:40:36.763Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/tara-street-train-suspended-incident-dublin-city-7237298-Nov2026/",
-          "title": "Trains suspended through Dublin city as emergency services attend incident near Tara Street",
+          "title": "Train services resuming in Dublin city after emergency services attend incident near Tara Street",
           "url": "https://www.thejournal.ie/tara-street-train-suspended-incident-dublin-city-7237298-Nov2026/",
-          "summary": "Irish Rail said services are suspended “until further notice”.",
-          "published": "2026-11-25T11:13:03.000Z",
+          "summary": "Irish Rail said services are resuming with delays and alterations expected.",
+          "published": "2026-11-25T13:13:00.000Z",
           "source": "journal",
           "kind": "news",
           "topic": "Travel disruption"
@@ -554,38 +554,18 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-25T11:32:46.814Z",
-      "fetchedAt": "2026-11-25T11:32:46.814Z",
+      "checkedAt": "2026-11-25T20:40:36.763Z",
+      "fetchedAt": "2026-11-25T20:40:36.763Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/2026/1125/1600579-limerick-recyling-fire/",
-          "title": "Crews tackle fire at Limerick metal recycling facility",
+          "title": "Fire extinguished at Limerick metal recycling facility",
           "url": "https://www.rte.ie/news/2026/1125/1600579-limerick-recyling-fire/",
-          "summary": "Fire crews are continuing to tackle an industrial fire at a metal recycling facility in Limerick city.",
+          "summary": "Fire crews have ceased operations at a metal recycling facility in Limerick City after bringing an industrial fire at the site under control.",
           "published": "2026-11-25T09:29:05.000Z",
           "source": "rte",
           "kind": "news",
           "topic": "Public safety"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1124/1600388-met-weather-warnings/",
-          "title": "Yellow rain warning for three counties expires",
-          "url": "https://www.rte.ie/news/2026/1124/1600388-met-weather-warnings/",
-          "summary": "A Status Yellow rain warning, which was in place for counties Cork, Limerick and Waterford, expired at 5am.",
-          "published": "2026-11-24T00:18:04.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Weather & flooding"
-        },
-        {
-          "id": "https://www.rte.ie/news/dublin/2026/1124/1600392-creche-data-breach/",
-          "title": "Possible data breach at Dublin crèche software provider",
-          "url": "https://www.rte.ie/news/dublin/2026/1124/1600392-creche-data-breach/",
-          "summary": "A software provider for crèches and early education has said children's names, dates of birth and contact details of parents may have been exposed in what it called a \"security incident\".",
-          "published": "2026-11-24T06:53:27.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Cyber security"
         }
       ]
     }

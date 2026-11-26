@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T20:40:36.763Z",
+  "generatedAt": "2026-11-26T03:12:07.414Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,9 +9,23 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-25T20:40:36.763Z",
-      "fetchedAt": "2026-11-25T20:40:36.763Z",
-      "items": []
+      "checkedAt": "2026-11-26T03:12:07.414Z",
+      "fetchedAt": "2026-11-26T03:12:07.414Z",
+      "items": [
+        {
+          "id": "2.49.0.1.372.0.261125205208.f325cbbc-b8c7-48ab-ab0f-393cf1356afc",
+          "title": "Status Yellow - Fog warning for Connacht, Cavan, Clare, Kildare, Kilkenny, Laois, Limerick, Longford, Meath, Monaghan, Offaly, Tipperary, Westmeath",
+          "description": "Areas of dense fog. Impacts: Poor visibility Hazardous travelling conditions",
+          "level": "yellow",
+          "types": [
+            "Fog"
+          ],
+          "onset": "2026-11-25T21:00:00+00:00",
+          "expiry": "2026-11-26T08:00:00+00:00",
+          "issued": "2026-11-25T20:52:08.540648+00:00",
+          "url": "https://www.met.ie/warnings-today.html"
+        }
+      ]
     },
     "ncsc": {
       "id": "ncsc",
@@ -20,8 +34,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-25T20:40:36.763Z",
-      "fetchedAt": "2026-11-25T20:40:36.763Z",
+      "checkedAt": "2026-11-26T03:12:07.414Z",
+      "fetchedAt": "2026-11-26T03:12:07.414Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -532,8 +546,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-25T20:40:36.763Z",
-      "fetchedAt": "2026-11-25T20:40:36.763Z",
+      "checkedAt": "2026-11-26T03:12:07.414Z",
+      "fetchedAt": "2026-11-26T03:12:07.414Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/tara-street-train-suspended-incident-dublin-city-7237298-Nov2026/",
@@ -554,9 +568,19 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-25T20:40:36.763Z",
-      "fetchedAt": "2026-11-25T20:40:36.763Z",
+      "checkedAt": "2026-11-26T03:12:07.414Z",
+      "fetchedAt": "2026-11-26T03:12:07.414Z",
       "items": [
+        {
+          "id": "https://www.rte.ie/news/ireland/2026/1126/1600708-fog-weather-ireland/",
+          "title": "Status Yellow fog warning in place for 13 counties",
+          "url": "https://www.rte.ie/news/ireland/2026/1126/1600708-fog-weather-ireland/",
+          "summary": "A Status Yellow fog warning is in place for 13 counties across the country overnight.",
+          "published": "2026-11-26T01:52:06.000Z",
+          "source": "rte",
+          "kind": "news",
+          "topic": "Weather & flooding"
+        },
         {
           "id": "https://www.rte.ie/news/2026/1125/1600579-limerick-recyling-fire/",
           "title": "Fire extinguished at Limerick metal recycling facility",

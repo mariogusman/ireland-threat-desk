@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T14:09:26.747Z",
+  "generatedAt": "2026-11-27T22:50:17.407Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-27T14:09:26.747Z",
-      "fetchedAt": "2026-11-27T14:09:26.747Z",
+      "checkedAt": "2026-11-27T22:50:17.407Z",
+      "fetchedAt": "2026-11-27T22:50:17.407Z",
       "items": []
     },
     "ncsc": {
@@ -20,9 +20,19 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-27T14:09:26.747Z",
-      "fetchedAt": "2026-11-27T14:09:26.747Z",
+      "checkedAt": "2026-11-27T22:50:17.407Z",
+      "fetchedAt": "2026-11-27T22:50:17.407Z",
       "items": [
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2611270261_VMware_Multiple_Vulnerabilities.pdf",
+          "title": "Multiple Critical Vulnerabilities in VMware",
+          "url": "https://www.ncsc.gov.ie/pdfs/2611270261_VMware_Multiple_Vulnerabilities.pdf",
+          "summary": "",
+          "published": "2026-11-27T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber",
+          "topic": "Cyber security"
+        },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611270243_CVE-2026-103406.pdf",
           "title": "Vulnerability in Juniper Networks: Session Smart Conductor (CVE-2026-103406)",
@@ -512,16 +522,6 @@
           "source": "ncsc",
           "kind": "cyber",
           "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.ncsc.gov.ie/pdfs/2607080262_CVE-2026-40138_CVE-2026-40139.pdf",
-          "title": "Critical Vulnerabilities exist in BeyondTrust Remote Support and Privileged Remote Access",
-          "url": "https://www.ncsc.gov.ie/pdfs/2607080262_CVE-2026-40138_CVE-2026-40139.pdf",
-          "summary": "",
-          "published": "2026-07-08T00:00:00.000Z",
-          "source": "ncsc",
-          "kind": "cyber",
-          "topic": "Cyber security"
         }
       ]
     },
@@ -532,8 +532,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-27T14:09:26.747Z",
-      "fetchedAt": "2026-11-27T14:09:26.747Z",
+      "checkedAt": "2026-11-27T22:50:17.407Z",
+      "fetchedAt": "2026-11-27T22:50:17.407Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/us-thanksgiving-storm-7239695-Nov2026/",
@@ -544,16 +544,6 @@
           "source": "journal",
           "kind": "news",
           "topic": "Travel disruption"
-        },
-        {
-          "id": "https://www.thejournal.ie/halfords-cyber-attack-breach-7238790-Nov2026/",
-          "title": "Halfords hit by cyberattack, but states no customer data accessed",
-          "url": "https://www.thejournal.ie/halfords-cyber-attack-breach-7238790-Nov2026/",
-          "summary": "The British company has upwards of 30 stores in Ireland selling bicycles and cycling equipment as well as providing repairs.",
-          "published": "2026-11-26T15:42:08.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Cyber security"
         }
       ]
     },
@@ -564,30 +554,9 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-27T14:09:26.747Z",
-      "fetchedAt": "2026-11-27T14:09:26.747Z",
-      "items": [
-        {
-          "id": "https://www.rte.ie/news/ireland/2026/1126/1600708-fog-weather-ireland/",
-          "title": "Status Yellow fog warning for 17 counties expires",
-          "url": "https://www.rte.ie/news/ireland/2026/1126/1600708-fog-weather-ireland/",
-          "summary": "A Status Yellow fog warning for 17 counties across the country has ended.",
-          "published": "2026-11-26T01:52:06.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Weather & flooding"
-        },
-        {
-          "id": "https://www.rte.ie/news/2026/1125/1600579-limerick-recyling-fire/",
-          "title": "Fire extinguished at Limerick metal recycling facility",
-          "url": "https://www.rte.ie/news/2026/1125/1600579-limerick-recyling-fire/",
-          "summary": "Fire crews have ceased operations at a metal recycling facility in Limerick City after bringing an industrial fire at the site under control.",
-          "published": "2026-11-25T09:29:05.000Z",
-          "source": "rte",
-          "kind": "news",
-          "topic": "Public safety"
-        }
-      ]
+      "checkedAt": "2026-11-27T22:50:17.407Z",
+      "fetchedAt": "2026-11-27T22:50:17.407Z",
+      "items": []
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T22:15:57.922Z",
+  "generatedAt": "2026-11-27T04:24:01.014Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-26T22:15:57.922Z",
-      "fetchedAt": "2026-11-26T22:15:57.922Z",
+      "checkedAt": "2026-11-27T04:24:01.014Z",
+      "fetchedAt": "2026-11-27T04:24:01.014Z",
       "items": []
     },
     "ncsc": {
@@ -20,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-26T22:15:57.922Z",
-      "fetchedAt": "2026-11-26T22:15:57.922Z",
+      "checkedAt": "2026-11-27T04:24:01.014Z",
+      "fetchedAt": "2026-11-27T04:24:01.014Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
@@ -532,8 +532,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-26T22:15:57.922Z",
-      "fetchedAt": "2026-11-26T22:15:57.922Z",
+      "checkedAt": "2026-11-27T04:24:01.014Z",
+      "fetchedAt": "2026-11-27T04:24:01.014Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/halfords-cyber-attack-breach-7238790-Nov2026/",
@@ -554,8 +554,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-26T22:15:57.922Z",
-      "fetchedAt": "2026-11-26T22:15:57.922Z",
+      "checkedAt": "2026-11-27T04:24:01.014Z",
+      "fetchedAt": "2026-11-27T04:24:01.014Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/ireland/2026/1126/1600708-fog-weather-ireland/",

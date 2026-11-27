@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T04:24:01.014Z",
+  "generatedAt": "2026-11-27T14:09:26.747Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-27T04:24:01.014Z",
-      "fetchedAt": "2026-11-27T04:24:01.014Z",
+      "checkedAt": "2026-11-27T14:09:26.747Z",
+      "fetchedAt": "2026-11-27T14:09:26.747Z",
       "items": []
     },
     "ncsc": {
@@ -20,9 +20,29 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-27T04:24:01.014Z",
-      "fetchedAt": "2026-11-27T04:24:01.014Z",
+      "checkedAt": "2026-11-27T14:09:26.747Z",
+      "fetchedAt": "2026-11-27T14:09:26.747Z",
       "items": [
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2611270243_CVE-2026-103406.pdf",
+          "title": "Vulnerability in Juniper Networks: Session Smart Conductor (CVE-2026-103406)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2611270243_CVE-2026-103406.pdf",
+          "summary": "",
+          "published": "2026-11-27T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber",
+          "topic": "Cyber security"
+        },
+        {
+          "id": "https://www.ncsc.gov.ie/pdfs/2611270228_CVE-2026-119977.pdf",
+          "title": "Vulnerabilities in WordPress Foundation (CVE-2026-119977)",
+          "url": "https://www.ncsc.gov.ie/pdfs/2611270228_CVE-2026-119977.pdf",
+          "summary": "",
+          "published": "2026-11-27T00:00:00.000Z",
+          "source": "ncsc",
+          "kind": "cyber",
+          "topic": "Cyber security"
+        },
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611200238_Multiple_Critical_Vulnerabilities_PHP.pdf",
           "title": "Multiple Critical Vulnerabilities in PHP",
@@ -502,26 +522,6 @@
           "source": "ncsc",
           "kind": "cyber",
           "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.ncsc.gov.ie/pdfs/2607070212_CVE-2026-48907_CVE-2026-48908.pdf",
-          "title": "Critical Vulnerabilities in Joomla Content Editor (JCE) and SP Page Builder Extension",
-          "url": "https://www.ncsc.gov.ie/pdfs/2607070212_CVE-2026-48907_CVE-2026-48908.pdf",
-          "summary": "",
-          "published": "2026-07-07T00:00:00.000Z",
-          "source": "ncsc",
-          "kind": "cyber",
-          "topic": "Cyber security"
-        },
-        {
-          "id": "https://www.ncsc.gov.ie/pdfs/2606180236_CVE-2026-20127.pdf",
-          "title": "Critical Vulnerability in Cisco Catalyst SD-WAN Manager",
-          "url": "https://www.ncsc.gov.ie/pdfs/2606180236_CVE-2026-20127.pdf",
-          "summary": "",
-          "published": "2026-06-19T00:00:00.000Z",
-          "source": "ncsc",
-          "kind": "cyber",
-          "topic": "Cyber security"
         }
       ]
     },
@@ -532,9 +532,19 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-27T04:24:01.014Z",
-      "fetchedAt": "2026-11-27T04:24:01.014Z",
+      "checkedAt": "2026-11-27T14:09:26.747Z",
+      "fetchedAt": "2026-11-27T14:09:26.747Z",
       "items": [
+        {
+          "id": "https://www.thejournal.ie/us-thanksgiving-storm-7239695-Nov2026/",
+          "title": "Flights cancelled and hundreds of thousands without power as major storm batters the US",
+          "url": "https://www.thejournal.ie/us-thanksgiving-storm-7239695-Nov2026/",
+          "summary": "New York’s famed Macy’s parade was postponed for the first time in its 100-year history.",
+          "published": "2026-11-27T07:57:34.000Z",
+          "source": "journal",
+          "kind": "news",
+          "topic": "Travel disruption"
+        },
         {
           "id": "https://www.thejournal.ie/halfords-cyber-attack-breach-7238790-Nov2026/",
           "title": "Halfords hit by cyberattack, but states no customer data accessed",
@@ -554,8 +564,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-27T04:24:01.014Z",
-      "fetchedAt": "2026-11-27T04:24:01.014Z",
+      "checkedAt": "2026-11-27T14:09:26.747Z",
+      "fetchedAt": "2026-11-27T14:09:26.747Z",
       "items": [
         {
           "id": "https://www.rte.ie/news/ireland/2026/1126/1600708-fog-weather-ireland/",

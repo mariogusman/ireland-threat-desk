@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T22:50:17.407Z",
+  "generatedAt": "2026-11-28T04:42:00.981Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,8 +9,8 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-27T22:50:17.407Z",
-      "fetchedAt": "2026-11-27T22:50:17.407Z",
+      "checkedAt": "2026-11-28T04:42:00.981Z",
+      "fetchedAt": "2026-11-28T04:42:00.981Z",
       "items": []
     },
     "ncsc": {
@@ -20,8 +20,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-27T22:50:17.407Z",
-      "fetchedAt": "2026-11-27T22:50:17.407Z",
+      "checkedAt": "2026-11-28T04:42:00.981Z",
+      "fetchedAt": "2026-11-28T04:42:00.981Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611270261_VMware_Multiple_Vulnerabilities.pdf",
@@ -532,8 +532,8 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-27T22:50:17.407Z",
-      "fetchedAt": "2026-11-27T22:50:17.407Z",
+      "checkedAt": "2026-11-28T04:42:00.981Z",
+      "fetchedAt": "2026-11-28T04:42:00.981Z",
       "items": [
         {
           "id": "https://www.thejournal.ie/us-thanksgiving-storm-7239695-Nov2026/",
@@ -554,8 +554,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-27T22:50:17.407Z",
-      "fetchedAt": "2026-11-27T22:50:17.407Z",
+      "checkedAt": "2026-11-28T04:42:00.981Z",
+      "fetchedAt": "2026-11-28T04:42:00.981Z",
       "items": []
     }
   }

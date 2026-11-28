@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-28T04:42:00.981Z",
+  "generatedAt": "2026-11-28T13:40:36.881Z",
   "sources": {
     "met": {
       "id": "met",
@@ -9,9 +9,23 @@
       "url": "https://www.met.ie/Open_Data/json/warning_IRELAND.json",
       "home": "https://www.met.ie/warnings-today.html",
       "ok": true,
-      "checkedAt": "2026-11-28T04:42:00.981Z",
-      "fetchedAt": "2026-11-28T04:42:00.981Z",
-      "items": []
+      "checkedAt": "2026-11-28T13:40:36.881Z",
+      "fetchedAt": "2026-11-28T13:40:36.881Z",
+      "items": [
+        {
+          "id": "2.49.0.1.372.0.261128090328.e334c429-9482-4432-94cc-dfdacd837925",
+          "title": "Status Yellow - Rain warning for Galway, Kerry, Mayo",
+          "description": "Persistent rain, turning heavy at times. Be aware of potential impacts: Difficult travelling conditions Localised flooding Poor visibility",
+          "level": "yellow",
+          "types": [
+            "Rain"
+          ],
+          "onset": "2026-11-30T02:00:00+00:00",
+          "expiry": "2026-11-30T14:00:00+00:00",
+          "issued": "2026-11-28T09:03:28.238286+00:00",
+          "url": "https://www.met.ie/warnings-today.html"
+        }
+      ]
     },
     "ncsc": {
       "id": "ncsc",
@@ -20,8 +34,8 @@
       "url": "https://www.ncsc.gov.ie/news/alerts.rss",
       "home": "https://www.ncsc.gov.ie/news/",
       "ok": true,
-      "checkedAt": "2026-11-28T04:42:00.981Z",
-      "fetchedAt": "2026-11-28T04:42:00.981Z",
+      "checkedAt": "2026-11-28T13:40:36.881Z",
+      "fetchedAt": "2026-11-28T13:40:36.881Z",
       "items": [
         {
           "id": "https://www.ncsc.gov.ie/pdfs/2611270261_VMware_Multiple_Vulnerabilities.pdf",
@@ -532,20 +546,9 @@
       "url": "https://www.thejournal.ie/feed/",
       "home": "https://www.thejournal.ie/",
       "ok": true,
-      "checkedAt": "2026-11-28T04:42:00.981Z",
-      "fetchedAt": "2026-11-28T04:42:00.981Z",
-      "items": [
-        {
-          "id": "https://www.thejournal.ie/us-thanksgiving-storm-7239695-Nov2026/",
-          "title": "Flights cancelled and hundreds of thousands without power as major storm batters the US",
-          "url": "https://www.thejournal.ie/us-thanksgiving-storm-7239695-Nov2026/",
-          "summary": "New York’s famed Macy’s parade was postponed for the first time in its 100-year history.",
-          "published": "2026-11-27T07:57:34.000Z",
-          "source": "journal",
-          "kind": "news",
-          "topic": "Travel disruption"
-        }
-      ]
+      "checkedAt": "2026-11-28T13:40:36.881Z",
+      "fetchedAt": "2026-11-28T13:40:36.881Z",
+      "items": []
     },
     "rte": {
       "id": "rte",
@@ -554,8 +557,8 @@
       "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/",
       "home": "https://www.rte.ie/news/ireland/",
       "ok": true,
-      "checkedAt": "2026-11-28T04:42:00.981Z",
-      "fetchedAt": "2026-11-28T04:42:00.981Z",
+      "checkedAt": "2026-11-28T13:40:36.881Z",
+      "fetchedAt": "2026-11-28T13:40:36.881Z",
       "items": []
     }
   }
